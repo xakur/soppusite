@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /posts/life-tips/
+permalink: /_posts/life-tips/
 title: Life Tips
 ---
 
