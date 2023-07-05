@@ -20,11 +20,12 @@ author: Slice
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+  Twitter: "/posts/life-tips/"
 
 ################
 # --- Logo --- #
