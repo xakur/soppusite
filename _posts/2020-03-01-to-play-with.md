@@ -1,7 +1,6 @@
 ---
 layout: post
 title: To play with post
-subtitle: Each post also has a subtitle
 Categories: My-Life
 tags: [test]
 ---
