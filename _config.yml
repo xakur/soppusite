@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Life Tips: "/category/life-tips.md"
+  Life Tips: "life-tips"
   Twitter: "https://twitter.com"
 
 ################
