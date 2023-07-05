@@ -1,14 +1,12 @@
 ---
 ---
 
+Category: [PHP](https://xakur.github.io/posts/php/)
 ![random post](https://images.pexels.com/photos/1000366/pexels-photo-1000366.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-# Title: Post Without Parameters
-Date: 2 March 2020
-### Category: [PHP](https://xakur.github.io/posts/php/)
 
 
+
+hi lalala testing to see if this works better etc.
 **Here is some bold text**
 
 ## Here is a secondary heading
