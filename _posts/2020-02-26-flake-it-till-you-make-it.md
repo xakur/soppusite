@@ -3,7 +3,7 @@ layout: post
 title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: "https://images.pexels.com/photos/6382660/pexels-photo-6382660.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 share-img: /assets/img/path.jpg
 categories: PHP
 tags: PHP
