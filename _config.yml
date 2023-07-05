@@ -25,7 +25,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Life Tips: "life-tips"
-  Twitter: "https://twitter.com"
+  Twitter: "_pages/php.md"
 
 ################
 # --- Logo --- #
