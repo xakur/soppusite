@@ -5,7 +5,7 @@ title: Life Tips
 ---
 
 <div class="posts">
-  {% for post in site.categories['PHP'] %}
+  {% for post in site.categories['Life Tips'] %}
     <article class="post">
       <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
