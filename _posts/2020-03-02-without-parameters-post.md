@@ -4,7 +4,7 @@ categories: php
 tags: php
 ---
 
-![random post](https://images.pexels.com/photos/1000366/pexels-photo-1000366.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+<div>![random post](https://images.pexels.com/photos/1000366/pexels-photo-1000366.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)</div>
 
 
 
