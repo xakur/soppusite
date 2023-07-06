@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /posts/php/
-title: The Deep | Looking Beyond
+title: The Deep - Looking Beyond
 subtitle: Looking beyond our circumstances to gain more than what is presented to us. This page features valuable lessons and knowledge picked up from random events in life. A bad thing may not be a bad thing after all. Reflect from the deep and become a wiser you.
 ---
 
