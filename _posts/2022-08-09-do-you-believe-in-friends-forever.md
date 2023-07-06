@@ -5,6 +5,7 @@ subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: "https://images.pexels.com/photos/5753502/pexels-photo-5753502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 thumbnail-img: "https://images.pexels.com/photos/5753502/pexels-photo-5753502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 categories: php
+readtime: true
 ---
 
 I have stopped believing in “friends forever” since I was 9. Not sure which sounds more absurd – the concept of “friends forever”? Or not buying this concept anymore at 9 years old. Most kids around this age areprobably still unclear of the concept that people come and go eventually.
