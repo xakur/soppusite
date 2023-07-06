@@ -1,4 +1,5 @@
 ---
+readtime: true
 ---
 _Category: [PHP](https://xakur.github.io/posts/php/)_
 
