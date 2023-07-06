@@ -4,7 +4,7 @@ title: Do you believe in “Friends Forever”?
 thumbnail-img: "https://images.pexels.com/photos/5753502/pexels-photo-5753502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 categories: php
 readtime: true
-excerpt: I stopped believing in “friends forever” when I was 9. Not sure which sounds more absurd – the concept of “friends forever”? Or not buying this concept anymore at 9 years old. Most kids around this age are probably still unclear of the concept that people come and go eventually...
+excerpt: I stopped believing in “friends forever” when I was 9. Not sure which sounds more absurd – the concept of “friends forever”? Or not buying this concept anymore at 9 years old. Most kids around this age are probably still unclear of the concept that people come and go eventually.
 ---
 
 ![friends together](/assets/img/13534860.jpg)
