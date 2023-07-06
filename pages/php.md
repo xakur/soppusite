@@ -4,7 +4,9 @@ permalink: /posts/php/
 title: The Deep
 ---
 
-<p style="text-align: center;font-size: 22px;font-family: Gadugi;">Looking beyond our circumstances to gain more than what is presented to us. This page features valuable lessons and knowledge picked up from random events in life. A bad thing may not be a bad thing after all. Reflect from the deep and become a wiser you.</p>
+<p style="text-align: center;font-size: 20px;font-family: Gadugi;">Looking beyond our circumstances to gain more than what is presented to us. This page features valuable lessons and knowledge picked up from random events in life. A bad thing may not be a bad thing after all. Reflect from the deep and become a wiser you.</p>
+
+
 
 
 <div class="posts">
