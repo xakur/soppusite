@@ -1,6 +1,5 @@
 ---
 readtime: true
-tags: books, test
 ---
 _Category: [PHP](https://xakur.github.io/posts/php/)_
 
