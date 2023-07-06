@@ -7,6 +7,8 @@ readtime: true
 excerpt_separator: <!--more-->
 ---
 
+![friends together](/assets/img/13534860.jpg)
+
 I stopped believing in “friends forever” when I was 9. Not sure which sounds more absurd – the concept of “friends forever”? Or not buying this concept anymore at 9 years old. Most kids around this age are probably still unclear of the concept that people come and go eventually
 <!--more-->
 
