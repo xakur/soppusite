@@ -1,7 +1,7 @@
 ---
 readtime: true
-categories: PHP
-tags: PHP
+categories: php
+tags: php
 ---
 _Category: [PHP](https://xakur.github.io/posts/php/)_
 
