@@ -47,7 +47,7 @@ layout: base
         <div class="blog-tags">
           <span>Category:</span>
           {% for tag in page.tags %}
-            <a href="{{ '/posts' | relative_url }}{{- tag -}}">{{- tag -}}</a>
+            <a href="{{ '/posts' | relative_url }}/{{- tag -}}">{{- tag -}}</a>
           {% endfor %}
         </div>
       {% endif %}
