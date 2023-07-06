@@ -2,7 +2,7 @@
 layout: post
 title: Do you believe in “Friends Forever”?
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: "https://images.pexels.com/photos/5753502/pexels-photo-5753502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+cover-img: "https://images.pexels.com/photos/3219951/pexels-photo-3219951.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 thumbnail-img: "https://images.pexels.com/photos/5753502/pexels-photo-5753502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 categories: php
 readtime: true
