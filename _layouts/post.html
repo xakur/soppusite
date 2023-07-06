@@ -52,9 +52,9 @@ layout: base
         </div>
       {% endif %}
 
-      {% if page.before-content %}
-        <div class="before-content">
-          {% for file in page.before-content %}
+      {% if page.after-content %}
+        <div class="after-content">
+          {% for file in page.after-content %}
             {% include {{ file }} %}
           {% endfor %}
         </div>
