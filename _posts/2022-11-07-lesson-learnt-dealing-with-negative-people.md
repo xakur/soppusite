@@ -17,26 +17,44 @@ There is always more than one side to everything that exists. We all have our up
 
 What if your loved one has become negative? Are you going to avoid them? Are you going to leave them in the lurch and stop interacting with them just because of their negative energy?
 
+Call me Alien? I am not one to avoid negative people immediately. Instead, I am rather interested in getting to know the cause of the problem through their life stories.
+
 {: .box-beige}
 **NOTE:** By negative people here, I mean people who exude negative vibes through frequently complaining and ranting about their life. Not referring to those with ill-intentions or to bring you down (e.g. energy vampire). 
 
-Call me Alien? I am not one to avoid negative people immediately. Instead, I am rather interested in getting to know the cause of the problem through their life stories.
+Each of us define ‘negative’ differently. People who have had good lives tend to have a lower threshold for negativity. Regardless, negative feelings do not appear for no apparent reason. Something must have happened. We probably need some time and/or techniques to process those feelings to regain our balance once again. 
 
-Back then, I thought to myself… How was I going to keep in close touch with the good friends I had made? I’d certainly miss them… In the beginning of my new class in the new year, I missed my usual peeps. As time went by, the significance of them faded as I gradually got to know and befriended people in my new class.
+It is totally okay to be in a negative state.
 
-Finding new friends in a new class may seem intimidating to some (especially if you are shy) at first, but ultimately, you are bound to meet new people that you can click well with. This continues on even after leaving school. True friends enrich the lives of one another.
+Anyone who has been there will certainly understand, and this is why I chose to be around this particular friend, who was constantly ranting about the downfalls of her life.
 
-![school books](https://images.pexels.com/photos/1370296/pexels-photo-1370296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+## Introduction
 
-Till this day, I vividly remember that day. After we were informed of our new classes, the cohort gathered at the school hall and we had to “reshuffle” ourselves to join our soon-to-be new classes and head to our new classroom. It was sort of like a trial. (It’s funny to think back about it now.)
+I met this friend online. We were able to hit it off really well in the beginning and we gradually became good friends.
 
-As it was happening, I started thinking about the future… “This is only temporary. We are gonna be streamed and separated again in the next two years. How am I gonna maintain our friendships and keep close contactafter that?” Upon wondering about these questions, I realized that friends are not forever. I thought deeper about it… “After we graduate… or when I grow up and start working, we will all be going to different places. As much as I enjoy my current relationships with my peers, I need to know that such closeness will always be temporary. We won’t be as close as how we are in the future. Although true friends will certainly stay, no one can guarantee that it will be forever.” I concluded to myself that I should just live in the present and cherish the existing ties I have at any one point.
+After getting to know each other, we started talking about our lives and she shared about the events that happened in her life over the last few years. I shall not go into detail, but in short – she lost her job, her house and her partner. These events happened back to back.
 
-At that moment of epiphany, I thought to myself how naïve the term “friends forever” is. However, as I have grown older and witnessed more things in life, I also realized that it is not impossible to remain friends forever. However, how much does it take to have a friend forever?
+I felt really sorry for what she had gone through and was thankful that she opened up to me. It certainly takes a great amount of trust to open up to someone (if the sufferings are genuine).
 
-I still do not have an answer.
+![woman on video call](https://images.pexels.com/photos/4049991/pexels-photo-4049991.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-I’ve certainly changed so much since decades ago. Things happened. Perspectives changed. We grow. It’s only natural.
+We hung out pretty often through voice calls. Time and again, she would rant about her past and grieve over what she had lost. She is not receiving adequate support from her family and is still having a tough time trying to regain her life. It made me sad to hear about it.
+
+I very well understand how it feels to be at the lowest point in life – feeling helpless and hopeless. I did not want to back off and wanted to provide a listening ear.
+
+As time went by however, the frequent rants had accumulated into a negative energy inside of me. It caused me to be moody, thinking negatively about things and even feeling hopeless at times, just by recalling our conversations at random times of the day.
+I had not been a very positive person in my whole life. It took me years to understand that it is totally okay to feel what I felt, and to take time to let go of the negative emotions and past. I am still working on it everyday, to become a happier and better version of myself.
+
+Unfortunately, the negativity I was receiving from my friend gradually drained my positive energy. At one point, I became irritable over little things and started feeling angry about my past (the issues that I already worked on and got over). I knew that something was amiss in me and I needed to do something about it.
+
+{: .box-blue}
+**Takeaways of this Article:**
+
+* Be prepared for some changes that may occur to you when you willingly decide to hang out with a friend who is going through a tough time, and is inevitably in a bad mental state
+* Negativity may seep into you subconsciously and affect you later on, if you are not strong enough to support it
+* **Take good care of yourself first before helping others**
+* Ensure that you are mentally strong first before giving too much of yourself to help a negative person
+* Ways to deal with the situation
 
 I have always valued genuine friendships. I generally only consider a few people as my friends despite having a bunch of well-established relationships with my acquaintances. This is me and how I function in this world. Everyone is different.
 
