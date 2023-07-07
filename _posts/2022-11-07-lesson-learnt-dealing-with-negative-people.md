@@ -17,7 +17,8 @@ There is always more than one side to everything that exists. We all have our up
 
 What if your loved one has become negative? Are you going to avoid them? Are you going to leave them in the lurch and stop interacting with them just because of their negative energy?
 
-{: .box-beige} **NOTE:** By negative people here, I mean people who exude negative vibes through frequently complaining and ranting about their life. Not referring to those with ill-intentions or to bring you down (e.g. energy vampire). 
+{: .box-beige}
+**NOTE:** By negative people here, I mean people who exude negative vibes through frequently complaining and ranting about their life. Not referring to those with ill-intentions or to bring you down (e.g. energy vampire). 
 
 Call me Alien? I am not one to avoid negative people immediately. Instead, I am rather interested in getting to know the cause of the problem through their life stories.
 
