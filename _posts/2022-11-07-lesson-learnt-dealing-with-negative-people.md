@@ -11,13 +11,17 @@ excerpt: Negativity lurks around us - it is perfectly normal. We face troubles a
 
 ![woman worrying](/assets/img/woman-worrying-and-thinking.png)
 
-I stopped believing in “friends forever” when I was 9. Not sure which sounds more absurd – the concept of “friends forever”? Or not buying this concept anymore at 9 years old. Most kids around this age are probably still unclear of the concept that people come and go eventually.
+Negativity lurks around us - it is perfectly normal. We face troubles and have our fears. Not everyone is able to upkeep a positive spirit all the time, and it is understandable. We are only human. Dealing with negative people does not have to be a detrimental experience.
 
-When we were young and clueless about the harsh realities of the world, we had probably subconsciously thought that things would stay as they are; the people we like will always stay as long as we maintain a good relationship. However, there are bound to be external factors that will challenge the relationships.
+There is always more than one side to everything that exists. We all have our ups and downs in life yet, the downs are often being “judged”. Growing up, we were taught to avoid the negative and to only favor the positive. Negativity is always unwelcome and it is not without a reason.
 
-## Story
+What if your loved one has become negative? Are you going to avoid them? Are you going to leave them in the lurch and stop interacting with them just because of their negative energy?
 
-Here in where I live, through primary school (7-12y/o) and during my time (not sure if things are still the same now), students had to go through class streaming twice. Streaming is the process of grouping students into classes based on their academic capability. Here, students would be streamed to different classes, depending on their overall grades. Basically, all the smarties will be gathered in the same class (normally thefi rst class) while the average ones will be scattered through the remaining classes. There were 9 classes inevery cohort during my time. Due to streaming, most of your current classmates will not be in the same classas you for the next few years. You might be in the same class with a few of them when we go through streaming again, but it will only be a few.
+```
+Box made with Triple Backticks
+```
+
+Call me Alien? I am not one to avoid negative people immediately. Instead, I am rather interested in getting to know the cause of the problem through their life stories.
 
 Back then, I thought to myself… How was I going to keep in close touch with the good friends I had made? I’d certainly miss them… In the beginning of my new class in the new year, I missed my usual peeps. As time went by, the significance of them faded as I gradually got to know and befriended people in my new class.
 
