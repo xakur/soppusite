@@ -11,7 +11,7 @@ share-title: In My Mind | Slice of Power
 
 
 <div class="posts">
-  {% for post in site.categories['the-deep'] %}
+  {% for post in site.categories['in-my-mind'] %}
     <article class="post">
       <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
