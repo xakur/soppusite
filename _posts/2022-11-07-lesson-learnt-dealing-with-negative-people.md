@@ -49,7 +49,6 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 
 {: .box-blue}
 **Takeaways of this Article:**
-
 * Be prepared for some changes that may occur to you when you willingly decide to hang out with a friend who is going through a tough time, and is inevitably in a bad mental state
 * Negativity may seep into you subconsciously and affect you later on, if you are not strong enough to support it
 * **Take good care of yourself first before helping others**
