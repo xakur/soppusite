@@ -9,8 +9,6 @@
 # --- Required options --- #
 ############################
 
-remote_theme: beautiful-jekyll-theme
-
 # Name of website
 title: Slice of Power
 
