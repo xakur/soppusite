@@ -2,14 +2,14 @@
 layout: post
 title: Lesson Learnt - Dealing with Negative People
 share-description: Negativity lurks around us - it is perfectly normal. We face troubles and have our fears. Not everyone is able to upkeep a positive spirit all the time, and it is understandable. We are only human. Dealing with negative people does not have to be a detrimental experience.
-thumbnail-img: "https://images.pexels.com/photos/4350177/pexels-photo-4350177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+thumbnail-img: /assets/img/woman-worrying-and-thinking.png
 categories: the-deep
 tags: the-deep
 readtime: true
 excerpt: Negativity lurks around us - it is perfectly normal. We face troubles and have our fears. Not everyone is able to upkeep a positive spirit all the time, and it is understandable. We are only human. Dealing with negative people does not have to be a detrimental experience.
 ---
 
-<img src="https://images.pexels.com/photos/4350177/pexels-photo-4350177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="woman worrying" width="300" height="400">
+![woman worrying](/assets/img/woman-worrying-and-thinking.png)
 
 I stopped believing in “friends forever” when I was 9. Not sure which sounds more absurd – the concept of “friends forever”? Or not buying this concept anymore at 9 years old. Most kids around this age are probably still unclear of the concept that people come and go eventually.
 
