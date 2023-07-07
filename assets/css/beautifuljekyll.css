@@ -943,10 +943,9 @@ pre {
 
 /* --- Notification boxes --- */
 .box-note,
-.box-warning,
+.box-beige,
 .box-error,
-.box-success,
-.box-beige {
+.box-success {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
   border: 1px solid #eee;
@@ -959,8 +958,8 @@ pre {
   border-left-color: #2980b9;
 }
 
-.box-warning {
-  background-color: #fdf5d4;
+.box-beige {
+  background-color: #fff4bb;
   border-left-color: #f1c40f;
 }
 
@@ -974,10 +973,6 @@ pre {
   border-left-color: #3CB371;
 }
 
-.box-beige {
-  background-color: #fff5c0;
-}
-  
 
 /* --- Misc blog post styles --- */
 
