@@ -965,7 +965,8 @@ pre {
 }
 
 .box-blue {
-  background-color: #d3feff;
+  background-color: #d1ecff;
+  border-left-color: #2980b9;
 }
 
 .box-error {
