@@ -944,6 +944,7 @@ pre {
 /* --- Notification boxes --- */
 .box-note,
 .box-beige,
+.box-blue,
 .box-error,
 .box-success {
   padding: 0.9375rem 0.9375rem 0.9375rem 1rem;
@@ -961,6 +962,10 @@ pre {
 .box-beige {
   background-color: #fff4bb;
   border-left-color: #f1c40f;
+}
+
+.box-blue {
+  background-color: #d3feff;
 }
 
 .box-error {
