@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /posts/php/
+permalink: /posts/the-deep/
 title: The Deep
 share-title: The Deep | Slice of Power
 ---
@@ -11,7 +11,7 @@ share-title: The Deep | Slice of Power
 
 
 <div class="posts">
-  {% for post in site.categories['php'] %}
+  {% for post in site.categories['the-deep'] %}
     <article class="post">
       <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
