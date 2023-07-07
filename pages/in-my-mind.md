@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /posts/the-deep/
-title: The Deep
-share-title: The Deep | Slice of Power
+permalink: /posts/in-my-mind/
+title: In My Mind
+share-title: In My Mind | Slice of Power
 ---
 
-<p style="text-align: center;font-size: 18px;font-family: Gadugi;">Looking beyond our circumstances to gain more than what is presented to us. This page features valuable lessons and knowledge picked up from random events in life. A bad thing may not be a bad thing after all. Reflect from the deep and become a wiser you.</p>
+<p style="text-align: center;font-size: 18px;font-family: Gadugi;">A slice of my mind. Sharing random thoughts on random topics…</p>
 
 
 
