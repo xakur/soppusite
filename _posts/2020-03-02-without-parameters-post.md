@@ -75,8 +75,8 @@ You can add notification, warning and error boxes like this:
 
 ### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
+{: .box-beige}
+**Warning:** This is a warning box. Changed it to beige.
 
 ### Error
 
