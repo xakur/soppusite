@@ -945,7 +945,8 @@ pre {
 .box-note,
 .box-warning,
 .box-error,
-.box-success {
+.box-success
+.box-beige{
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
   border: 1px solid #eee;
@@ -972,6 +973,11 @@ pre {
   background-color: #98FB98;
   border-left-color: #3CB371;
 }
+
+.box-beige {
+  background-color: #fff5c0;
+}
+  
 
 /* --- Misc blog post styles --- */
 
