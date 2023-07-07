@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Do you believe in “Friends Forever”?
-share-description: At that moment of epiphany, I thought to myself how naïve the term “friends forever” is. However, as I have grown older and witnessed more things in life, I also realized that it is not impossible to remain friends forever. However, how much does it take to have a friend forever?
-thumbnail-img: /assets/img/13534860.jpg
+title: Lesson Learnt - Dealing with Negative People
+share-description: Negativity lurks around us - it is perfectly normal. We face troubles and have our fears. Not everyone is able to upkeep a positive spirit all the time, and it is understandable. We are only human. Dealing with negative people does not have to be a detrimental experience.
+thumbnail-img: "https://images.pexels.com/photos/4350177/pexels-photo-4350177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 categories: the-deep
-readtime: true
 tags: the-deep
+readtime: true
 excerpt: I stopped believing in “friends forever” when I was 9. Not sure which sounds more absurd – the concept of “friends forever”? Or not buying this concept anymore at 9 years old. Most kids around this age are probably still unclear of the concept that people come and go eventually.
 ---
 
-![friends together](/assets/img/13534860.jpg)
+<img style="height: 100;">![woman worrying](https://images.pexels.com/photos/4350177/pexels-photo-4350177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)</img>
 
 I stopped believing in “friends forever” when I was 9. Not sure which sounds more absurd – the concept of “friends forever”? Or not buying this concept anymore at 9 years old. Most kids around this age are probably still unclear of the concept that people come and go eventually.
 
