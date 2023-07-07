@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do you believe in “Friends Forever”?
+share-description: At that moment of epiphany, I thought to myself how naïve the term “friends forever” is. However, as I have grown older and witnessed more things in life, I also realized that it is not impossible to remain friends forever. However, how much does it take to have a friend forever?
 thumbnail-img: /assets/img/13534860.jpg
 categories: php
 readtime: true
