@@ -3,7 +3,7 @@ layout: post
 title: Do you believe in “Friends Forever”?
 share-description: At that moment of epiphany, I thought to myself how naïve the term “friends forever” is. However, as I have grown older and witnessed more things in life, I also realized that it is not impossible to remain friends forever. However, how much does it take to have a friend forever?
 thumbnail-img: /assets/img/13534860.jpg
-categories: php
+categories: the-deep
 readtime: true
 tags: php
 excerpt: I stopped believing in “friends forever” when I was 9. Not sure which sounds more absurd – the concept of “friends forever”? Or not buying this concept anymore at 9 years old. Most kids around this age are probably still unclear of the concept that people come and go eventually.
