@@ -1,17 +1,17 @@
 ---
 layout: page
-permalink: /posts/the-deep/
-title: The Deep
-share-title: The Deep | Slice of Power
+permalink: /posts/life-tips/
+title: Life Tips
+share-title: Life Tips | Slice of Power
 ---
 
-<p style="text-align: center;font-size: 18px;font-family: Gadugi;">Looking beyond our circumstances to gain more than what is presented to us. This page features valuable lessons and knowledge picked up from random events in life. A bad thing may not be a bad thing after all. Reflect from the deep and become a wiser you.</p>
-
+<p style="text-align: center;font-size: 18px;font-family: Gadugi;">Easy tips for life, easy nourishment for your mind. Start everything from your mind. Reprogram your mind, and all unpleasantries will be minimized. Change the way you think and become your biggest supporter.
+You alone, will lift yourself up.</p>
 
 
 
 <div class="posts">
-  {% for post in site.categories['the-deep'] %}
+  {% for post in site.categories['life-tips'] %}
     <article class="post">
       <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
