@@ -55,11 +55,14 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 * Ways to deal with the situation
 {: .box-blue}
 
-I have always valued genuine friendships. I generally only consider a few people as my friends despite having a bunch of well-established relationships with my acquaintances. This is me and how I function in this world. Everyone is different.
+## How Being Around a Negative Friend has Affected Me
 
-## Conclusion
-
-Some prosper with a big group of friends, some prefer to be alone (this is me too), some yearn to have many friends but seem to not be able to get one. No matter what you choose to be, it is all good. All you have to do is to let nature take its course and continue to be you. If you need to change your ways, the universe will surely find some way to let you know and push you to change. You may not know it but it will happen.
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
 
 If you want to have friends, I would say, take it easy. No need to rush it. Sometimes, you are simply stuck in an environment (especially in the school context) where you cannot fi nd people of your kind. This happened tome too. You might feel lonely, but you are not going to be happy with the friends you make there if you forceyourself to “accommodate” to e.g. their ways, mindset, vibes etc. Change and accommodate if you are in desperate need for friends, ONLY if you truly want to.
 
