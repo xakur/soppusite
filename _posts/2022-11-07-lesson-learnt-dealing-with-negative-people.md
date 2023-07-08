@@ -57,7 +57,7 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 
 ## How Being Around a Negative Friend has Affected Me
 
-| <span style="display: inline-block; width:300px">before</span> | after |
+| <span style="width:300px">before</span> | after |
 |---|---|
 | Was ON MY WAY to becoming a better version of myself; inspired and motivated  | Felt completely drained and even hopeless about life; not as motivated as before after hearing my friend's stories  |
 | Did not have unnecessary anxiety | Friend has anxiety and ADHD _(Attention-deficit/hyperactivity disorder)_. She is often aggressive in her words and often jumps from one topic to the other too. It gradually led me to feel anxious about my own pursuits and life |
