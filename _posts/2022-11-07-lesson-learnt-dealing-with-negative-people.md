@@ -66,7 +66,45 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 | Always focused on doing one task at a time | My attention gets easily distorted |
 | Had a stable routine in life that works for my health | Routine got disrupted and experienced relapse on certain health issues |
 
+My time suffered, my mental health suffered, and even my physical health suffered.
 
-If you want to have friends, I would say, take it easy. No need to rush it. Sometimes, you are simply stuck in an environment (especially in the school context) where you cannot fi nd people of your kind. This happened tome too. You might feel lonely, but you are not going to be happy with the friends you make there if you forceyourself to “accommodate” to e.g. their ways, mindset, vibes etc. Change and accommodate if you are in desperate need for friends, ONLY if you truly want to.
+It was really unfortunate that my physical health was affected as well. I had forgotten to take care of myself first. I was always prioritizing my friend's issues and rushing to her aid whenever she pinged me. I often worried about her due to her unpleasant state of life. I would find myself neglecting my own needs (and health) just to spend time with her to cheer her up.
 
-I think what’s most important at the end of the day is to be comfortable with yourself and be happy to be alone. You are all you need.
+![annoyed lady](https://images.pexels.com/photos/3808008/pexels-photo-3808008.jpeg)
+
+It drained out all my positive energy gradually. Although I was not physically around her, the negative vibes could travel through the call! I could strongly feel how negative and unpleasant she and the overall atmosphere was. Whenever we ended our calls, I felt really drained and gloomy.
+
+This may sound weird, given that they were just calls, however, the flow of energy can be felt.
+
+I finally understood why we often hear people talking about staying away from negative people.
+
+## Why did I stay on?
+
+I used to be a very pessimistic person, so I completely understand how intense negative feelings can become. Of course, people whom I thought were good friends shunned me eventually when they realized how negative I can be. Mind you, I do not talk about my problems or reveal my true self to just anyone. It takes trust to show this side of me. 
+
+Yet, people back off once they know how broken you are inside. People who cannot be bothered about the unglamorous part of your life will just drop you this line, "You are too negative." Okay, like duh?
+
+When they started leaving, I told myself I do not want to be like them. I am not going to leave the "negative people" (as per how they said it) behind. In fact, we should really lend a hand when we see someone in need. No one wants to be negative. Sometimes, all it takes is to be a listening ear and be by their side.
+
+![lend a helping hand](https://img.freepik.com/premium-photo/hands-reaching-out-help_42667-1660.jpg)
+
+I know how uplifting it can be when someone shows you compassion. I know how helpful supportive accompaniment can be - supportive of your situation AS WELL AS your emotions. I did not have these when I went through my phase.
+
+As for this particular friend, my heart aches for her after knowing her story. I really wanted to be around to help her. Furthermore, she’s a genuinely nice person. She deserves the help and positivity.
+
+I guess, a part of me had hoped that my positivity would influence her as well, to help her feel better.
+Unfortunately, her current environmental circumstances had made it difficult for her to stay positive... As such, it feels like a never ending battle for me too. It is draining, but I genuinely care about her.
+
+## How can we deal with this situation?
+
+| If you're already affected by the negativity: | If you're not affected by the negativity (Prevention):  |
+|---|---|
+| Jump out of it IMMEDIATELY | EVALUATE if you're taking care of yourself first |
+| Stay away for a week or two. Take a break | Look for cues to understand if this person is genuine and trustworthy. Determine if they are worth your effort and time |
+| Gently explain to them the worries/troubles that you’re facing and hence you have to spend lesser time with them etc. | Remember to keep yourself positive through your own means. Stay happy |
+| **_If you don’t mind losing this person_** (after withstanding so much from them) and you are still unable to talk some sense into them, it might be good for you to vent your frustrations at them. They need to know too. If the person leaves, they are not worth your time and this can come to a complete stop.
+
+**_If they stay,_** this person is a genuine soul but is just broken in this period of time | If you're sensing that you're getting negatively affected, it is advisable to minimize contact for the time being. Stay away. Recharge yourself before hanging out with them again |
+| Seek out your positive light/energy. Look for something that relaxes your mind; watching funny videos, reading, listening to music, meditation etc. | |
+
+gffhf
