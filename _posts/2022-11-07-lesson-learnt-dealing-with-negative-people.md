@@ -62,7 +62,7 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+<ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
 
 If you want to have friends, I would say, take it easy. No need to rush it. Sometimes, you are simply stuck in an environment (especially in the school context) where you cannot fi nd people of your kind. This happened tome too. You might feel lonely, but you are not going to be happy with the friends you make there if you forceyourself to “accommodate” to e.g. their ways, mindset, vibes etc. Change and accommodate if you are in desperate need for friends, ONLY if you truly want to.
 
