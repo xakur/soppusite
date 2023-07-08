@@ -57,7 +57,7 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 
 ## How Being Around a Negative Friend has Affected Me
 
-| <span style="display: inline-block; width:200px">Before</span> | After |
+| <span style="display: inline-block; width:250px">Before</span> | After |
 |---|---|
 | Was ON MY WAY to becoming a better version of myself; inspired and motivated | Felt completely drained and even hopeless about life; not as motivated as before after hearing my friend's stories |
 | Had plans to do things and work towards an ideal future | The repetitive negative ramblings gave me negative feelings and made me worry about the future |
@@ -99,9 +99,9 @@ Unfortunately, her current environmental circumstances had made it difficult for
 
 | If you're already affected by the negativity: | If you're not affected by the negativity (Prevention):  |
 |---|---|
-| Jump out of it IMMEDIATELY | EVALUATE if you're taking care of yourself first |
+| <span style="display: inline-block; width:200px">Jump out of it IMMEDIATELY</span> | EVALUATE if you're taking care of yourself first |
 | Stay away for a week or two. Take a break | Look for cues to understand if this person is genuine and trustworthy. Determine if they are worth your effort and time |
-| Gently explain to them the worries/troubles that you’re facing and hence you have to spend lesser time with them etc. | <span style="display: inline-block; width:150px">Remember to keep yourself positive through your own means. Stay happy</span> |
+| Gently explain to them the worries/troubles that you’re facing and hence you have to spend lesser time with them etc. | Remember to keep yourself positive through your own means. Stay happy |
 | **_If you don’t mind losing this person_** (after withstanding so much from them) and you are still unable to talk some sense into them, it might be good for you to vent your frustrations at them. They need to know too. If the person leaves, they are not worth your time and this can come to a complete stop. **_If they stay,_** this person is a genuine soul but is just broken in this period of time | If you're sensing that you're getting negatively affected, it is advisable to minimize contact for the time being. Stay away. Recharge yourself before hanging out with them again |
 | Seek out your positive light/energy. Look for something that relaxes your mind; watching funny videos, reading, listening to music, meditation etc. | |
 
