@@ -97,7 +97,7 @@ Unfortunately, her current environmental circumstances had made it difficult for
 
 ## How can we deal with this situation?
 
-| <span style="display: inline-block; width:220px; height:93.67rem;">If you're already affected by the negativity:</span> | If you're not affected by the negativity (Prevention): |
+| <span style="display: inline-block; width:220px; height:93.67px;">If you're already affected by the negativity:</span> | If you're not affected by the negativity (Prevention): |
 |---|---|
 | Jump out of it IMMEDIATELY | EVALUATE if you're taking care of yourself first |
 | Stay away for a week or two. Take a break | Look for cues to understand if this person is genuine and trustworthy. Determine if they are worth your effort and time |
