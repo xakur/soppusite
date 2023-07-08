@@ -55,7 +55,6 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 * **Take good care of yourself first before helping others**
 * Ensure that you are mentally strong first before giving too much of yourself to help a negative person
 * Ways to deal with the situation
-* 
 {: .box-blue}
 
 
