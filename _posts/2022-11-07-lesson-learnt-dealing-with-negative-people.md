@@ -105,4 +105,7 @@ Unfortunately, her current environmental circumstances had made it difficult for
 | **_If you don’t mind losing this person_** (after withstanding so much from them) and you are still unable to talk some sense into them, it might be good for you to vent your frustrations at them. They need to know too. If the person leaves, they are not worth your time and this can come to a complete stop. **_If they stay,_** this person is a genuine soul but is just broken in this period of time | If you're sensing that you're getting negatively affected, it is advisable to minimize contact for the time being. Stay away. Recharge yourself before hanging out with them again |
 | Seek out your positive light/energy. Look for something that relaxes your mind; watching funny videos, reading, listening to music, meditation etc. | |
 
-sdfsd
+## Conclusion
+
+Everyone has a story to tell. Instead of condemning someone’s negativity, be supportive as much as possible. Their negativity may have arisen out of unfortunate events and/or bad experiences. Support within your means. There is always something to learn from them. However, it is also very important to make sure that you keep yourself happy and recharged in the process.
+Personally, I have learnt so much about true strength and resilience from this friend. On top of the events that occurred, she has also been through several health issues in her life and as negative she may be, she's still standing strong to this day. This is a quality that I want to learn from her. Being around her has reminded me to be strong when faced with adversities. If she, one who has gone through this and that and is even carrying certain bodily ailments can survive to this day, I can too.
