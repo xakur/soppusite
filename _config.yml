@@ -21,9 +21,6 @@ author: Slice
 
 navbar-links:
   About: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Life Tips: "/posts/life-tips/"
   The Deep: "/posts/the-deep/"
   In My Mind: "/posts/in-my-mind/"
