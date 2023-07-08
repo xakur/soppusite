@@ -48,7 +48,8 @@ I had not been a very positive person in my whole life. It took me years to unde
 Unfortunately, the negativity I was receiving from my friend gradually drained my positive energy. At one point, I became irritable over little things and started feeling angry about my past (the issues that I already worked on and got over). I knew that something was amiss in me and I needed to do something about it.
 
 {: .box-blue}
-**Takeaways of this Article:**  * Be prepared for some changes that may occur to you when you willingly decide to hang out with a friend who is going through a tough time, and is inevitably in a bad mental state
+**Takeaways of this Article:**
+* Be prepared for some changes that may occur to you when you willingly decide to hang out with a friend who is going through a tough time, and is inevitably in a bad mental state
 * Negativity may seep into you subconsciously and affect you later on, if you are not strong enough to support it
 * **Take good care of yourself first before helping others**
 * Ensure that you are mentally strong first before giving too much of yourself to help a negative person
