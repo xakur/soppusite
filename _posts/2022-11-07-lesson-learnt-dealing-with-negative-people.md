@@ -57,10 +57,14 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 
 ## How Being Around a Negative Friend has Affected Me
 
-| <span style="display: inline-block; width:285px">before</span> | after |
+| <span style="display: inline-block; width:285px">Before</span> | After |
 |---|---|
-| Was ON MY WAY to becoming a better version of myself; inspired and motivated  | Felt completely drained and even hopeless about life; not as motivated as before after hearing my friend's stories  |
+| Was ON MY WAY to becoming a better version of myself; inspired and motivated | Felt completely drained and even hopeless about life; not as motivated as before after hearing my friend's stories |
+| Had plans to do things and work towards an ideal future | The repetitive negative ramblings gave me negative feelings and made me worry about the future |
+| Felt somewhat optimistic about life and wanted to move forward and stop dwelling on the past | As time went by, the repetition felt normal and it drew me into a state of negativity, causing me to feel sad about the past, again |
 | Did not have unnecessary anxiety | Friend has anxiety and ADHD _(Attention-deficit/hyperactivity disorder)_. She is often aggressive in her words and often jumps from one topic to the other too. It gradually led me to feel anxious about my own pursuits and life |
+| Always focused on doing one task at a time | My attention gets easily distorted |
+| Had a stable routine in life that works for my health | Routine got disrupted and experienced relapse on certain health issues |
 
 
 If you want to have friends, I would say, take it easy. No need to rush it. Sometimes, you are simply stuck in an environment (especially in the school context) where you cannot fi nd people of your kind. This happened tome too. You might feel lonely, but you are not going to be happy with the friends you make there if you forceyourself to “accommodate” to e.g. their ways, mindset, vibes etc. Change and accommodate if you are in desperate need for friends, ONLY if you truly want to.
