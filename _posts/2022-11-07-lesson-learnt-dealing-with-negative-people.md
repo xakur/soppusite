@@ -57,7 +57,7 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 
 ## How Being Around a Negative Friend has Affected Me
 
-| <span style="display: inline-block; width:285px">Before</span> | After |
+| <span style="display: inline-block; width:200px">Before</span> | After |
 |---|---|
 | Was ON MY WAY to becoming a better version of myself; inspired and motivated | Felt completely drained and even hopeless about life; not as motivated as before after hearing my friend's stories |
 | Had plans to do things and work towards an ideal future | The repetitive negative ramblings gave me negative feelings and made me worry about the future |
