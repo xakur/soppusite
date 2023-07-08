@@ -59,7 +59,7 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 
 | <span style="display: inline-block; width:285px">Before</span> | After |
 |---|---|
-| <div class="td" style="background-color: #ff3838">Was ON MY WAY to becoming a better version of myself; inspired and motivated</div> | Felt completely drained and even hopeless about life; not as motivated as before after hearing my friend's stories |
+| <span class="td" style="background-color: #ff3838">Was ON MY WAY to becoming a better version of myself; inspired and motivated</span> | Felt completely drained and even hopeless about life; not as motivated as before after hearing my friend's stories |
 | Had plans to do things and work towards an ideal future | The repetitive negative ramblings gave me negative feelings and made me worry about the future |
 | Felt somewhat optimistic about life and wanted to move forward and stop dwelling on the past | As time went by, the repetition felt normal and it drew me into a state of negativity, causing me to feel sad about the past, again |
 | Did not have unnecessary anxiety | Friend has anxiety and ADHD _(Attention-deficit/hyperactivity disorder)_. She is often aggressive in her words and often jumps from one topic to the other too. It gradually led me to feel anxious about my own pursuits and life |
