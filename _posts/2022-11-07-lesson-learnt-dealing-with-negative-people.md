@@ -57,12 +57,10 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 
 ## How Being Around a Negative Friend has Affected Me
 
-<div style="width:290px">
-| before | after |
+<div style="width:290px">| before</div> | after |
 |---|---|
 | Was ON MY WAY to becoming a better version of myself; inspired and motivated  | Felt completely drained and even hopeless about life; not as motivated as before after hearing my friend's stories  |
 | Did not have unnecessary anxiety | Friend has anxiety and ADHD _(Attention-deficit/hyperactivity disorder)_. She is often aggressive in her words and often jumps from one topic to the other too. It gradually led me to feel anxious about my own pursuits and life |
-</div>
 
 
 If you want to have friends, I would say, take it easy. No need to rush it. Sometimes, you are simply stuck in an environment (especially in the school context) where you cannot fi nd people of your kind. This happened tome too. You might feel lonely, but you are not going to be happy with the friends you make there if you forceyourself to “accommodate” to e.g. their ways, mindset, vibes etc. Change and accommodate if you are in desperate need for friends, ONLY if you truly want to.
