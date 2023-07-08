@@ -54,7 +54,7 @@ Unfortunately, the negativity I was receiving from my friend gradually drained m
 * **Take good care of yourself first before helping others**
 * Ensure that you are mentally strong first before giving too much of yourself to help a negative person
 * Ways to deal with the situation
-{: .box-blue}
+
 
 I have always valued genuine friendships. I generally only consider a few people as my friends despite having a bunch of well-established relationships with my acquaintances. This is me and how I function in this world. Everyone is different.
 
