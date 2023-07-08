@@ -108,4 +108,5 @@ Unfortunately, her current environmental circumstances had made it difficult for
 ## Conclusion
 
 Everyone has a story to tell. Instead of condemning someone’s negativity, be supportive as much as possible. Their negativity may have arisen out of unfortunate events and/or bad experiences. Support within your means. There is always something to learn from them. However, it is also very important to make sure that you keep yourself happy and recharged in the process.
+
 Personally, I have learnt so much about true strength and resilience from this friend. On top of the events that occurred, she has also been through several health issues in her life and as negative she may be, she's still standing strong to this day. This is a quality that I want to learn from her. Being around her has reminded me to be strong when faced with adversities. If she, one who has gone through this and that and is even carrying certain bodily ailments can survive to this day, I can too.
