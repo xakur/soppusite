@@ -59,7 +59,7 @@ To help myself stay in the present constantly, I carry an image of an hourglass 
 
 ![hour glass](https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-<img src="https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt:"hourglass" style="width:437px; height:293px"/>
+<p><img src="https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt:"hourglass" style="width:437px; height:293px;"></p> 
 
 Just like the the sand in the hourglass, we are losing time second by second. The bottom part of the hourglass represents the time that has already passed, and what is already gone. When I feel annoyed by a random past memory, I will consciously remind myself of the hourglass. It serves as a good reminder for me that I should focus on the upper part of the hourglass (the remaining time). I need to be in the present and do what is right for me. Time is precious. Do not let the detrimental words of others affect and waste your time too.
 
