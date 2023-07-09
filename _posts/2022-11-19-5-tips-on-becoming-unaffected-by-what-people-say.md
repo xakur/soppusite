@@ -27,7 +27,7 @@ Often, people who do not mean well will be rude in their words and are out to of
 
 Through my years of living on Earth, I have come to realize that in most situations, if you do not feel comfortable hearing someone else's words (be it positive or negative), then they are not meant for you. You have the choice to accept or reject it. Even for a positive message, if it was conveyed to you by the wrong person or at the wrong time, it is unlikely that you will pick it up immediately. That is totally fine.
 
-![clock time](https://images.pexels.com/photos/1065034/pexels-photo-1065034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+<img src="https://images.pexels.com/photos/1065034/pexels-photo-1065034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="clock time" style="width:447px; height:278px; display: block; margin: 0 auto;">
 
 If the message is meant for you, it will reappear at some point, through another person, or through a random encounter. After some time, you would have grown, matured and have the capacity to understand that very same message.
 
@@ -59,7 +59,7 @@ To help myself stay in the present constantly, I carry an image of an hourglass 
 
 ![hour glass](https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-<img src="https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="hourglass" style="width:437px; height:293px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="hourglass" style="width:447px; height:303px; display: block; margin: 0 auto;">
 
 Just like the the sand in the hourglass, we are losing time second by second. The bottom part of the hourglass represents the time that has already passed, and what is already gone. When I feel annoyed by a random past memory, I will consciously remind myself of the hourglass. It serves as a good reminder for me that I should focus on the upper part of the hourglass (the remaining time). I need to be in the present and do what is right for me. Time is precious. Do not let the detrimental words of others affect and waste your time too.
 
