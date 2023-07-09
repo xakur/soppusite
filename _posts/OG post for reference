@@ -2,12 +2,14 @@
 layout: post
 title: To play with post
 Categories: My-Life
-tags: [test]
+tags: 
 published: false
 ---
 
 ![random post](https://images.pexels.com/photos/1000366/pexels-photo-1000366.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
+Note that tags and categories need to be the same.
 
 **Here is some bold text**
 
