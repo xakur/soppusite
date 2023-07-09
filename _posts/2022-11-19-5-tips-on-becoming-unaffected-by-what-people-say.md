@@ -59,7 +59,7 @@ To help myself stay in the present constantly, I carry an image of an hourglass 
 
 ![hour glass](https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-<img src="https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt:"hourglass" style="width:437px; height:293px;">
+<img src=a href="https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt:"hourglass" style="width:437px; height:293px;">
 
 <img style="width: 437px; height: 293px">"https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"</img>
 
