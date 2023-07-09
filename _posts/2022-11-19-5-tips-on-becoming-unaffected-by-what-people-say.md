@@ -57,8 +57,6 @@ Another way to help you go unaffected by what others say is to have a mechanism 
 
 To help myself stay in the present constantly, I carry an image of an hourglass in my heart. An hourglass is indicative of the continuous passing of time and that our time will eventually run out.
 
-![hour glass](https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
 <img src="https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="hourglass" style="width:447px; height:303px; display: block; margin: 0 auto;">
 
 Just like the the sand in the hourglass, we are losing time second by second. The bottom part of the hourglass represents the time that has already passed, and what is already gone. When I feel annoyed by a random past memory, I will consciously remind myself of the hourglass. It serves as a good reminder for me that I should focus on the upper part of the hourglass (the remaining time). I need to be in the present and do what is right for me. Time is precious. Do not let the detrimental words of others affect and waste your time too.
