@@ -4,13 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<div class="aboutpic">
+<img src="https://images.pexels.com/photos/278823/pexels-photo-278823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="candle flame" style="width:100%;">
+<div class="centerquote">“The greatest thing in the world is to know how to belong to oneself.”</div>
+<div class="quotecaption">– Michel De Montaigne –</div>
+</div>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
