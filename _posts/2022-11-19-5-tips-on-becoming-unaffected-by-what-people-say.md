@@ -27,7 +27,7 @@ Often, people who do not mean well will be rude in their words and are out to of
 
 Through my years of living on Earth, I have come to realize that in most situations, if you do not feel comfortable hearing someone else's words (be it positive or negative), then they are not meant for you. You have the choice to accept or reject it. Even for a positive message, if it was conveyed to you by the wrong person or at the wrong time, it is unlikely that you will pick it up immediately. That is totally fine.
 
-<img src="https://images.pexels.com/photos/1065034/pexels-photo-1065034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="clock time" style="width:447px; height:278px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/1065034/pexels-photo-1065034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="clock time">
 
 If the message is meant for you, it will reappear at some point, through another person, or through a random encounter. After some time, you would have grown, matured and have the capacity to understand that very same message.
 
