@@ -1,17 +1,17 @@
 ---
 layout: post
 title: 5 Tips on Becoming Unaffected by What People Say
-share-description: 
+share-description: 5 tips to be unaffected by what others say · It’s a reflection of themselves · The words are not meant for you · Do not stoop to their level · The world moves on · Keep yourself in check
 thumbnail-img: "https://images.pexels.com/photos/163431/fist-blow-power-wrestling-163431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 categories: life-tips
 tags: life-tips
 readtime: true
-excerpt: People talk. It’s normal. Most conversations should be pretty normal and pleasant. However, we might hear something that does not sit well with us at times. Those words may bother us, and affect our mood for the rest of the day or even for days. Here are 5 tips on becoming unaffected by what others say. Everyone is entitled to say anything they want, and so is everyone entitled to choose what they want to listen to and accept.
+excerpt: People talk. It’s normal. Most conversations should be pretty normal and pleasant. However, we might hear things that do not sit well with us at times. Those words may bother us, and affect our mood for the rest of the day. Or even for days. Here are 5 tips on becoming unaffected by what others say. Everyone is entitled to say anything they want, and so is everyone entitled to choose what they want to listen to and accept.
 ---
 
 ![strong fist](https://images.pexels.com/photos/163431/fist-blow-power-wrestling-163431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-People talk. It’s normal. Most conversations should be pretty normal and pleasant. However, we might hear something that does not sit well with us at times. Those words may bother us, and affect our mood for the rest of the day or even for days. Here are 5 tips on becoming unaffected by what others say. Everyone is entitled to say anything they want, and so is everyone entitled to choose what they want to listen to and accept.
+People talk. It’s normal. Most conversations should be pretty normal and pleasant. However, we might hear things that do not sit well with us at times. Those words may bother us, and affect our mood for the rest of the day. Or even for days. Here are 5 tips on becoming unaffected by what others say. Everyone is entitled to say anything they want, and so is everyone entitled to choose what they want to listen to and accept.
 
 If the words do not do us any good, we always have the choice to treat them lightly or even ignore them completely. You have the control. We hope that these 5 pointers will help build a stronger you, to become unaffected by what others say.
 
