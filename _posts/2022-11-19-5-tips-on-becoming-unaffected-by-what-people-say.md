@@ -53,13 +53,13 @@ Make sure that you are doing the right things for yourself right now. You know w
 
 Another way to help you go unaffected by what others say is to have a mechanism in place to keep yourself in check. Find something that provides support to your values and can keep you calm. This can be a phrase from someone you admire, a person or a symbolic imagery and etc. Always bring it along with you in your heart wherever you go. When an unpleasant situation arises, remind yourself of that powerful phrase or thing that is in your heart, to help keep you in check and soothe your mind. 
 
-Ultimately, it’s what you choose to tell yourself. Other people are not you. Their thoughts do not contribute to your life at the end of the day.
+**Ultimately, it’s what you choose to tell yourself. Other people are not you. Their thoughts do not contribute to your life at the end of the day.**
 
 To help myself stay in the present constantly, I carry an image of an hourglass in my heart. An hourglass is indicative of the continuous passing of time and that our time will eventually run out.
 
 ![hour glass](https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-Just like the the sand in the hourglass, we are losing time second by second. The bottom part of the hourglass represents the time that has already passed, and what is already gone. When I feel annoyed by a random past memory, I will consciously remind myself of the hourglass. It serves as a good reminder for me that I should focus on the upper part of the hourglass (the remaining time). I need to be in the present and do what is right for me. I should not waste time dwelling on the past. Time is precious.
+Just like the the sand in the hourglass, we are losing time second by second. The bottom part of the hourglass represents the time that has already passed, and what is already gone. When I feel annoyed by a random past memory, I will consciously remind myself of the hourglass. It serves as a good reminder for me that I should focus on the upper part of the hourglass (the remaining time). I need to be in the present and do what is right for me. Time is precious. Do not let the detrimental words of others affect and waste your time too.
 
 ## Conclusion
 
