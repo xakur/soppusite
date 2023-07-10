@@ -34,4 +34,4 @@ Deep breathing helps to restore our calm quickly. Studies have shown that [slow,
 
 If the feelings are overwhelming, drop whatever you are doing and give yourself some alone time to recharge. If you cannot do it right away (due to work, for example), stop whatever you are doing as soon as it is fine to do so. Permit yourself to rest and do nothing. Or do something else to take your mind off for the time being. Pause, step away from what you were doing and "reset" yourself.
 
-<img src="https://images.pexels.com/photos/5357088/pexels-photo-5357088.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="hourglass" style="width:447px; height:303px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/290164/pexels-photo-290164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="sleeping kitten" style="width:503px; height:318px;">
