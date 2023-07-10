@@ -11,7 +11,6 @@ subtitle: Hi there, welcome in! Thank you for dropping by!
 
 ---
 <br/>
-
 <h3 style="text-align:center;"><b>Grab a Slice of Power here.</b></h3>
 <p style="text-align:center;">Power to change. Power to heal. Power to keep moving on.</p>
 
