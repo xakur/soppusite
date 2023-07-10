@@ -30,11 +30,13 @@ Slice of Power wants to remind everyone that the power lies in you.
 
 It is always in you. Even if you do not think so, let Slice of Power help you rediscover your inner strength. Let Slice of Power act as a supportive friend to comfort you in times of doubt and distress. To help you support yourself to the very end.
 
+Thank you for visiting Slice of Power!
+
 ---
 
-### From the Author...
+### About the Author
 
-<blockquote style="color:#484848; font-size:18px;"><i>"Hi, thank you for dropping by! Corresponding to the site title, I go by the pseudonym of "Slice". A Slice for your support.</i>
+<blockquote style="color:#484848; font-size:18px;"><i>"Corresponding to the site title, I go by the pseudonym of "Slice". A Slice for your support.</i>
 <br/>
 I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful.</i>
 <br/>
