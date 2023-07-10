@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+share-title: About | Slice of Power
 subtitle: Hi there, welcome in!
 ---
 
