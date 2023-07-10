@@ -13,7 +13,9 @@ excerpt: Self-doubt is possibly one of the worst feelings one can experience. It
 
 Self-doubt is possibly one of the worst feelings one can experience. It can be very difficult to stay hopeful in times of doubt. The feeling of doubt usually stems from the lack of self-confidence, causing you to not believe in yourself. When you do not believe in yourself, the things that you are working hard for might suddenly seem pointless. It can become difficult to see hope in what you want to pursue.
 
-<div style="align-text:center;"><b>If you are feeling this way right now...</b> Pause all thoughts that are running through your head. Take a deep breath. Don't worry.</div>
+<p style="align-text:center;"><b>If you are feeling this way right now...</b></p>
+<p style="align-text:center;">Pause all thoughts that are running through your head.</p>
+<p style="align-text:center;">Take a deep breath. Don't worry.</p>
 
 Rest assured that this is not an uncommon feeling and there is nothing wrong with you. You are not alone. It is okay to feel sad and hopeless in our journey at times. We are only human after all. In moments like this, it is important to be kinder than we normally are to ourselves.
 
@@ -31,4 +33,6 @@ If the feelings are overwhelming, drop whatever you are doing and give yourself 
 
 Sleeping helps to keep my mind from thinking about an issue. Certainly, it is not always easy to fall asleep when you have a troubled mind. I would sometimes listen to soothing music and meditation tracks to help me shut my mind and go to sleep.
 
-Another method that works for me is to pretend that I do not exist in this world. I will put my phone on silent mode and ignore everything. I would tell myself to lay down, sleep and pretend that I do not exist. Since I "do not exist" in that specific amount of time, nothing can bother my mind. I would normally wake up feeling refreshed and ready to deal with the issue. 
+Another method that works for me is to pretend that I do not exist in this world. I will put my phone on silent mode and ignore everything. I would tell myself to lay down, sleep and pretend that I do not exist. Since I "do not exist" in that specific amount of time, nothing can bother my mind. I would normally wake up feeling refreshed and ready to deal with the issue.
+
+<p style="align-text:center;padding:20px;"><b>Sometimes, all we need is a moment of peace and quiet without any interruptions. Once you've regained your calm, take a moment to rethink the issue.</b></p>
