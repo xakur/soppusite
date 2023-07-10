@@ -24,7 +24,7 @@ Power comes from within you.
 <br/><br/>
 To change yourself, to heal yourself, to pull yourself up.
 </div>
-
+---
 
 We tend to feel lonely when we have difficulty blending into the society, or when social norms do not line up with ours. When there is a lack of understanding and emotional support from people around us, the sense of loneliness can be immense and affect our daily lives.
 
