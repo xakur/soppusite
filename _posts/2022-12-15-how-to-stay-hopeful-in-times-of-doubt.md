@@ -13,8 +13,7 @@ excerpt:
 
 Self-doubt is possibly one of the worst feelings one can experience. It can be very difficult to stay hopeful in times of doubt. The feeling of doubt usually stems from the lack of self-confidence, causing you to not believe in yourself. When you do not believe in yourself, the things that you are working hard for might suddenly seem pointless. It can become difficult to see hope in what you want to pursue.
 
-<div style="align-text:center;">
-<b>If you are feeling this way right now...</b>
+<div style="align-text:center;"><b>If you are feeling this way right now...</b>
 <br/>
 Pause all thoughts that are running through your head.
 <br/>
