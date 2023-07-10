@@ -4,7 +4,7 @@ title: About
 subtitle: Hi there, welcome in! Thank you for dropping by!
 ---
 
-<img src="https://images.pexels.com/photos/278823/pexels-photo-278823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="candle flame" style="width:447px; height:303px; display: block; margin: 0 auto;">
+<img src="/assets/img/sliceofpower-banner2.png" alt="Slice of Power Logo" style="display: block; margin: 0 auto;">
 
 <p style="text-align:center;font-size:17px;">“The <b>greatest</b> thing in the world is to know <b>how to belong to oneself.</b>”</p>
 <p style="text-align:center;font-size:14px;"><i>– Michel De Montaigne –</i></p>
