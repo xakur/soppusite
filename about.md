@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Hi there, welcome in! Thank you for dropping by!
+subtitle: Hi there, welcome in!
 ---
 
 <h3 style="text-align:center;"><b>Grab a Slice of Power here.</b></h3>
