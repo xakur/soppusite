@@ -13,10 +13,11 @@
 /* block quote */
 blockquote {
   color: #111111;
-  padding: 0.625rem 1.25rem;
-  margin: 0 0 1.25rem;
-  font-size: 1.1rem;
-  border-left: 0.3rem solid #eee;
+  padding: 0.9375rem 0.9375rem 0.9375rem 1rem;
+  margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
+  border: 1px solid #eee;
+  border-left-width: 0.3125rem;
+  border-left-color: #2980b9;
 }
 
 blockquote p:last-child {
