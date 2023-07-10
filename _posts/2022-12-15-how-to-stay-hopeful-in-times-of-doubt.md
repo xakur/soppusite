@@ -66,6 +66,6 @@ A distraction keeps you from being too emotionally invested in the issue and kee
 
 Depending on how you feel, you might not "be in the mood" to do something else or to stop thinking about the issue. However, you will need to push yourself to do it. Be kind to yourself. You deserve the time to break free from the issue for the time being. Recharge yourself.
 
-<img src="https://images.pexels.com/photos/290164/pexels-photo-290164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="relaxing time">
+<img src="https://images.pexels.com/photos/5591676/pexels-photo-5591676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="relaxing time">
 
 Be away from your current situation for a couple of hours or even a few days. As much as possible, engage in relaxing activities that will not cause stress. You will return refreshed and ready, with more hope to continue your journey.
