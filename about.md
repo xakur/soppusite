@@ -11,8 +11,8 @@ subtitle: Hi there, welcome in! Thank you for dropping by!
 
 ---
 
-<h2 style="text-align:center;"><b>Grab a Slice of Power here.</b></h2>
-<p style="text-align:center;">Power to change, power to heal, power to keep moving.</p>
+## Grab a Slice of Power here.  
+Power to change, power to heal, power to keep moving.
 
 **Slice of Power** is here to provide emotional suppport for every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own independent healer, by promoting self-love and self-healing.
 
