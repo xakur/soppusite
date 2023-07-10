@@ -6,7 +6,7 @@ subtitle: Hi there, welcome in! Thank you for dropping by!
 
 <img src="https://images.pexels.com/photos/278823/pexels-photo-278823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="candle flame" style="width:447px; height:303px; display: block; margin: 0 auto;">
 
-<p style="text-align:center;"><h2><b>Grab a Slice of Power here.</b></h2></p>
+<p style="text-align:center;"><b><h2>Grab a Slice of Power here.</h2></b></p>
 Power to change, power to heal, power to keep moving.
 
 **Slice of Power** is here to provide emotional suppport for every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own independent healer, by promoting self-love and self-healing.
