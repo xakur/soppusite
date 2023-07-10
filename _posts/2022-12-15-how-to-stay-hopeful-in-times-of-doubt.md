@@ -13,10 +13,10 @@ excerpt: Self-doubt is possibly one of the worst feelings one can experience. It
 
 Self-doubt is possibly one of the worst feelings one can experience. It can be very difficult to stay hopeful in times of doubt. The feeling of doubt usually stems from the lack of self-confidence, causing you to not believe in yourself. When you do not believe in yourself, the things that you are working hard for might suddenly seem pointless. It can become difficult to see hope in what you want to pursue.
 
-<p style="align-text:center;"><b>If you are feeling this way right now...</b></p>
-<p style="align-text:center;">Pause all thoughts that are running through your head.</p>
-<p style="align-text:center;">Take a deep breath. Don't worry.</p>
-
+<div style="text-align:center;"><b>If you are feeling this way right now...</b>
+Pause all thoughts that are running through your head.
+Take a deep breath. Don't worry.</div>
+  
 Rest assured that this is not an uncommon feeling and there is nothing wrong with you. You are not alone. It is okay to feel sad and hopeless in our journey at times. We are only human after all. In moments like this, it is important to be kinder than we normally are to ourselves.
 
 We are all always learning to become better and stronger. Although this journey is not meant to be an easy one, you got this! Here are 5 ways on how to stay hopeful when you are feeling doubtful of yourself and your circumstances.
@@ -35,4 +35,4 @@ Sleeping helps to keep my mind from thinking about an issue. Certainly, it is no
 
 Another method that works for me is to pretend that I do not exist in this world. I will put my phone on silent mode and ignore everything. I would tell myself to lay down, sleep and pretend that I do not exist. Since I "do not exist" in that specific amount of time, nothing can bother my mind. I would normally wake up feeling refreshed and ready to deal with the issue.
 
-<p style="align-text:center;padding:20px;"><b>Sometimes, all we need is a moment of peace and quiet without any interruptions. Once you've regained your calm, take a moment to rethink the issue.</b></p>
+<p style="font-size:20px;padding:20px;"><b>Sometimes, all we need is a moment of peace and quiet without any interruptions. Once you've regained your calm, take a moment to rethink the issue.</b></p>
