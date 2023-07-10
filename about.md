@@ -29,9 +29,16 @@ Slice of Power wants to remind everyone that the power lies in you.
 
 It is always in you. Even if you do not think so, let Slice of Power help you rediscover your inner strength. Let Slice of Power act as a supportive friend to comfort you in times of doubt and distress. To help you support yourself to the very end.
 
-<h2 style="text-align:center">About the Author</h2>
-> _"Corresponding to the site title, I go by the pseudonym of "Slice". A Slice here for your support._
->
-> I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support I needed from people around me. I did not have understanding people around me. It was painful. Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment I received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be present by our side. We are fine on our own. Through the Power of our minds. Form your own Power, Be your own Slice of Power!"
+---
 
-<p style="text-align:center;font-size:22px;">The key to anything is to love yourself first. You will always have yourself, you are 24/7 always there to support yourself. Show the most love to yourself.</p>
+<h2 style="text-align:center">About the Author</h2>
+> _"Corresponding to the site title, I go by the pseudonym of "Slice"._  
+> _A Slice here for your support._
+>
+> _I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful._
+>
+> _Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment I received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be present by our side. We are fine on our own. Through the Power of our minds._
+>
+> _Form your own Power, Be your own Slice of Power!"_
+
+<p style="text-align:center;font-size:18px;">The key to anything is to love yourself first. You will always have yourself, you are 24/7 always there to support yourself. Show the most love to yourself.</p>
