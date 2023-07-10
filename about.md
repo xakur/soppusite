@@ -24,7 +24,7 @@ Power comes from within you.
 To change yourself, to heal yourself, to pull yourself up.
 </div>
 
-![Slice of Power Logo](/assets/img/sliceofpower-banner2.png)
+![Slice of Power Logo]
 
 We tend to feel lonely when we have difficulty blending into the society, or when social norms do not line up with ours. When there is a lack of understanding and emotional support from people around us, the sense of loneliness can be immense and affect our daily lives.
 
