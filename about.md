@@ -7,7 +7,7 @@ subtitle: Hi there, welcome in!
 ---
 
 <h3 style="text-align:center;"><b>Grab a Slice of Power here.</b></h3>
-<p style="text-align:center;">Power to change. Power to heal. Power to keep moving on.</p>
+<p style="text-align:center;">Power to change. Power to heal. Power to keep moving.</p>
 
 <img src="https://images.pexels.com/photos/278823/pexels-photo-278823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="candle flame" style="width:447px; height:303px; display: block; margin: 0 auto;">
 
@@ -46,7 +46,7 @@ Thank you for visiting Slice of Power!
 </blockquote>
 
 ---
-<div style="text-align:right;">The key to anything is to love yourself first.
+<div style="text-align:center;font-size:16px;"><b>The key to anything is to love yourself first.</b>
 <br/>
 You are always there, supporting yourself to go through the motions of life. 
 <br/>
