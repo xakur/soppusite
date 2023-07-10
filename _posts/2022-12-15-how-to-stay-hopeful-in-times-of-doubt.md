@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stay Hopeful in times of Doubt
-share-description: 5 tips to be unaffected by what others say · It’s a reflection of themselves · The words are not meant for you · Do not stoop to their level · The world moves on · Keep yourself in check
+share-description: How to Stay Hopeful in times of Doubt · Pause and breathe · Avoid being hard on yourself · Distract yourself · Be excited for what is to come · Reach out to someone or something that gives you hope
 thumbnail-img: "https://images.pexels.com/photos/920036/pexels-photo-920036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 categories: life-tips
 tags: life-tips
