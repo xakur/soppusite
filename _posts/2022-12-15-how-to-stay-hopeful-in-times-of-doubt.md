@@ -44,3 +44,13 @@ Identify the source of your sadness and unpleasant feelings. Are you over-exerti
 Take your time to think it through and craft a plan that works for you.
 
 ## 2. Avoid being too hard on yourself
+
+You are making progress, so you are doing okay.
+
+When chasing after a goal, we may sometimes become very anxious in our journey when we are very eager to reach our destination. We might become overly critical of ourselves along the way. We might get upset whenever we make a blunder. Hopelessness starts creeping in because we think we are falling short of ourselves.
+
+Avoid beating yourself up over small mistakes or for taking longer than expected time to complete something. It is okay. It is normal and bound to happen. As you become more familiarized with the process, you will take a shorter time to complete the process next time.
+
+<img src="https://images.pexels.com/photos/5319911/pexels-photo-5319911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="climbing the stairs" style="width:503px; height:318px; display: block; margin: 0 auto;">
+
+
