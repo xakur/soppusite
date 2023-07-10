@@ -15,12 +15,12 @@ subtitle: Hi there, welcome in! Thank you for dropping by!
 <p style="text-align:center;">Power to change. Power to heal. Power to keep moving on.</p>
 ---
 <div style="text-align:center">
-<b>Slice of Power**</b> is here to provide emotional suppport for every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own <b>independent healer</b>, by promoting self-love and self-healing.
-<br/>
+<b>Slice of Power</b> is here to provide emotional suppport for every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own <b>independent healer</b>, by promoting self-love and self-healing.
+<br/><br/>
 Eventually, you will realize that you're your own Slice of Power after all.
-<br/>
+<br/><br/>
 Power comes from within you.
-<br/>
+<br/><br/>
 To change yourself, to heal yourself, to pull yourself up.
 </div>
 
