@@ -13,7 +13,9 @@
 /* block quote */
 blockquote {
   color: #111111;
-  border-left-color: #737373;
-  border-left-width: 0.3125rem;
-  border-radius: 0.3125rem 0.1875rem 0.1875rem 0.3125rem;
+  padding: 0.625rem 1.25rem;
+  margin: 0 0 1.25rem;
+  font-size: 1.1rem;
+  border-left: 0.3125rem solid #eee;
 }
+
