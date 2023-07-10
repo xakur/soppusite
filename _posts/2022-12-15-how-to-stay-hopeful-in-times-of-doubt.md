@@ -37,7 +37,7 @@ Sleeping helps to keep my mind from thinking about an issue. Certainly, it is no
 
 Another method that works for me is to pretend that I do not exist in this world. I will put my phone on silent mode and ignore everything. I would tell myself to lay down, sleep and pretend that I do not exist. Since I "do not exist" in that specific amount of time, nothing can bother my mind. I would normally wake up feeling refreshed and ready to deal with the issue.
 
-<p style="font-size:21px;padding:20px;font-family:tahoma"><b>Sometimes, all we need is a moment of peace and quiet without any interruptions. Once you've regained your calm, take a moment to rethink the issue.</b></p>
+<p style="padding:20px;font-family:Tahoma"><b>Sometimes, all we need is a moment of peace and quiet without any interruptions. Once you've regained your calm, take a moment to rethink the issue.</b></p>
 
 Identify the source of your sadness and unpleasant feelings. Are you over-exerting yourself? Are you giving yourself enough time to work on it? Are you way too under-progress? If so, what's inhibiting you from being more active in what you want to do?
 
@@ -51,7 +51,7 @@ When chasing after a goal, we may sometimes become very anxious in our journey w
 
 Avoid beating yourself up over small mistakes or for taking longer than expected time to complete something. It is okay. It is normal and bound to happen. As you become more familiarized with the process, you will take a shorter time to complete the process next time.
 
-<p style="font-size:21px;padding:20px;font-family:arial"><b>In times of doubt, do whatever it takes to keep you going.
+<p style="padding:20px;font-family:Tahoma"><b>In times of doubt, do whatever it takes to keep you going.
 <br/>Aim for progress, not perfection.
 <br/>Any progress, as small as it may be, is good progress.</b></p>
 
@@ -61,7 +61,7 @@ Focus on moving forward first. Be patient. Perfecting it can come later. Just ke
 
 A distraction keeps you from being too emotionally invested in the issue and keep your mind off from the negative feelings. Some examples of distraction activities are going out for a walk, watching funny videos, trying a new recipe, talking to a friend, playing games, taking a good nap etc. Do whatever that works for you.
 
-<p style="font-size:21px;padding:20px;font-family:arial"><b>A change in environment and activities can shift your focus away from your worries or sadness that is causing the hopelessness.
+<p style="padding:20px;font-family:Tahoma"><b>A change in environment and activities can shift your focus away from your worries or sadness that is causing the hopelessness.
 <br/>Give yourself the time and space to stay away from what is bothering you.</b></p>
 
 Depending on how you feel, you might not "be in the mood" to do something else or to stop thinking about the issue. However, you will need to push yourself to do it. Be kind to yourself. You deserve the time to break free from the issue for the time being. Recharge yourself.
