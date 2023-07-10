@@ -31,14 +31,14 @@ It is always in you. Even if you do not think so, let Slice of Power help you re
 
 ---
 
-<h3 style="text-align:center">About the Author</h3>
+### About the Author
 
-<blockquote style="font-style:italic; color:#6d6d6d; font-size:18px;">"Corresponding to the site title, I go by the pseudonym of "Slice". A Slice for your support.
-</br>
+<blockquote style="font-style:italic; color:#535353; font-size:18px;">"Corresponding to the site title, I go by the pseudonym of "Slice". A Slice for your support.
+<br/>
 I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful.
-</br>
+<br/>
 Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be present by our side. We are fine on our own. Through the Power of our minds.
-</br>
+<br/>
 Form your own Power, Be your own Slice of Power!" - Best Wishes, Slice
 </blockquote>
 
