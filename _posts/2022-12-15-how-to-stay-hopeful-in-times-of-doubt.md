@@ -54,10 +54,12 @@ Avoid beating yourself up over small mistakes or for taking longer than expected
 <img src="https://images.pexels.com/photos/5319911/pexels-photo-5319911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="climbing the stairs" style="width:503px; height:318px; display: block; margin: 0 auto;">
 
 <p style="font-size:20px;padding:20px;"><b>In times of doubt, do whatever it takes to keep you going.
-<br/>
-Aim for progress, not perfection.
-<br/>
-Any progress, as small as it may be, is good progress.</b>
-</p>
+<br/>Aim for progress, not perfection.
+<br/>Any progress, as small as it may be, is good progress.</b></p>
 
+Focus on moving forward first. Be patient. Perfecting it can come later. Just keep moving, you will get there.
+
+## 3. Distract yourself
+
+A distraction keeps you from being too emotionally invested in the issue and keep your mind off from the negative feelings. Some examples of distraction activities are going out for a walk, watching funny videos, trying a new recipe, talking to a friend, playing games, taking a good nap etc. Do whatever that works for you.
 
