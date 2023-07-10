@@ -15,7 +15,7 @@ subtitle: Hi there, welcome in! Thank you for dropping by!
 <p style="text-align:center;">Power to change. Power to heal. Power to keep moving on.</p>
 ---
 <div style="text-align:center">
-<b>Slice of Power</b> is here to provide emotional suppport for every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own <b>independent healer</b>, through promoting self-love and self-healing.
+Slice of Power is here to provide emotional suppport for every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own <b>independent healer</b>, through promoting self-love and self-healing.
 <br/><br/>
 Eventually, you will realize that you're your own Slice of Power after all.
 <br/><br/>
@@ -23,7 +23,8 @@ Power comes from within you.
 <br/><br/>
 To change yourself, to heal yourself, to pull yourself up.
 </div>
----
+
+![Slice of Power Logo](/assets/img/sliceofpower-banner2.png)
 
 We tend to feel lonely when we have difficulty blending into the society, or when social norms do not line up with ours. When there is a lack of understanding and emotional support from people around us, the sense of loneliness can be immense and affect our daily lives.
 
