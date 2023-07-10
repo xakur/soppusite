@@ -53,8 +53,8 @@ Avoid beating yourself up over small mistakes or for taking longer than expected
 
 <img src="https://images.pexels.com/photos/5319911/pexels-photo-5319911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="climbing the stairs" style="width:503px; height:318px; display: block; margin: 0 auto;">
 
-<div style="font-size:20px;padding:20px;">In times of doubt, do whatever it takes to keep you going. 
-<p>Aim for progress, not perfection.</p>
-Any progress, as small as it may be, is good progress.</div>
+<div style="font-size:20px;padding:20px;"><b>In times of doubt, do whatever it takes to keep you going.
+<br/>Aim for progress, not perfection.
+<br/>Any progress, as small as it may be, is good progress.</b></div>
 
 
