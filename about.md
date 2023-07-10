@@ -14,7 +14,7 @@ Power to change, power to heal, power to keep moving.
 
 Eventually, you will realize that you're your own Slice of Power after all.
 
-<p style="text-align:center;font-size:18px;"><h2><b>Power comes from within you.</b></h2></p>
+<p style="text-align:center;font-size:18px;">Power comes from within you.</p>
 <p style="text-align:center;font-size:18px;">To change yourself, to heal yourself, to pull yourself up.</p>
 
 We tend to feel lonely when we have difficulty blending into the society, or when social norms do not line up with ours. When there is a lack of understanding and emotional support from people around us, the sense of loneliness can be immense and affect our daily lives.
