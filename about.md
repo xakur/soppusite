@@ -46,7 +46,7 @@ Thank you for visiting Slice of Power!
 </blockquote>
 
 ---
-<div style="text-align:center;font-size:16px;"><b>The key to anything is to love yourself first.</b>
+<div style="text-align:center;font-size:17px;">The key to anything is to love yourself first.
 <br/>
 You are always there, supporting yourself to go through the motions of life. 
 <br/>
