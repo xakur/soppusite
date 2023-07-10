@@ -36,18 +36,18 @@ Thank you for visiting Slice of Power!
 
 ### About the Author
 
-<blockquote style="color:#484848; font-size:18px;"><i>"Corresponding to the site title, I go by the pseudonym of "Slice". A Slice for your support.</i>
+<blockquote style="color:#484848; font-size:18px;"><i>"Corresponding to the site title, I go by the pseudonym of "Slice".</i>
 <br/>
-I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful.</i>
+<i>A Slice for your support. I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful.</i>
 <br/>
 <i>Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be by our side. We are fine on our own. Through the power of our minds.</i>
 <br/><br/>
-<i>Form your own Power, Be your own Slice of Power!"</i> - Slice
+<i>Form your own Power, Be your own Slice of Power!"</i>  - Slice
 </blockquote>
 
 ---
 <div style="text-align:center;">The key to anything is to love yourself first.
 <br/>
-You will always have yourself, always supporting yourself 24/7 to go through the motions of life. 
+You are always there, supporting yourself 24/7 to go through the motions of life. 
 <br/>
 <b>Show the most love to yourself.</b></div>
