@@ -32,13 +32,17 @@ It is always in you. Even if you do not think so, let Slice of Power help you re
 ---
 
 <h2 style="text-align:center">About the Author</h2>
-> _"Corresponding to the site title, I go by the pseudonym of "Slice"._  
-> _A Slice here for your support._
+> _"Corresponding to the site title, I go by the pseudonym of "Slice". A Slice here for your support._
 >
 > _I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful._
 >
-> _Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment I received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be present by our side. We are fine on our own. Through the Power of our minds._
+> _Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be present by our side. We are fine on our own. Through the Power of our minds._
 >
 > _Form your own Power, Be your own Slice of Power!"_
 
-<p style="text-align:center;font-size:18px;">The key to anything is to love yourself first. You will always have yourself, you are 24/7 always there to support yourself. Show the most love to yourself.</p>
+
+<div style="text-align:center;>The key to anything is to love yourself first.
+<br/>
+You will always have yourself, always supporting yourself 24/7 to go through the motions of life. 
+<br/>
+Show the most love to yourself.</div>
