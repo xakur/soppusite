@@ -37,7 +37,7 @@ Sleeping helps to keep my mind from thinking about an issue. Certainly, it is no
 
 Another method that works for me is to pretend that I do not exist in this world. I will put my phone on silent mode and ignore everything. I would tell myself to lay down, sleep and pretend that I do not exist. Since I "do not exist" in that specific amount of time, nothing can bother my mind. I would normally wake up feeling refreshed and ready to deal with the issue.
 
-<p style="padding:20px;font-family:Tahoma"><b>Sometimes, all we need is a moment of peace and quiet without any interruptions. Once you've regained your calm, take a moment to rethink the issue.</b></p>
+<p style="padding:20px;"><b>Sometimes, all we need is a moment of peace and quiet without any interruptions. Once you've regained your calm, take a moment to rethink the issue.</b></p>
 
 Identify the source of your sadness and unpleasant feelings. Are you over-exerting yourself? Are you giving yourself enough time to work on it? Are you way too under-progress? If so, what's inhibiting you from being more active in what you want to do?
 
