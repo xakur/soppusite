@@ -16,9 +16,9 @@ subtitle: Hi there, welcome in!
 
 **Slice of Power** is here to provide emotional suppport to every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own independent healer, through promoting self-love and self-healing.
 
-Eventually, you will realize that you're your own Slice of Power after all.
-
 Power comes from within you.
+
+Eventually, you will realize that you're your own Slice of Power after all.
 
 To change yourself, to heal yourself, to pull yourself up.
 
