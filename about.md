@@ -13,9 +13,10 @@ subtitle: Hi there, welcome in!
 <p style="text-align:center;font-size:14px;"><i>– Michel De Montaigne –</i></p>
 ---
 
-**Slice of Power** is here to provide emotional suppport for every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own independent healer, through promoting self-love and self-healing.
+**Slice of Power** is here to provide emotional suppport for every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own independent healer, by promoting self-love and self-healing.
 
-Eventually, you will realize that you're your own Slice of Power after all. Power comes from within you.
+Eventually, you will realize that you're your own Slice of Power after all.  
+Power comes from within you.
 
 To change yourself, to heal yourself, to pull yourself up.
 
@@ -24,7 +25,9 @@ To change yourself, to heal yourself, to pull yourself up.
 
 We tend to feel lonely when we have difficulty blending into the society, or when social norms do not line up with ours. When there is a lack of understanding and emotional support from people around us, the sense of loneliness can be immense and affect our daily lives.
 
-Slice of Power wants to remind everyone that the power lies in you. It is always in you. Even if you do not think so, let Slice of Power help you rediscover your strength. Let Slice of Power act as a supportive friend to comfort you in times of doubt and distress. To help you support yourself to the very end.
+Slice of Power wants to remind everyone that the power lies in you.
+
+It is always in you. Even if you do not think so, **let Slice of Power help you rediscover your inner strength**. Let Slice of Power act as a supportive friend to comfort you in times of doubt and distress. To help you support yourself to the very end.
 
 
 
