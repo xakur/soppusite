@@ -51,8 +51,6 @@ When chasing after a goal, we may sometimes become very anxious in our journey w
 
 Avoid beating yourself up over small mistakes or for taking longer than expected time to complete something. It is okay. It is normal and bound to happen. As you become more familiarized with the process, you will take a shorter time to complete the process next time.
 
-<img src="https://images.pexels.com/photos/5319911/pexels-photo-5319911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="climbing the stairs" style="width:503px; height:318px; display: block; margin: 0 auto;">
-
 <p style="font-size:20px;padding:20px;"><b>In times of doubt, do whatever it takes to keep you going.
 <br/>Aim for progress, not perfection.
 <br/>Any progress, as small as it may be, is good progress.</b></p>
@@ -62,4 +60,7 @@ Focus on moving forward first. Be patient. Perfecting it can come later. Just ke
 ## 3. Distract yourself
 
 A distraction keeps you from being too emotionally invested in the issue and keep your mind off from the negative feelings. Some examples of distraction activities are going out for a walk, watching funny videos, trying a new recipe, talking to a friend, playing games, taking a good nap etc. Do whatever that works for you.
+
+<p style="font-size:20px;padding:20px;"><b>A change in environment and activities can shift your focus away from your worries or sadness that is causing the hopelessness. 
+<br/>Give yourself the time and space to stay away from what is bothering you.</b></p>
 
