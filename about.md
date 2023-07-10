@@ -2,6 +2,7 @@
 layout: page
 title: About
 share-title: About | Slice of Power
+share-description: Slice of Power is here to provide emotional suppport to every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own independent healer, through promoting self-love and self-healing.
 subtitle: Hi there, welcome in!
 ---
 
@@ -37,9 +38,9 @@ Thank you for visiting Slice of Power!
 ### About the Author
 
 <blockquote style="color:#484848; font-size:18px;"><i>"Corresponding to the site title, I go by the pseudonym of "Slice".</i><br/>
-<i>A Slice for your support. I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful.</i>
-<br/>
-<i>Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be by our side. We are fine on our own. Through the power of our minds.</i>
+<i>A Slice for your support. Life gets rough sometimes and it can be tough to get the support you need.  I just want to help people through my words.</i>
+<br/><br/>
+<i>Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful. Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be by our side. We are fine on our own. Through the power of our minds.</i>
 <br/><br/>
 <i>Form your own Power, Be your own Slice of Power!"</i>  - Slice
 </blockquote>
@@ -47,6 +48,6 @@ Thank you for visiting Slice of Power!
 ---
 <div style="text-align:center;">The key to anything is to love yourself first.
 <br/>
-You are always there, supporting yourself 24/7 to go through the motions of life. 
+You are always there, supporting yourself to go through the motions of life. 
 <br/>
 <b>Show the most love to yourself.</b></div>
