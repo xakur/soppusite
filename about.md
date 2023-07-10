@@ -39,9 +39,8 @@ It is always in you. Even if you do not think so, let Slice of Power help you re
 > _Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be present by our side. We are fine on our own. Through the Power of our minds._
 >
 > _Form your own Power, Be your own Slice of Power!"_
-- _Best Wishes,_ Slice
 
-<div style="text-align:center;>The key to anything is to love yourself first.
+<div style="text-align:center;">The key to anything is to love yourself first.
 <br/>
 You will always have yourself, always supporting yourself 24/7 to go through the motions of life. 
 <br/>
