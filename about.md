@@ -9,7 +9,7 @@ subtitle: Hi there, welcome in!
 
 <img src="https://images.pexels.com/photos/278823/pexels-photo-278823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="candle flame" style="width:447px; height:303px; display: block; margin: 0 auto;">
 
-<p style="text-align:center;font-size:18px;">“The <b>greatest</b> thing in the world is to know <b>how to belong to oneself.</b>”</p>
+<p style="text-align:center;">“The <b>greatest</b> thing in the world is to know <b>how to belong to oneself.</b>”</p>
 <p style="text-align:center;font-size:14px;"><i>– Michel De Montaigne –</i></p>
 ---
 
@@ -33,17 +33,18 @@ It is always in you. Even if you do not think so, let Slice of Power help you re
 
 ### About the Author
 
-<blockquote style="font-style:italic; color:#535353; font-size:18px;">"Corresponding to the site title, I go by the pseudonym of "Slice". A Slice for your support.
+<blockquote style="color:#484848; font-size:16px;">"Corresponding to the site title, I go by the pseudonym of "Slice". 
 <br/>
-I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful.
+<i>A Slice for your support. I just want to help people through my words. Life gets rough and it is sometimes tough to get the support you need. Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful.</i>
 <br/>
-Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be present by our side. We are fine on our own. Through the Power of our minds.
+<i>Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be by our side. We are fine on our own. Through the Power of our minds.</i>
 <br/>
-Form your own Power, Be your own Slice of Power!" - Best Wishes, Slice
+<i>Form your own Power, Be your own Slice of Power!"</i> - Slice
 </blockquote>
 
+---
 <div style="text-align:center;">The key to anything is to love yourself first.
 <br/>
 You will always have yourself, always supporting yourself 24/7 to go through the motions of life. 
 <br/>
-Show the most love to yourself.</div>
+<b>Show the most love to yourself.</b></div>
