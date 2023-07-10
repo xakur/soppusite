@@ -10,7 +10,6 @@ subtitle: Hi there, welcome in! Thank you for dropping by!
 <p style="text-align:center;font-size:14px;"><i>– Michel De Montaigne –</i></p>
 
 ---
-
 <br/><br/>
 <h3 style="text-align:center;"><b>Grab a Slice of Power here.</b></h3>
 <p style="text-align:center;">Power to change. Power to heal. Power to keep moving on.</p>
