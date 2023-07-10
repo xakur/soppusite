@@ -6,7 +6,7 @@ thumbnail-img: "https://images.pexels.com/photos/920036/pexels-photo-920036.jpeg
 categories: life-tips
 tags: life-tips
 readtime: true
-excerpt: 
+excerpt: Self-doubt is possibly one of the worst feelings one can experience. It can be very difficult to stay hopeful in times of doubt. The feeling of doubt usually stems from the lack of self-confidence, causing you to not believe in yourself. When you do not believe in yourself, the things that you are working hard for might suddenly seem pointless. It can become difficult to see hope in what you want to pursue.
 ---
 
 ![troubled man](https://images.pexels.com/photos/920036/pexels-photo-920036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
@@ -33,4 +33,8 @@ Deep breathing helps to restore our calm quickly. Studies have shown that [slow,
 
 If the feelings are overwhelming, drop whatever you are doing and give yourself some alone time to recharge. If you cannot do it right away (due to work, for example), stop whatever you are doing as soon as it is fine to do so. Permit yourself to rest and do nothing. Or do something else to take your mind off for the time being. Pause, step away from what you were doing and "reset" yourself.
 
-<img src="https://images.pexels.com/photos/290164/pexels-photo-290164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="sleeping kitten" style="width:503px; height:318px;">
+<img src="https://images.pexels.com/photos/290164/pexels-photo-290164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="sleeping kitten" style="width:503px; height:318px; display: block; margin: 0 auto;">
+
+Sleeping helps to keep my mind from thinking about an issue. Certainly, it is not always easy to fall asleep when you have a troubled mind. I would sometimes listen to soothing music and meditation tracks to help me shut my mind and go to sleep.
+
+Another method that works for me is to pretend that I do not exist in this world. I will put my phone on silent mode and ignore everything. I would tell myself to lay down, sleep and pretend that I do not exist. Since I "do not exist" in that specific amount of time, nothing can bother my mind. I would normally wake up feeling refreshed and ready to deal with the issue. 
