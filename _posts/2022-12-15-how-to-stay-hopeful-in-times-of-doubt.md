@@ -16,7 +16,7 @@ Self-doubt is possibly one of the worst feelings one can experience. It can be v
 <div style="text-align:center;"><b>If you are feeling this way right now...</b>
 <br/>
 Pause all thoughts that are running through your head.
-</br/>
+</br>
 Take a deep breath. Don't worry.</div>
   
 Rest assured that this is not an uncommon feeling and there is nothing wrong with you. You are not alone. It is okay to feel sad and hopeless in our journey at times. We are only human after all. In moments like this, it is important to be kinder than we normally are to ourselves.
