@@ -9,6 +9,8 @@ subtitle: Hi there, welcome in! Thank you for dropping by!
 <p style="text-align:center;font-size:18px;">“The <b>greatest</b> thing in the world is to know <b>how to belong to oneself.</b>”</p>
 <p style="text-align:center;font-size:14px;"><i>– Michel De Montaigne –</i></p>
 
+---
+
 <h2 style="text-align:center;"><b>Grab a Slice of Power here.</b></h2>
 <p style="text-align:center;">Power to change, power to heal, power to keep moving.</p>
 
