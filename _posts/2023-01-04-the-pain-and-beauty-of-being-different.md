@@ -51,7 +51,11 @@ I think each person’s growing up years play a very critical role in shaping ch
 
 <img src="https://images.pexels.com/photos/7114103/pexels-photo-7114103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="child feeling sad">
 
-My family wasn't accepting of my quirks. I behave differently from my siblings and even my cousins. Among many other traits, they are more studious and obedient, while I am the playful one. My parents' way of parenting did not allow me to be me. Growing up, I felt awkward in my own body. It did not feel like I was living for myself and it was hard to be happy. I often felt drained and soulless. Fortunately, I managed to find myself again eventually. It took me many years to recover, as I had to relearn how to be comfortable with myself, heal from past hurts and live as myself again.
+My family wasn't accepting of my quirks. I behave differently from my siblings and even my cousins. Among many other traits, they are more studious and obedient, while I am the playful one. My parents' way of parenting did not allow me to be me.
+
+Growing up, I felt awkward in my own body. It did not feel like I was living for myself and it was hard to be happy. I often felt drained and soulless.
+
+Fortunately, I managed to find myself again eventually. It took me many years to recover, as I had to relearn how to be comfortable with myself, heal from past hurts and live as myself again.
 
 When we were young, we might had felt obliged to follow whatever the older ones had told us to do. It can be suppressing. Unfortunately, whatever that was said can follow us for many years into adulthood. I only hope that for those of us who are born to be different, we will all receive the enlightenment early on - to be brave to be who we are no matter what.
 
@@ -81,7 +85,7 @@ As much as being different might bring us some inconveniences, I like to believe
 
 Our differences (be it our mannerisms, thoughts or ways of doing things) might be frowned upon, but we can turn them into our advantage. The first step to turning our difference into our advantage is to embrace ourselves.
 
-<p style="text-align:center;text-size:22px;"><b>Accept yourself. Love yourself.
+<p style="text-align:center;font-size:20px;"><b>Accept yourself. Love yourself.
 <br/>
 Don't be judgmental to yourself.</b></p>
 
