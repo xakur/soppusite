@@ -35,12 +35,11 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
   <p>You will never get anything done, if you constantly spend your time and energy comparing yourself to other people’s accomplishments. You should invest your energy in yourself instead - do something to help you get there (get to where you).</p>
   </div>
 </div>
+<br/>
 
 <div class="imgtext-container">
-<p style="font-size:20px; font-weight:bold;">Once you start comparing, it will be a never-ending chore.</p></div>
-
-dfsfsf
-You will never get anything done, if you constantly spend your time and energy comparing yourself to other people’s accomplishments. You should invest your energy in yourself instead - do something to help you get there (get to where you want).
+<p style="font-size:20px; font-weight:bold;">Once you start comparing, it will be a never-ending chore.</p>
+<p>If you want to compare one part, you will have to compare the other parts as well. You have to consider all sides to make it a fair and well-founded comparison. It would not make sense to make a comparison in one area. We all have our merits and flaws. On the surface, we might think that someone is better than us, however, they are bound to have areas where they are weak in too. So even if we have a hard time in certain things and others do not seem to, they are bound to have a bad time in some other areas that we are fine with.</p></div>
 
 
 
