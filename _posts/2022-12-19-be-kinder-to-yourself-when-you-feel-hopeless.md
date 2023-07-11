@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Feeling hopeless? Be kinder to yourself
-share-description: How to Stay Hopeful in times of Doubt · Pause and breathe · Avoid being hard on yourself · Distract yourself · Be excited for what is to come · Reach out to someone or something that gives you hope
+share-description: When we start doubting ourselves, it seems that nothing good will happen no matter how hard we try. We lose hope. Remember to be kinder to yourself than usual in times like this. Give yourself credit for all the little achievements you have made so far.
 thumbnail-img: /assets/img/hopeless-be-kind-to-yourself.jpg
 categories: the-deep
 tags: the-deep
 readtime: true
-excerpt: Self-doubt is possibly one of the worst feelings one can experience. It can be very difficult to stay hopeful in times of doubt. The feeling of doubt usually stems from the lack of self-confidence, causing you to not believe in yourself. When you do not believe in yourself, the things that you are working hard for might suddenly seem pointless. It can become difficult to see hope in what you want to pursue.
+excerpt: Hopelessness is terrifying. When we start doubting ourselves, it seems that nothing good is going to happen no matter how hard we try. We doubt the purpose of our goal or dream and we doubt our abilities altogether. We lose a sense of hope in life. In times like this, remember to be kinder to yourself. Be kinder than usual.
 ---
 
 ![sad lady](/assets/img/hopeless-be-kind-to-yourself.jpg)
