@@ -21,7 +21,7 @@ Often, comparing ourselves to someone leads to negative feelings – we feel tha
 
 From another perspective, looking up to someone is not quite the same as comparing yourself to others. When you look up to someone, you admire them for who they are as you see the positive points in them. You naturally acknowledge that they are better than you and you hope to achieve the same.
 
-<img src="https://images.pexels.com/photos/5669602/pexels-photo-5669602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="weighing scale" style="width:335px; height:525px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/5669602/pexels-photo-5669602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="weighing scale" style="width:305px; height:495px; display: block; margin: 0 auto;">
 
 You are not putting yourself and the other party on a weighing scale to see who is "heavier" (better), but rather, you are only evaluating the differences between the two of you from an objective point of view. It is unlike a "comparison" where you are picking out differences and deciding who is better. It depends on your attitude at the end of the day.
 
@@ -31,7 +31,7 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 
 <div class="imgtext-container">
   <div><img src="https://images.pexels.com/photos/6289065/pexels-photo-6289065.jpeg" style="width: 2000px; max-height:100%"></div>
-  <div style="padding: 20px;"><p style="font-size:20px; font-weight:bold;">Comparison will stall your progress, as you are putting too much focus on others instead of yourself.</p>
+  <div style="padding-top:30px; padding-left:20px; padding-right:20px; padding-bottom:10px;"><p style="font-size:20px; font-weight:bold;">Comparison will stall your progress, as you are putting too much focus on others instead of yourself.</p>
   <p>You will never get anything done, if you constantly spend your time and energy comparing yourself to other people’s accomplishments. You should invest your energy in yourself instead - do something to help you get there (get to where you).</p>
   </div>
 </div>
