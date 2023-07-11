@@ -35,8 +35,10 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
   <p>You will never get anything done, if you constantly spend your time and energy comparing yourself to other people’s accomplishments. You should invest your energy in yourself instead - do something to help you get there (get to where you).</p>
   </div>
 </div>
-  
-      
+
+{: .imgtext-container}
+You will never get anything done, if you constantly spend your time and energy comparing yourself to other people’s accomplishments. You should invest your energy in yourself instead - do something to help you get there (get to where you want).
+
 
 
 
