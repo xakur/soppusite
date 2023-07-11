@@ -59,7 +59,7 @@ Growing up, I felt awkward in my own body. It did not feel like I was living for
 
 Fortunately, I managed to find myself again eventually. It took me many years to recover, as I had to relearn how to be comfortable with myself, heal from past hurts and live as myself again.
 
-When we were young, we might had felt obliged to follow whatever the older ones had told us to do. It can be suppressing. Unfortunately, whatever that was said can follow us for many years into adulthood. I only hope that for those of us who are born to be different, we will all receive the enlightenment early on - to be brave to be who we are no matter what.
+When we were young, we might have felt obliged to follow whatever the older ones had told us to do. It can be suppressing. Unfortunately, whatever that was said can follow us for many years into adulthood. I only hope that for those of us who are born to be different, we will all receive the enlightenment early on - to be brave to be who we are no matter what.
 
 ## Being different is a natural state
 
