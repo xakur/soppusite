@@ -36,7 +36,7 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
   </div>
 </div>
 
-<div class="imgtext-container" style="display: block; text-align:center; padding-top:40px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
+<div class="imgtext-container" style="display: block; text-align:center; padding-top:40px; padding-left:40px; padding-right:40px; padding-bottom:10px; margin-bottom:40px;">
   <p style="font-size:21px; font-weight:bold;">Once you start comparing, it will be a never-ending chore.</p>
   <p>If you want to compare one part, you will have to compare the other parts as well. You have to consider all sides to make it a fair and well-founded comparison. It would not make sense to make a comparison in one area. We all have our merits and flaws. On the surface, we might think that someone is better than us, however, they are bound to have areas where they are weak in too. So even if we have a hard time in certain things and others do not seem to, they are bound to have a bad time in some other areas that we are fine with.</p>
   <p>We might not see it, but everyone has their own difficulties to go through. <b>With all sides considered, you would realize that the game of comparing is never-ending and it amounts to nothing at the end of the day.</b> You only have to work on yourself to become a better version of yourself. This has nothing to do with someone else.</p>
