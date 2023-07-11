@@ -37,7 +37,9 @@ Obviously, if I genuinely like a song, I will admit that I like it. But it just 
 
 <img src="https://images.pexels.com/photos/33535/primate-ape-thinking-mimic.jpg" alt="an ape thinking" style="width:503px; height:318px; display: block; margin: 0 auto;">
 
-Many times in my life, I find myself wondering, _“Why on earth do people like to ask about (certain topic)?”, “Why do people prioritize appearance so much?”, “Why do people only start liking a celebrity after they have become popular?”, “Why do people blindly follow the crowd just because someone said so?”_ and so on. A lot of these questions pop up in my mind. I don’t do or think about what most people do, and hence I question their behavior. 
+Many times in my life, I find myself wondering, _“Why on earth do people like to ask about (certain topic)?”, “Why do people prioritize appearance so much?”, “Why do people only start liking a celebrity after they have become popular?”, “Why do people blindly follow the crowd just because someone said so?”_ and so on.
+
+A lot of these questions pop up in my mind. I don’t do or think about what most people do, and hence I question their behavior. 
 
 Yet, it turns out that I’m actually the weird one who holds different opinions. Turns out that I’m being overly harsh when I get annoyed when I spot basic grammatical errors in work emails – it looks unprofessional to me, but it apparently is common and can be let off.
 
@@ -79,7 +81,8 @@ As much as being different might bring us some inconveniences, I like to believe
 
 Our differences (be it our mannerisms, thoughts or ways of doing things) might be frowned upon, but we can turn them into our advantage. The first step to turning our difference into our advantage is to embrace ourselves.
 
-**Accept yourself. Love yourself.**  
-**Don't be judgmental to yourself.**
+<p style="text-align:center;text-size:20px;">Accept yourself. Love yourself.
+<br/>
+Don't be judgmental to yourself.</p>
 
-I understand this can be difficult sometimes, especially if you had grown up in a household that was not supportive of your differences. People might have made negative assumptions of you due to that. **It’s important to remind yourself to love yourself**.
+I understand this can be difficult sometimes, especially if you had grown up in a household that was not supportive of your differences. People might have made negative assumptions of you due to that. It’s important to remind yourself to love yourself.
