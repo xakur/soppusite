@@ -2,14 +2,14 @@
 layout: post
 title: The Pain and Beauty of Being Different
 share-description: When we start doubting ourselves, it seems that nothing good will happen no matter how hard we try. We lose hope. Remember to be kinder to yourself than usual in times like this. Give yourself credit for all the little achievements you have made so far.
-thumbnail-img: /assets/img/being-different-in-not-easy.png.jpg
+thumbnail-img: /assets/img/being-different-is-not-easy.png
 categories: in-my-mind
 tags: in-my-mind
 readtime: true
 excerpt: 
 ---
 
-![person wearing two different shoes](/assets/img/being-different-in-not-easy.png.jpg)
+![person wearing two different shoes](/assets/img/being-different-is-not-easy.png)
 
 Many people only highlight the good side of being different. Now that I am going to openly talk rant about the pain of being different as well, does this make me even more different?
 
