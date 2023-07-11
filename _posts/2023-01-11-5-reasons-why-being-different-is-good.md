@@ -15,8 +15,6 @@ Previously, I shared about how being different is not necessarily a good thing. 
 
 I hope these reasons can provide some relief in your life as you try your best to live comfortably in this world. It is ok to not fit in completely, because someday, your uniqueness may inspire others and lead to a positive change in the society. Embrace your differences and have faith that it does you more good than harm as you live in this world.
 
----
-
 ## You have more empathy than others
 
 Why? Because you do not receive the same kind of empathy as you give to others. The world works in favor of the majority. As the saying goes, "majority wins", most people will not attempt to understand you, or that it can be difficult for them to understand your point of view, when you belong to the minority. By being different, you know what is so-called "normal" and what is not. As such, you have a broader perspective of things, which makes you more knowledgeable than the average person. You are able to provide understanding to the "normal people", as well as empathize with people who are troubled by their own differences. You are able to be there for them. You know exactly how it feels. With your personal experiences and broad perspective, you are better able to show empathy towards different situations.
