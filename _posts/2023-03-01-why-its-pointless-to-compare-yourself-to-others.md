@@ -42,7 +42,13 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
   <p>We might not see it, but everyone has their own difficulties to go through. <b>With all sides considered, you would realize that the game of comparing is never-ending and it amounts to nothing at the end of the day.</b> You only have to work on yourself to become a better version of yourself. This has nothing to do with someone else.</p>
 </div>
 
-
+<div class="imgtext-container" style="margin-bottom:40px;">
+  <div><img src="https://images.pexels.com/photos/2929355/pexels-photo-2929355.jpeg" style="width: 1000px; max-height:100%"></div>
+  <div style="padding-top:30px; padding-left:30px; padding-right:25px; padding-bottom:0px;"><p style="font-size:20px; font-weight:bold;">We’re always changing and evolving. This fact alone makes comparison a pointless activity.</p>
+    <p>Why? Whatever you are comparing right now will become outdated and invalid in a few years’ or months’ or even days’ time. So why would it matter if someone is better with something at the moment? If you work hard, you will become better in no time. Who knows, at some point, the person might lose interest in something to pursue something else? Things happen and change. The comparisons will become useless.</p>
+    <p>n line with my previous point, once you start comparing, you will be comparing forever – as we change for the better, you will find the need to keep comparing with the renewed version of someone else, as the conclusions drawn from previous comparisons would have become irrelevant. What’s the point of comparing when we are always striving to change for the better? Focus on yourself.</p>    
+  </div>
+</div>
 
 
 
