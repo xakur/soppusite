@@ -69,4 +69,5 @@ Everyone is unique in their own ways. It is a waste of time to compare yourself 
 
 
 <blockquote style="text-align:center;">A flower does not think of competing to the flower next to it. It just blooms.
-<p style="font-size:15px;">- Zen Shin</p></blockquote>
+<br/>
+<p style="font-size:15px; font-style:italic;">- Zen Shin</p></blockquote>
