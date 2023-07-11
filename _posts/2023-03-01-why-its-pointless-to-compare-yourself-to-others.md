@@ -45,11 +45,15 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 <div class="imgtext-container" style="margin-bottom:40px;">
   <div><img src="https://images.pexels.com/photos/2929355/pexels-photo-2929355.jpeg" style="width: 3400px; max-height:100%"></div>
   <div style="padding-top:50px; padding-left:30px; padding-right:25px; padding-bottom:20px;"><p style="font-size:22px; font-weight:bold;">We’re always changing and evolving. This fact alone makes comparison a pointless activity.</p>
-    <p>Why? Whatever you are comparing right now will become outdated and invalid in a few years’ or months’ or even days’ time. So why would it matter if someone is better with something at the moment? If you work hard, you will become better in no time. Who knows, at some point, the person might lose interest in something to pursue something else? Things happen and change. The comparisons will become useless.</p>
-    <p>n line with my previous point, once you start comparing, you will be comparing forever – as we change for the better, you will find the need to keep comparing with the renewed version of someone else, as the conclusions drawn from previous comparisons would have become irrelevant. What’s the point of comparing when we are always striving to change for the better? Focus on yourself.</p>    
+    <p>Why? Whatever you are comparing right now will become outdated and invalid in a few years’ or months’ or even days’ time. So why would it matter if someone is better with something at the moment? If you work hard, you will become better in no time. Who knows, at some point, the person might lose interest in something to pursue something else? <b>Things happen and change. The comparisons will become useless.</b></p>
+    <p>In line with my previous point, once you start comparing, you will be comparing forever. As people change for the better, you will find the need to keep comparing with the renewed version of someone else. The conclusions drawn from previous comparisons would become irrelevant. <b>What’s the point of comparing when we are always striving to change for the better?</b> Focus on yourself.</p>    
   </div>
 </div>
 
+<div class="imgtext-container" style="display: block; text-align:center; padding-top:40px; padding-left:40px; padding-right:40px; padding-bottom:10px; margin-bottom:40px;">
+  <p style="font-size:21px; font-weight:bold;">People typically only show the part of themselves that they want to show others. A comparison based on this is shallow.</p>
+  <p>We may never get to see the negative side of a person. It is not often that we get to know the full story of what someone went through to achieve what they have now. <b>It is insubstantial to compare to what is only presented to us on the surface.</b> Once you get to know their hardships and the hard work they had put in, you will probably have a change in attitude. You may start to respect them instead. When you feel jealous of someone's achievements, ask yourself, would you want to go through what they went through to achieve the successes they have today?</p>
+</div>
 
 
 
