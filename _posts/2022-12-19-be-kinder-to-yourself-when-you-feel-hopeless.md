@@ -19,16 +19,22 @@ I managed to sleep it off, though with much difficulty.
 
 I woke up the next day feeling slightly more refreshed. The bothersome feelings were still lingering in my heart. I got on with my morning routine and reflexively, I suddenly sat on the floor in my room. I was still feeling empty. I stared into blank space. My mind was quiet and empty. A few minutes later, something that my friend once told me suddenly trickled into my mind. 
 
-<div class="box-purple" style="font-size:25px; font-style:italic; font-weight:200">“Be as kind to yourself as you are to others.”</div>
-
-{: .box-purple}
-**_“Be as kind to yourself as you are to others.”_**
+<div class="box-purple" style="font-size:24px; font-style:italic; font-weight:bold">“Be as kind to yourself as you are to others.”</div>
 
 I thought it was amusing how out of all things, this particular sentence popped up in my mind. I thought it through for a minute - she is right.
 
 I do not think of myself as a kind person or whatsoever, though I have been told this many times in my life. They might be right. I remember when I first heard this from my friend, I almost wanted to cry. It was not because I was happy or sad, but it was just a natural reaction. Perhaps my soul needed some comfort all this while. Perhaps I have unknowingly neglected myself.
 
 My friend's words enlightened me.
+
+<div class="box-success" style="color:#bdf9bd;">I thought, if it were to be my friend feeling the same as what I was feeling in that moment,
+I know I am going to:
+comfort her
+provide words of encouragement
+show her how she is not a lost cause
+show her that there’s still hope
+</div>
+
 
 {: .box-success}
 I thought, if it were to be my friend feeling the same as what I was feeling in that moment,
