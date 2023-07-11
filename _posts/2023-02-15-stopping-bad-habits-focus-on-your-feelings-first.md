@@ -40,7 +40,7 @@ Ideally, note your feelings down on paper. Here's an example of what you can do:
 <br/><b>What can you do instead? (Solution):</b> Do something else that you enjoy. Do something that takes away your sadness or boredom. E.g. play games, listen to music, watch funny videos, talk to a friend.
 </div>
 
-When doing an alternative activity to replace the bad habit, remember to: 
+<p style="text-align:center;">When doing an alternative activity to replace the bad habit, remember to:</p>
 
 <p style="text-align:center;"><b>Be focused on the activity only. </b>Do not do anything else.</p>
 
