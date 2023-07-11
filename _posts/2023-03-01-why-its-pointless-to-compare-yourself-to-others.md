@@ -21,13 +21,15 @@ Often, comparing ourselves to someone leads to negative feelings – we feel tha
 
 From another perspective, looking up to someone is not quite the same as comparing yourself to others. When you look up to someone, you admire them for who they are as you see the positive points in them. You naturally acknowledge that they are better than you and you hope to achieve the same.
 
-<img src="https://images.pexels.com/photos/5669602/pexels-photo-5669602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="weighing scale" style="width:375px; height:565px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/5669602/pexels-photo-5669602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="weighing scale" style="width:355px; height:545px; display: block; margin: 0 auto;">
 
 You are not putting yourself and the other party on a weighing scale to see who is "heavier" (better), but rather, you are only evaluating the differences between the two of you from an objective point of view. It is unlike a "comparison" where you are picking out differences and deciding who is better. It depends on your attitude at the end of the day.
 
 Ideally, you need to accept yourself for who you are. Be satisfied with yourself, as you have your merits that are worth celebrating too. At the same time, it is important to constantly work on improving ourselves. Having someone to look up to can be healthy, when your figure of admiration acts as a motivating force for you to strive harder and achieve more. They serve as your role model as you would like to become as spectacular as them. This is vastly different from jealousy.
 
 ## Why it is Pointless to Compare Yourself to Others
+
+
 
 
 
