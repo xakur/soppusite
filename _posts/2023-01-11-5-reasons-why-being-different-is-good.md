@@ -1,19 +1,19 @@
 ---
 layout: post
 title: 5 Reasons Why Being Different is Good
-share-description: Why Being Different is Good · You mature early · More quality time to yourself · You are creative · You have more empathy than others · You are more independent
+share-description: 5 Reasons Why Being Different is Good · You mature early · More quality time to yourself · You are creative · You have more empathy than others · You are more independent. I hope these reasons can provide some relief in your life as you try your best to live comfortably in this world.
 thumbnail-img: "https://images.pexels.com/photos/2480072/pexels-photo-2480072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 categories: life-tips
 tags: life-tips
 readtime: true
-excerpt: Previously, I shared about how being different is not necessarily a good thing. Being different in this world can at times be disheartening when you do not receive the support and understanding you need. However, these situations toughen you up and make you stronger than the average person. There will always be pros and cons to anything in life. We can make use of the downsides to our advantage. In this post, I will explain how and why being different is good. I hope these reasons can provide some relief in your life as you try your best to live comfortably in this world.
+excerpt: Previously, I shared about how being different is not necessarily a good thing. Being different in this world can at times be disheartening when you do not receive the support and understanding you need. However, these situations toughen you up and make you stronger than the average person. There will always be pros and cons to anything in life. We can make use of the downsides to our advantage.
 ---
 
 ![tulip that stands out](https://images.pexels.com/photos/2480072/pexels-photo-2480072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-Previously, I shared about how being different is not necessarily a good thing. Being different in this world can at times be disheartening when you do not receive the support and understanding you need. However, these situations toughen you up and make you stronger than the average person. There will always be pros and cons to anything in life. We can make use of the downsides to our advantage. In this post, I will explain how and why being different is good. I hope these reasons can provide some relief in your life as you try your best to live comfortably in this world. It is ok to not fit in completely, because someday, your uniqueness may inspire others and lead to a positive change in the society.
+Previously, I shared about how being different is not necessarily a good thing. Being different in this world can at times be disheartening when you do not receive the support and understanding you need. However, these situations toughen you up and make you stronger than the average person. There will always be pros and cons to anything in life. We can make use of the downsides to our advantage. In this post, I will explain how and why being different is good.
 
-Embrace your differences and have faith that it does you more good than harmas you live in this world.
+I hope these reasons can provide some relief in your life as you try your best to live comfortably in this world. It is ok to not fit in completely, because someday, your uniqueness may inspire others and lead to a positive change in the society. Embrace your differences and have faith that it does you more good than harm as you live in this world.
 
 ## You have more empathy than others
 
@@ -47,6 +47,4 @@ We have it a little tougher because we are different. The others may have diffic
 
 In the process of being different and finding out what works for you, you have trained yourself to be independent. You often have to rely on yourself to get things done, as well as giving yourself the emotional support that you need. **Well done on taking care of yourself and for staying strong.** Thank yourself for being true to yourself. You are capable of accomplishing big things and making breakthroughs, simply because you can see things differently that others cannot.
 
-Although it may be tiring to live like an outsider in this world, remember that you are not alone and you are not the first person to experience these feelings. There are people who feel the same as you - **you have a community that you belong to.** We are all working hard in our own ways to live more comfortably each day. There is meaning behind your differences. You might not know it yet, but you will know it someday. Just be responsible for yourself and have a clear conscience in all that you do. You will be fine.
-
-Be different and be unafraid!
+Although it may be tiring to live like an outsider in this world, remember that you are not alone and you are not the first person to experience these feelings. There are people who feel the same as you - **you have a community that you belong to.** We are all working hard in our own ways to live more comfortably each day. There is meaning behind your differences. You might not know it yet, but you will know it someday. Just be responsible for yourself and have a clear conscience in all that you do. You will be fine. Be different and be unafraid!
