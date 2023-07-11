@@ -69,4 +69,4 @@ Everyone is unique in their own ways. It is a waste of time to compare yourself 
 
 
 > A flower does not think of competing to the flower next to it. It just blooms.  
-> ~ Zen Shin
+> _~ Zen Shin_
