@@ -49,7 +49,7 @@ It depends on whether your environment supports it. This environment can be your
 
 I think each person’s growing up years play a very critical role in shaping character. It forms the foundation of us. If you land in a family who isn't understanding of your differences and tries to instill what they think is right on you, you tend to grow up having a hard time trying to be yourself and to be truly happy.
 
-<img src="https://images.pexels.com/photos/7114103/pexels-photo-7114103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="child feeling sad" style="width:503px; height:318px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/7114103/pexels-photo-7114103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="child feeling sad">
 
 My family wasn't accepting of my quirks. I behave differently from my siblings and even my cousins. Among many other traits, they are more studious and obedient, while I am the playful one. My parents' way of parenting did not allow me to be me. Growing up, I felt awkward in my own body. It did not feel like I was living for myself and it was hard to be happy. I often felt drained and soulless. Fortunately, I managed to find myself again eventually. It took me many years to recover, as I had to relearn how to be comfortable with myself, heal from past hurts and live as myself again.
 
@@ -81,8 +81,8 @@ As much as being different might bring us some inconveniences, I like to believe
 
 Our differences (be it our mannerisms, thoughts or ways of doing things) might be frowned upon, but we can turn them into our advantage. The first step to turning our difference into our advantage is to embrace ourselves.
 
-<p style="text-align:center;text-size:20px;">Accept yourself. Love yourself.
+<p style="text-align:center;text-size:22px;"><b>Accept yourself. Love yourself.
 <br/>
-Don't be judgmental to yourself.</p>
+Don't be judgmental to yourself.</b></p>
 
 I understand this can be difficult sometimes, especially if you had grown up in a household that was not supportive of your differences. People might have made negative assumptions of you due to that. It’s important to remind yourself to love yourself.
