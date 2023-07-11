@@ -65,8 +65,8 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 
 Everyone is unique in their own ways. It is a waste of time to compare yourself with others as the time could be spent on improving yourself instead. Comparing can make you miserable. There is no need to be too focused on our lacks. We should embrace who we really are. When we see someone better than us, we can always take it as a learning opportunity to learn from them. To improve and become a better person, you should only compare yourself with yourself.
 
-**Invest the time and energy in becoming a better version of yourself**. Forgive yourself for your past. Forgive the past that you had to go through, which might have caused you to become what you do not want to become. **We all have our circumstances to go through and uncontrollable external factors may sometimes affect us in our journeys.** No matter what, we need to believe that the time to shine will eventually arrive as we constantly strive to improve ourselves.
+**Invest the time and energy in becoming a better version of yourself**. Forgive yourself for your past. Forgive the past that you had to go through, which might have caused you to become what you do not want to become. We all have our circumstances to go through and uncontrollable external factors may sometimes affect us in our journeys. No matter what, we need to believe that the time to shine will eventually arrive as we constantly strive to improve ourselves.
 
 
 <blockquote>A flower does not think of competing to the flower next to it. It just blooms.
-<p style="font-size:14px">- Zen Shin</p></blockquote>
+<p style="font-size:14px; text-align:right;">- Zen Shin</p></blockquote>
