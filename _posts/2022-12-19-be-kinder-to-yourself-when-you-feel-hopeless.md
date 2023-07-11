@@ -2,7 +2,7 @@
 layout: post
 title: Feeling hopeless? Be kinder to yourself
 share-description: How to Stay Hopeful in times of Doubt · Pause and breathe · Avoid being hard on yourself · Distract yourself · Be excited for what is to come · Reach out to someone or something that gives you hope
-thumbnail-img: (/assets/img/hopeless-be-kind-to-yourself.jpg)
+thumbnail-img: /assets/img/hopeless-be-kind-to-yourself.jpg
 categories: the-deep
 tags: the-deep
 readtime: true
