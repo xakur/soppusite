@@ -19,7 +19,7 @@ I managed to sleep it off, though with much difficulty.
 
 I woke up the next day feeling slightly more refreshed. The bothersome feelings were still lingering in my heart. I got on with my morning routine and reflexively, I suddenly sat on the floor in my room. I was still feeling empty. I stared into blank space. My mind was quiet and empty. A few minutes later, something that my friend once told me suddenly trickled into my mind. 
 
-<div class="box-purple" style="font-size=25px; font-style:italic;"><b>“Be as kind to yourself as you are to others.”</b></div>
+<div class="box-purple" style="font-size:25px; font-style:italic;"><b>“Be as kind to yourself as you are to others.”</b></div>
 
 {: .box-purple}
 **_“Be as kind to yourself as you are to others.”_**
