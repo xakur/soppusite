@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Stopping Bad Habits - Focus On Your Feelings First
-share-description: 
-thumbnail-img: "https://images.pexels.com/photos/5723268/pexels-photo-5723268.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+share-description: Bad habits primarily stem from our feelings, e.g. feelings of discomfort, anxiousness. To stop bad habits, focus on your feelings. Identify the cause, replace current feelings with past happiness and remind yourself of horrible outcomes from doing the bad habit.
+thumbnail-img: "https://images.pexels.com/photos/5723268/pexels-photo-5723268.jpeg"
 categories: life-tips
 tags: life-tips
 readtime: true
@@ -42,7 +42,7 @@ Ideally, note your feelings down on paper. Here's an example of what you can do:
 
 When doing an alternative activity to replace the bad habit, remember to: 
 
-<p style="text-align:center;"><b>Be focused on the activity only.</b>Do not do anything else.</p>
+<p style="text-align:center;"><b>Be focused on the activity only. </b>Do not do anything else.</p>
 
 Treat yourself kindly. Give yourself all the time and space to do the activity that makes you happy. By focusing on something else, it will be easier for you to let go of the unwanted feelings, help you feel better and not think about the bad habit.
 
@@ -67,3 +67,40 @@ This method may sound bizarre, but it always helps to alleviate my feelings and 
 This can be done through meditation or imagination. Alternatively, you can set the "past environment" for yourself by revisiting your past favorite activities, doing the things that you grew up doing, or by being in touch with the things you used to like (e.g. songs, movies, shows). **Our minds are powerful.** Transporting our minds back to our past selves can serve as a breather from the bothersome emotions that we presently hold.
 
 Another approach to doing this is to travel back to the time <u>before you developed your bad habit</u>. Think about how you dealt with your emotions back then - You did not need to do the habit to feel okay, so why is it that you need it now?
+
+![woman on a hammock watching sunset](https://images.pexels.com/photos/5480835/pexels-photo-5480835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+Our passions die down sometimes due to changes in our lives. Revisiting these past activities can facilitate the process of bringing you back to the good old days. Surround yourself with things that you enjoyed in the past, reinvoke the feelings you had when you just started loving the activities/things or even someone.
+
+Whenever I have the urge to do a bad habit, I will try to imagine myself to be living back in the year where I was feeling the happiest and healthiest. I did not need the bad habit to feel better.
+
+Positioning myself back in the past helps to stop the negative feelings or pain that I am experiencing in that moment. **I'm replacing my current mood with all the happy feelings I once had.** It helps to freshen up my mind too. The present issues no longer bother me as I have teleported back to the past, before the issues existed. It has helped me to take things easy whenever I am feeling overwhelmed.
+
+While this method can be effective, **it is important to not be stuck in the past as well**. It should only help you to regain your happiness and retain the comfort you once had. The aim is to help distract you from your negative emotions, and from doing a bad habit.
+
+## List 3 Horrible Outcomes Of Doing The Habit
+
+This method helps you to destroy the unwanted habit by instilling fear towards it. The consequences of doing the habit are horrible and you absolutely do not want them.
+
+Start by listing 3-5 horrible outcomes that have already happened or you think might happen one day when the damage worsens. Examples of horrible outcomes: it affects your health, it wastes your time, it spoils your mood.
+
+After you have them listed down, highlight one outcome that you fear the most. Keeping that outcome in mind, proceed to ask yourself these questions:
+
+    1. How do you feel about not being able to stop this bad habit? 
+    2. What will happen if you continue doing this harmful habit for the rest of your life?
+
+After processing your thoughts, the next important step is to **connect the bad habit to the extremely distasteful outcome that you hate.** An outcome that brings you major discomfort (e.g. shame, lack of health). Imagine the worst that can happen to you if you continue this bad habit. Remind yourself constantly.
+
+<img src="https://images.pexels.com/photos/6551142/pexels-photo-6551142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="woman feeling troubled" style="width:513px; height:328px; display: block; margin: 0 auto;">
+
+Your mind already knows that this habit is horrible and is determined to stop it. This method raises your awareness by bringing the worst outcome to the top of your mind.
+
+By instilling fear and discomfort into the habit, your mind will be more alert to its negative effects and thus, stop you from doing your bad habit whenever the urge kicks in.
+
+## Conclusion
+
+Bad habits hinder our productivity in life and it is best to resolve them as soon as possible. Our bad habits primarily stem from our feelings, e.g. feelings of worry, sadness, anxiousness, discomfort. Hence, **looking into dissipating or distracting yourself from the uncomfortable feelings will help you in the long run.** Instilling fear into the bad habit by constantly reminding yourself of the worst outcome that can happen can help you to lose interest in the bad habit and gradually stop it completely.
+
+It takes willpower to break a bad habit. Find a way that works for you. No matter what method you choose to employ, it is most important to TAKE ACTION, even if you think that it is not going to work. Always try. Take the first step.
+
+Remember, this is a lifestyle that you are building towards and it will take time to reach there. It is normal for relapses to happen once in a while. After all, your brain has been used to the former behavior or thought pattern. Remember to be kind to yourself when you start doubting yourself. Do not lose hope in the journey, as every small step forward is already leading you closer to the goal of stopping the bad habit(s).
