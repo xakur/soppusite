@@ -31,7 +31,7 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 
 <div class="imgtext-container" style="margin-top: 40px; margin-bottom:40px;">
   <div><img src="https://images.pexels.com/photos/6289065/pexels-photo-6289065.jpeg" style="width: 2000px; max-height:100%"></div>
-  <div style="padding-top:30px; padding-left:30px; padding-right:25px; padding-bottom:0px;"><p style="font-size:20px; font-weight:bold;">Comparison will stall your progress, as you are putting too much focus on others instead of yourself.</p>
+  <div style="padding-top:30px; padding-left:30px; padding-right:25px; padding-bottom:0px;"><p style="font-size:22px; font-weight:bold;">Comparison will stall your progress, as you are putting too much focus on others instead of yourself.</p>
   <p>You will never get anything done, if you constantly spend your time and energy comparing yourself to other people’s accomplishments. You should invest your energy in yourself instead - do something to help you get there (get to where you want).</p>
   </div>
 </div>
@@ -51,7 +51,7 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 </div>
 
 <div class="imgtext-container" style="display: block; text-align:center; padding-top:40px; padding-left:40px; padding-right:40px; padding-bottom:10px; margin-bottom:40px;">
-  <p style="font-size:20px; font-weight:bold;">People typically only show the part of themselves that they want to show others. A comparison based on this is shallow.</p>
+  <p style="font-size:21px; font-weight:bold;">People typically only show the part of themselves that they want to show others. A comparison based on this is shallow.</p>
   <p>We may never get to see the negative side of a person. It is not often that we get to know the full story of what someone went through to achieve what they have now. <b>It is insubstantial to compare to what is only presented to us on the surface.</b> Once you get to know their hardships and the hard work they had put in, you will probably have a change in attitude. You may start to respect them instead. When you feel jealous of someone's achievements, ask yourself, would you want to go through what they went through to achieve the successes they have today?</p>
 </div>
 
@@ -63,7 +63,10 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 
 ## Conclusion
 
-Everyone is unique in their own ways. It is a waste of time to compare yourself with others as the time could be spent on improving yourself instead. Comparing can make you miserable. There is no need to be too focused on our lacks. We should embrace who we really are. When we see someone better than us, we can always take it as a learning opportunity to learn from them. To improve and become a better person, you should only compare yourself with yourself. **Invest the time and energy in becoming a better version of yourself. Forgive yourself for your past.** Forgive the past that you had to go through, which might have caused you to become what you do not want to become. **We all have our circumstances to go through and uncontrollable external factors may sometimes affect us in our journeys.** No matter what, we need to believe that the time to shine will eventually arrive as we constantly strive to improve ourselves.
+Everyone is unique in their own ways. It is a waste of time to compare yourself with others as the time could be spent on improving yourself instead. Comparing can make you miserable. There is no need to be too focused on our lacks. We should embrace who we really are. When we see someone better than us, we can always take it as a learning opportunity to learn from them. To improve and become a better person, you should only compare yourself with yourself.
 
-{: .blockquote}
-A flower does not think of competing to the flower next to it. It just blooms.
+**Invest the time and energy in becoming a better version of yourself**. Forgive yourself for your past. Forgive the past that you had to go through, which might have caused you to become what you do not want to become. **We all have our circumstances to go through and uncontrollable external factors may sometimes affect us in our journeys.** No matter what, we need to believe that the time to shine will eventually arrive as we constantly strive to improve ourselves.
+
+
+<blockquote>A flower does not think of competing to the flower next to it. It just blooms.</blockquote>
+<p style="font-size:14px">- Zen Shin</p>
