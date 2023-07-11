@@ -27,12 +27,13 @@ I do not think of myself as a kind person or whatsoever, though I have been told
 
 My friend's words enlightened me.
 
-<div class="box-success" style="background-color:#bdf9bd;">I thought, if it were to be my friend feeling the same as what I was feeling in that moment, I know I am going to:
+<div class="box-success" style="background-color:#d1f9bd;">I thought, if it were to be my friend feeling the same as what I was feeling in that moment, I know I am going to:
+<br/><br/>
 <ul>
-<li><b>comfort her</b></li>
-<li>provide <b>words of encouragement</b></li>
-<li>show her how she is <b>not a lost cause</b></li>
-<li>show her that <b>there’s still hope</b></li>
+<li>comfort her</li>
+<li>provide words of encouragement</li>
+<li>show her how she is not a lost cause</li>
+<li>show her that there’s still hope</li>
 </ul>
 </div>
 
