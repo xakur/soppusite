@@ -90,3 +90,11 @@ Our differences (be it our mannerisms, thoughts or ways of doing things) might b
 Don't be judgmental to yourself.</b></p>
 
 I understand this can be difficult sometimes, especially if you had grown up in a household that was not supportive of your differences. People might have made negative assumptions of you due to that. It’s important to remind yourself to love yourself.
+
+Being different means you are unique. You do not follow the crowd. You have a very clear mind - you know **what** you like/dislike and **why** you like/dislike. [It is said that most people by default, follow the crowd because it is easier to do so than to think for themselves.](https://www.linkedin.com/pulse/why-do-people-follow-crowd-muhammad-salman)
+
+You are creative, you often have unique opinions and are capable of making a difference in this world. Do not be afraid to show your uniqueness to others. Functioning differently in this world can sometimes be tiring, but remember, you are not alone in this struggle.
+
+<img src="https://images.pexels.com/photos/6058051/pexels-photo-6058051.jpeg" alt="view of the city" style="width:533px; height:348px; display: block; margin: 0 auto;">
+
+Although people around you might not be able to understand the ways you do things and your thoughts, rest assured that a random someone somewhere (be it near or far) will have similar views and can relate to you. We never know. We just have not met them. We might never meet them, and it is ok. Just know that you are definitely not alone.
