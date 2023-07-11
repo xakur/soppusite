@@ -25,7 +25,7 @@ I would say, what's considered "common" is a collective reaction, one that is of
 
 As someone who is "different", I feel uncomfortable giving reactions that I apparently have to make. The typical reactions. This might sound weird, but I absolutely don't think there's a need to nod and show the speaker that you are listening during a presentation or when the speaker makes eye contact with you. I had to train myself to do that just because that's what I was taught to do. I suppose, it is also a way of showing politeness - to show the speaker that someone is listening. Till today, I will always feel a little weird whenever I nod to the speaker when listening to a presentation. It is not natural for me. I very much prefer to just sit and listen (and take notes if necessary). The information is all going into my head. I don't need to show it by purposely nodding!
 
-<img src="https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="guy giving a presentation" style="width:523px; height:338px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="guy giving a presentation">
 
 When I was a kid, I remember having to "act" in certain ways just to show my parents or whoever around me that I acknowledged something, I liked something, I am displeased with something... I became fed up with it. One time, I purposely made an unhappy face while doing something that my mother demanded me to do. My mother automatically thought I was unhappy and told me off. I told her, no I am happy, I did that face on purpose to see if she would react negatively to it. She was speechless.
 
@@ -43,7 +43,7 @@ A lot of these questions pop up in my mind. I don’t do or think about what mos
 
 Yet, it turns out that I’m actually the weird one who holds different opinions. Turns out that I’m being overly harsh when I get annoyed when I spot basic grammatical errors in work emails – it looks unprofessional to me, but it apparently is common and can be let off.
 
-**When you are different, it is normally like this - you either stand out or you get ostracized.**
+### When you are different, it is normally like this - you either stand out or you get ostracized.
 
 It depends on whether your environment supports it. This environment can be your home, your workplace etc. It really can be anywhere. Whether you are ostracized or not depends on whether the people around you are supportive of your quirks and unique ideas.
 
