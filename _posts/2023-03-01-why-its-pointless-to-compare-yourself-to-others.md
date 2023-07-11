@@ -31,7 +31,7 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 
 <div class="imgtext-container">
   <div><img src="https://images.pexels.com/photos/6289065/pexels-photo-6289065.jpeg" style="width: 2000px; max-height:100%"></div>
-  <div style="padding-left: 20px;"><h4>Comparison will stall your progress, as you are putting too much focus on others instead of yourself.</h4>
+  <div style="padding: 20px;"><p style="font-size:20px; font-weight:bold; text-align: center;">Comparison will stall your progress, as you are putting too much focus on others instead of yourself.</p>
   <p>You will never get anything done, if you constantly spend your time and energy comparing yourself to other people’s accomplishments. You should invest your energy in yourself instead - do something to help you get there (get to where you want).</p>
   </div>
 </div>
