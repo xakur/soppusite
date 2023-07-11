@@ -86,8 +86,8 @@ Start by listing 3-5 horrible outcomes that have already happened or you think m
 
 After you have them listed down, highlight one outcome that you fear the most. Keeping that outcome in mind, proceed to ask yourself these questions:
 
-    1. How do you feel about not being able to stop this bad habit? 
-    2. What will happen if you continue doing this harmful habit for the rest of your life?
+1. How do you feel about not being able to stop this bad habit? 
+2. What will happen if you continue doing this harmful habit for the rest of your life?
 
 After processing your thoughts, the next important step is to **connect the bad habit to the extremely distasteful outcome that you hate.** An outcome that brings you major discomfort (e.g. shame, lack of health). Imagine the worst that can happen to you if you continue this bad habit. Remind yourself constantly.
 
