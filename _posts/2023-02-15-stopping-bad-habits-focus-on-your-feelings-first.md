@@ -36,8 +36,8 @@ Ideally, note your feelings down on paper. Here's an example of what you can do:
 [Example 1]
 <br/><br/>
 <b>Bad Habit:</b> Binge eating
-<b>Cause:</b> Feeling sad or feeling bored
-<b>What can you do instead? (Solution):</b> Do something else that you enjoy. Do something that takes away your sadness or boredom. E.g. play games, listen to music, watch funny videos, talk to a friend.
+<br/><b>Cause:</b> Feeling sad or feeling bored
+<br/><b>What can you do instead? (Solution):</b> Do something else that you enjoy. Do something that takes away your sadness or boredom. E.g. play games, listen to music, watch funny videos, talk to a friend.
 </div>
 
 When doing an alternative activity to replace the bad habit, remember to: 
@@ -52,8 +52,8 @@ Our bad habits can come in various forms. For example, one of my bad habits is i
 [Example 2]
 <br/><br/>
 <b>Bad Habit:</b> Indecisiveness
-<b>Cause:</b> When making a decision, I'm able to see the pros and cons of all choices, making it hard for me to make a quick decision. The fact that there are too many angles to consider makes me uncomfortable -> Worry about making the wrong choice.
-<b>What can you do instead? (Solution):</b> Instead of worrying over the consequences of not choosing either choices, I need to trust in myself that whichever decision I make will not go wrong. Regardless of what I chose in the end, it is out of a good intent and through very careful consideration. Therefore, I can feel safe to follow what my heart tells me to do.
+<br/><b>Cause:</b> When making a decision, I'm able to see the pros and cons of all choices, making it hard for me to make a quick decision. The fact that there are too many angles to consider makes me uncomfortable -> Worry about making the wrong choice.
+<br/><b>What can you do instead? (Solution):</b> Instead of worrying over the consequences of not choosing either choices, I need to trust in myself that whichever decision I make will not go wrong. Regardless of what I chose in the end, it is out of a good intent and through very careful consideration. Therefore, I can feel safe to follow what my heart tells me to do.
 </div>
 
 This simple act of self-reflection can give us a clear idea of what the main problem is, especially in identifying the cause that is triggering the undesirable feelings. You can then find other ways to stop those feelings, instead of doing your bad habit to ease those feelings.
@@ -66,4 +66,4 @@ This method may sound bizarre, but it always helps to alleviate my feelings and 
 
 This can be done through meditation or imagination. Alternatively, you can set the "past environment" for yourself by revisiting your past favorite activities, doing the things that you grew up doing, or by being in touch with the things you used to like (e.g. songs, movies, shows). **Our minds are powerful.** Transporting our minds back to our past selves can serve as a breather from the bothersome emotions that we presently hold.
 
-Another approach to doing this is to travel back to the time __before you developed your bad habit__. Think about how you dealt with your emotions back then - You did not need to do the habit to feel okay, so why is it that you need it now?
+Another approach to doing this is to travel back to the time <u>before you developed your bad habit</u>. Think about how you dealt with your emotions back then - You did not need to do the habit to feel okay, so why is it that you need it now?
