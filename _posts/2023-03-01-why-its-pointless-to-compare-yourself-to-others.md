@@ -51,15 +51,19 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 </div>
 
 <div class="imgtext-container" style="display: block; text-align:center; padding-top:40px; padding-left:40px; padding-right:40px; padding-bottom:10px; margin-bottom:40px;">
-  <img src="https://images.pexels.com/photos/7148445/pexels-photo-7148445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
   <p style="font-size:20px; font-weight:bold;">People typically only show the part of themselves that they want to show others. A comparison based on this is shallow.</p>
   <p>We may never get to see the negative side of a person. It is not often that we get to know the full story of what someone went through to achieve what they have now. <b>It is insubstantial to compare to what is only presented to us on the surface.</b> Once you get to know their hardships and the hard work they had put in, you will probably have a change in attitude. You may start to respect them instead. When you feel jealous of someone's achievements, ask yourself, would you want to go through what they went through to achieve the successes they have today?</p>
 </div>
 
 <div class="imgtext-container" style="display: block; text-align:center; padding-top:40px; padding-left:40px; padding-right:40px; padding-bottom:10px; margin-bottom:40px;">
-  <p style="font-size:20px; font-weight:bold;">People typically only show the part of themselves that they want to show others. A comparison based on this is shallow.</p>
-  <p>We may never get to see the negative side of a person. It is not often that we get to know the full story of what someone went through to achieve what they have now. <b>It is insubstantial to compare to what is only presented to us on the surface.</b> Once you get to know their hardships and the hard work they had put in, you will probably have a change in attitude. You may start to respect them instead. When you feel jealous of someone's achievements, ask yourself, would you want to go through what they went through to achieve the successes they have today?</p>
+  <img src="https://images.pexels.com/photos/7148445/pexels-photo-7148445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+  <p style="font-size:20px; font-weight:bold;">Everyone is born to be different to begin with. No matter how much you compare, you are still uniquely you.</p>
+  <p>We were all born into different environments, have different upbringing and different lives. As humans, we might go through the same emotions and/or similar experiences, but not everyone’s path will be the same. How we get from one point to the next will not be the same, because of differences in our environments, situations and personalities. It is what makes us unique in each of our own ways. Often, comparison makes us neglect our own uniqueness as we feel that we are not on par with someone else. <b>However, we are all different and are endowed with different talents.</b> The person you are comparing to may not have what you have. You just do not know it. <b>We all excel in different ways</b> and it is our uniqueness and different life stories that add color to this world.</p>
 </div>
 
+## Conclusion
 
+Everyone is unique in their own ways. It is a waste of time to compare yourself with others as the time could be spent on improving yourself instead. Comparing can make you miserable. There is no need to be too focused on our lacks. We should embrace who we really are. When we see someone better than us, we can always take it as a learning opportunity to learn from them. To improve and become a better person, you should only compare yourself with yourself. **Invest the time and energy in becoming a better version of yourself. Forgive yourself for your past.** Forgive the past that you had to go through, which might have caused you to become what you do not want to become. **We all have our circumstances to go through and uncontrollable external factors may sometimes affect us in our journeys.** No matter what, we need to believe that the time to shine will eventually arrive as we constantly strive to improve ourselves.
 
+{: .blockquote}
+A flower does not think of competing to the flower next to it. It just blooms.
