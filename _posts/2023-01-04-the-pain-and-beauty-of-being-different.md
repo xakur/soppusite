@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Pain and Beauty of Being Different
-share-description: When we start doubting ourselves, it seems that nothing good will happen no matter how hard we try. We lose hope. Remember to be kinder to yourself than usual in times like this. Give yourself credit for all the little achievements you have made so far.
+share-description: Many people only highlight the good side of being different. I will be honest, being different is hard in this world. It is not necessarily a good thing, but we are all different and have our uniqueness anyway. The first step to turning our difference into our advantage is to embrace ourselves.
 thumbnail-img: /assets/img/being-different-is-not-easy.png
 categories: in-my-mind
 tags: in-my-mind
@@ -11,7 +11,7 @@ excerpt: Many people only highlight the good side of being different. Now that I
 
 ![person wearing two different shoes](/assets/img/being-different-is-not-easy.png)
 
-Many people only highlight the good side of being different. Now that I am going to openly talk rant about the pain of being different as well, does this make me even more different?
+Many people only highlight the good side of being different. Now that I am going to openly ~~talk~~ rant about the pain of being different as well, does this make me even more different?
 
 I will be honest, being different is hard in this world. It is not necessarily a good thing. Though, this applies to all things in life as well - there will always be pros and cons to anything. We should always try to look at the positive side of things (obviously right?).
 
@@ -23,7 +23,9 @@ We are all different and have our uniqueness anyway.
 
 I would say, what's considered "common" is a collective reaction, one that is often taught to us by schools or parents, to react to certain situations.
 
-As someone who is "different", I feel uncomfortable giving reactions that I apparently have to make. The typical reactions. This might sound weird, but I absolutely don't think there's a need to nod and show the speaker that you are listening during a presentation or when the speaker makes eye contact with you. I had to train myself to do that just because that's what I was taught to do. I suppose, it is also a way of showing politeness - to show the speaker that someone is listening. Till today, I will always feel a little weird whenever I nod to the speaker when listening to a presentation. It is not natural for me. I very much prefer to just sit and listen (and take notes if necessary). The information is all going into my head. I don't need to show it by purposely nodding!
+As someone who is "different", I feel uncomfortable giving reactions that I apparently have to make. The typical reactions. This might sound weird, but I absolutely don't think there's a need to nod and show the speaker that you are listening during a presentation or when the speaker makes eye contact with you.
+
+I had to train myself to do that just because that's what I was taught to do. I suppose, it is also a way of showing politeness - to show the speaker that someone is listening. Till today, I will always feel a little weird whenever I nod to the speaker when listening to a presentation. It is not natural for me. I very much prefer to just sit and listen (and take notes if necessary). The information is all going into my head. I don't need to show it by purposely nodding!
 
 <img src="https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="guy giving a presentation">
 
@@ -43,7 +45,7 @@ A lot of these questions pop up in my mind. I don’t do or think about what mos
 
 Yet, it turns out that I’m actually the weird one who holds different opinions. Turns out that I’m being overly harsh when I get annoyed when I spot basic grammatical errors in work emails – it looks unprofessional to me, but it apparently is common and can be let off.
 
-### When you are different, it is normally like this - you either stand out or you get ostracized.
+#### When you are different, it is normally like this - you either stand out or you get ostracized.
 
 It depends on whether your environment supports it. This environment can be your home, your workplace etc. It really can be anywhere. Whether you are ostracized or not depends on whether the people around you are supportive of your quirks and unique ideas.
 
@@ -98,3 +100,7 @@ You are creative, you often have unique opinions and are capable of making a dif
 <img src="https://images.pexels.com/photos/6058051/pexels-photo-6058051.jpeg" alt="view of the city" style="width:533px; height:348px; display: block; margin: 0 auto;">
 
 Although people around you might not be able to understand the ways you do things and your thoughts, rest assured that a random someone somewhere (be it near or far) will have similar views and can relate to you. We never know. We just have not met them. We might never meet them, and it is ok. Just know that you are definitely not alone.
+
+#### We are all grinding in each of our unique ways to live comfortably, and at the same time, add value to this world. 
+
+Be you and keep a positive mindset. I believe in the [Law of Attraction](https://thelawofattraction.com/what-is-the-law-of-attraction/). By being authentically you, you will certainly be able to attract like-minded people; the right kind of people you need in your life who are supportive of your uniqueness. We will support one another, so be brave and be different!
