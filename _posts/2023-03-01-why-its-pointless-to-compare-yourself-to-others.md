@@ -51,10 +51,15 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 </div>
 
 <div class="imgtext-container" style="display: block; text-align:center; padding-top:40px; padding-left:40px; padding-right:40px; padding-bottom:10px; margin-bottom:40px;">
-  <p style="font-size:21px; font-weight:bold;">People typically only show the part of themselves that they want to show others. A comparison based on this is shallow.</p>
+  <img src="https://images.pexels.com/photos/7148445/pexels-photo-7148445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+  <p style="font-size:20px; font-weight:bold;">People typically only show the part of themselves that they want to show others. A comparison based on this is shallow.</p>
   <p>We may never get to see the negative side of a person. It is not often that we get to know the full story of what someone went through to achieve what they have now. <b>It is insubstantial to compare to what is only presented to us on the surface.</b> Once you get to know their hardships and the hard work they had put in, you will probably have a change in attitude. You may start to respect them instead. When you feel jealous of someone's achievements, ask yourself, would you want to go through what they went through to achieve the successes they have today?</p>
 </div>
 
+<div class="imgtext-container" style="display: block; text-align:center; padding-top:40px; padding-left:40px; padding-right:40px; padding-bottom:10px; margin-bottom:40px;">
+  <p style="font-size:20px; font-weight:bold;">People typically only show the part of themselves that they want to show others. A comparison based on this is shallow.</p>
+  <p>We may never get to see the negative side of a person. It is not often that we get to know the full story of what someone went through to achieve what they have now. <b>It is insubstantial to compare to what is only presented to us on the surface.</b> Once you get to know their hardships and the hard work they had put in, you will probably have a change in attitude. You may start to respect them instead. When you feel jealous of someone's achievements, ask yourself, would you want to go through what they went through to achieve the successes they have today?</p>
+</div>
 
 
 
