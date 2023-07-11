@@ -30,9 +30,10 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 ## Why it is Pointless to Compare Yourself to Others
 
 <div class="imgtext-container">
-  <img src="https://images.pexels.com/photos/6289065/pexels-photo-6289065.jpeg" style="max-width: 100%; max-height:100%;">
-  <p style="padding-left:20px;"><h4>Comparison will stall your progress, as you are putting too much focus on others instead of yourself.</h4></p>
+  <div><img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg" style="max-width:100%; max-height:100%; margin-right: 20px"></div>
+  <div style="padding-left: 20px;"><h4>Comparison will stall your progress, as you are putting too much focus on others instead of yourself.</h4>
   <p>You will never get anything done, if you constantly spend your time and energy comparing yourself to other people’s accomplishments. You should invest your energy in yourself instead - do something to help you get there (get to where you want).</p>
+  </div>
 </div>
   
       
