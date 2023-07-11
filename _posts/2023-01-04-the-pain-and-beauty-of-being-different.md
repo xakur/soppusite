@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/being-different-is-not-easy.png
 categories: in-my-mind
 tags: in-my-mind
 readtime: true
-excerpt: 
+excerpt: Many people only highlight the good side of being different. Now that I am going to openly talk rant about the pain of being different as well, does this make me even more different? I will be honest, being different is hard in this world. It is not necessarily a good thing. Though, this applies to all things in life as well - there will always be pros and cons to anything. We should always try to look at the positive side of things (obviously right?).
 ---
 
 ![person wearing two different shoes](/assets/img/being-different-is-not-easy.png)
