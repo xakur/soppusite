@@ -101,6 +101,8 @@ You are creative, you often have unique opinions and are capable of making a dif
 
 Although people around you might not be able to understand the ways you do things and your thoughts, rest assured that a random someone somewhere (be it near or far) will have similar views and can relate to you. We never know. We just have not met them. We might never meet them, and it is ok. Just know that you are definitely not alone.
 
+**We are all grinding in each of our unique ways to live comfortably, and at the same time, add value to this world.**
+
 #### We are all grinding in each of our unique ways to live comfortably, and at the same time, add value to this world. 
 
 Be you and keep a positive mindset. I believe in the [Law of Attraction](https://thelawofattraction.com/what-is-the-law-of-attraction/). By being authentically you, you will certainly be able to attract like-minded people; the right kind of people you need in your life who are supportive of your uniqueness. We will support one another, so be brave and be different!
