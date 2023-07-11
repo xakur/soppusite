@@ -17,7 +17,7 @@ Surely, a bad habit did not just arise out of nowhere. If you look into the issu
 
 The thrilling or soothing aspects of a bad habit often make us disregard the negatives of it. While our bad habits may bring us a certain degree of comfort, we would eventually realize that they cause us way more harm than good and we need to stop them. Here a few ways that I have found to be useful in stopping my bad habits and I hope they can help you too.
 
----
+<br/>
 
 ## Identify The Cause
 
