@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Why it’s Pointless to Compare Yourself to Others
-share-description: Bad habits primarily stem from our feelings, e.g. feelings of discomfort, anxiousness. To stop bad habits, focus on your feelings. Identify the cause, replace current feelings with past happiness and remind yourself of horrible outcomes from doing the bad habit.
+share-description:
 thumbnail-img: /assets/img/comparing-is-pointless.png
 categories: life-tips
 tags: life-tips
 readtime: true
-excerpt: We are often told not to compare ourselves to others, but we may still inevitably do it anyway. It is said that the act of comparing is a natural part of human cognition, which can be beneficial for the process of improving oneself. While it can feel normal to compare yourself to others, it is not ideal. Well, it depends on your attitude towards it. When you see someone who is better than you, there are typically two ways to look at it: Are you acknowledging their merits and looking up to them?
+excerpt: We are often told not to compare ourselves to others, but we may still inevitably do it anyway. It is said that the act of comparing is a natural part of human cognition, which can be beneficial for the process of improving oneself. While it can feel normal to compare yourself to others, it is not ideal. Well, it depends on your attitude towards it.
 ---
 
 ![two women looking at their photos](/assets/img/comparing-is-pointless.png)
