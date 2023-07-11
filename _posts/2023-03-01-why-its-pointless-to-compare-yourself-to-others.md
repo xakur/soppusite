@@ -36,10 +36,10 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
   </div>
 </div>
 
-<div class="imgtext-container" style="text-align: center;">
+<div class="imgtext-container">
 <p style="font-size:20px; font-weight:bold;">Once you start comparing, it will be a never-ending chore.</p></div>
 
-
+dfsfsf
 You will never get anything done, if you constantly spend your time and energy comparing yourself to other people’s accomplishments. You should invest your energy in yourself instead - do something to help you get there (get to where you want).
 
 
