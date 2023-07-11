@@ -68,5 +68,5 @@ Everyone is unique in their own ways. It is a waste of time to compare yourself 
 **Invest the time and energy in becoming a better version of yourself**. Forgive yourself for your past. Forgive the past that you had to go through, which might have caused you to become what you do not want to become. **We all have our circumstances to go through and uncontrollable external factors may sometimes affect us in our journeys.** No matter what, we need to believe that the time to shine will eventually arrive as we constantly strive to improve ourselves.
 
 
-<blockquote>A flower does not think of competing to the flower next to it. It just blooms.</blockquote>
-<p style="font-size:14px">- Zen Shin</p>
+<blockquote>A flower does not think of competing to the flower next to it. It just blooms.
+<p style="font-size:14px">- Zen Shin</p></blockquote>
