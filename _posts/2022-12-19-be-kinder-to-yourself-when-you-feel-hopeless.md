@@ -73,7 +73,7 @@ Everyone's path is different and we face different challenges. It is not easy to
 
 When things get overwhelming, allow yourself to move slowly. Take breaks if needed. Your soul will regain strength to help you continue going forward.
 
-Besides being kind(er) to ourselves, we can also [adopt other practical ways to help us stay hopeful during times of doubt](https://sliceofpower.com/how-to-stay-hopeful-in-times-of-doubt/).
+Besides being kind(er) to ourselves, we can also [adopt other practical ways to help us stay hopeful during times of doubt](https://xakur.github.io/2022-12-15-how-to-stay-hopeful-in-times-of-doubt/).
 
 Lastly...
 
