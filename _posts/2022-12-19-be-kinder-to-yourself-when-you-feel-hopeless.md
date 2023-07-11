@@ -27,7 +27,7 @@ I do not think of myself as a kind person or whatsoever, though I have been told
 
 My friend's words enlightened me.
 
-<div class="box-success" style="background-color:#d1f9bd;">I thought, if it were to be my friend feeling the same as what I was feeling in that moment, I know I am going to:
+<div class="box-success" style="background-color:#daffcf; border-left-color:#daffcf;">I thought, if it were to be my friend feeling the same as what I was feeling in that moment, I know I am going to:
 <br/><br/>
 <ul>
 <li>comfort her</li>
