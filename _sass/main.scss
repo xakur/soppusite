@@ -27,3 +27,12 @@ blockquote {
   border-left-style: solid;
   border-left-color: #b3b3b3;
 }
+
+.blog-post blockquote {
+  padding: 0.625rem 1.25rem;
+  margin: 0 0 1.25rem;
+  font-size: 1.1rem;
+  border-left-width: 0.3125rem;
+  border-left-style: solid;
+  border-left-color: #b3b3b3;
+}
