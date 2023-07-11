@@ -19,7 +19,7 @@ I managed to sleep it off, though with much difficulty.
 
 I woke up the next day feeling slightly more refreshed. The bothersome feelings were still lingering in my heart. I got on with my morning routine and reflexively, I suddenly sat on the floor in my room. I was still feeling empty. I stared into blank space. My mind was quiet and empty. A few minutes later, something that my friend once told me suddenly trickled into my mind. 
 
-<div class="box-purple" style="font-size:24px; font-style:italic; font-weight:bold">“Be as kind to yourself as you are to others.”</div>
+<div class="box-purple" style="font-size:22px; font-style:italic; font-weight:bold">“Be as kind to yourself as you are to others.”</div>
 
 I thought it was amusing how out of all things, this particular sentence popped up in my mind. I thought it through for a minute - she is right.
 
@@ -27,13 +27,13 @@ I do not think of myself as a kind person or whatsoever, though I have been told
 
 My friend's words enlightened me.
 
-<div class="box-success" style="background-color:#daffcf; border-left-color:#daffcf;">I thought, if it were to be my friend feeling the same as what I was feeling in that moment, I know I am going to:
+<div class="box-success" style="background-color:#e3ffcf; border-left-color:#e3ffcf;">I thought, if it were to be my friend feeling the same as what I was feeling in that moment, I know I am going to:
 <br/><br/>
 <ul>
-<li>comfort her</li>
-<li>provide words of encouragement</li>
+<li><b>comfort her</b></li>
+<li>provide words of <b>encouragement</b></li>
 <li>show her how she is not a lost cause</li>
-<li>show her that there’s still hope</li>
+<li>show her that <b>there’s still hope</b></li>
 </ul>
 </div>
 
