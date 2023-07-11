@@ -35,3 +35,11 @@ blockquote {
   border-left-style: solid;
   border-left-color: #b3b3b3;
 }
+
+/* image and text container */
+.imgtext-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff1c0;
+}
