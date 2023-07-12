@@ -54,7 +54,7 @@ blockquote {
   padding: 20px;
   border: 1px solid #a2a2a2; /* Add this line to set the border */
 }
-.flexbox-bord > div:first-child, .flexbox-bord div:nth-child(2) {
+.flexbox-bord > div:first-child {
   border-right: 0px solid #000000; /* add background-color in post */
 }
   
