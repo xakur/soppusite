@@ -60,11 +60,11 @@ However, your happiness can only defined by you. It cannot be formed out of comp
 
 ## Instead of comparing...
 
-<div><p style="text-align:center"><b>We should acknowledge our unhappiness.</b>
+<p style="text-align:center"><b>We should acknowledge our unhappiness.</b>
 <br/><br/>AND
-<br/><br/><b>Be brave</b> to pursue what we truly want.</p></div>
+<br/><br/><b>Be brave</b> to pursue what we truly want.</p>
 
-<div class="flexbox-bord">
+<div class="flexbox-bord" style="flex-basis:center; text-align:center;">
   <div><b>Be clear</b> of what your own happiness is.</div>
   <div><b>Avoid</b> letting <b>external factors</b> deny you of greater happiness.</div>
   <div>Decide for yourself if you're truly happy, without comparing.</div>
