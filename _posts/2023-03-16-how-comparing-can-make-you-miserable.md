@@ -59,7 +59,7 @@ When you are already aware that you are not completely happy, comparing yourself
 However, your happiness can only defined by you. It cannot be formed out of comparing to someone else’s lacks.
 
 ## Instead of comparing...
-
+<br/>
 <p style="text-align:center"><b>We should acknowledge our unhappiness.</b>
 <br/><br/>AND
 <br/><br/><b>Be brave</b> to pursue what we truly want.</p>
@@ -67,5 +67,5 @@ However, your happiness can only defined by you. It cannot be formed out of comp
 <div class="flexbox-bord" style="flex-basis:center; text-align:center;">
   <div><b>Be clear</b> of what your own happiness is.</div>
   <div><b>Avoid</b> letting <b>external factors</b> deny you of greater happiness.</div>
-  <div>Decide for yourself if you're truly happy, without comparing.</div>
+  <div><b>Decide</b> for yourself if you're <b>truly happy</b>, without comparing.</div>
 </div>
