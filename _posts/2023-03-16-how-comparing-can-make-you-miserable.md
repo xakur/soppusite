@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Why it’s Pointless to Compare Yourself to Others
+title: How Comparing Can Make You Miserable
 share-description:
 thumbnail-img: "https://images.pexels.com/photos/4145365/pexels-photo-4145365.jpeg"
-categories: life-tips
-tags: life-tips
+categories: the-deep
+tags: the-deep
 readtime: true
 excerpt: Comparison is a pointless activity. People tend to compare a lot. Some people like to compare with the others to ensure that they are as good as them. When they fall short of the others, they might become sad, jealous and even start nitpicking the flaws of others. We are often advised against making comparisons in such scenarios.
 ---
@@ -21,7 +21,7 @@ I do not think that is good either, because comparison amounts to nothing in the
 
 Here is an example of what our thought process may be, when we compare against a...
 
-<div class="imgtext-container" style="background-color:#ffffff;">
+<div class="flexbox-bord">
   <div style="background-color:#f9c9cf"><p>Negative Situation:</p></div>
   <div><p>"The others are in a more negative situation than me. I am already very lucky. I will be happy with what I have, be happy with the situation that I am in, and not think that I need more."</p></div>
 </div>
