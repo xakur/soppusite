@@ -61,7 +61,7 @@ You can also make a mental note to yourself that you are not lonely, for you alw
 
 **It is meaningful as long as it helps you stay focused and motivated in life**.
 
-You can also set short-term or long-term life goals for yourself - What do you want to achieve within the next 5 years? E.g. to be able to speak a foreign language fluently, to buy a new house etc. Plan what are you going to do to achieve them. No matter what, avoid being judgmental towards your own purpose in life.
+You can also set short-term or long-term life goals for yourself - What do you want to achieve within the next 5 years? E.g. to be able to speak a foreign language fluently, to buy a new house etc. Plan what you are going to do to achieve them. No matter what, avoid being judgmental towards your own purpose in life.
 
 ## 3. You can’t find like-minded people around you
 
