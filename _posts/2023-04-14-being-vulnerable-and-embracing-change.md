@@ -43,7 +43,9 @@ If I was lucky and if my friend was understanding, she wouldn't mind the broken 
 
 <div style="text-align:center; font-size:22px;">A sort of fear arises in me when two hearts are getting closer.</div>
 
-<img src="https://images.pexels.com/photos/7277896/pexels-photo-7277896.jpeg" alt="troubled lady sitting by the window" style="width:533px; height:348px; display: block; margin: 0 auto;">
+<div style="align:center; text-align:center;><img src="https://images.pexels.com/photos/7277896/pexels-photo-7277896.jpeg" alt="troubled lady sitting by the window" style="width:543px; height:358px; display: block; margin: 0 auto;"><i>What if they leave me once they know the real me? What if they start to dislike me once they know how dark I am? and etc.</i> Questions like these would often pop up in my mind whenever a casual bond was starting to form into a close one.</div>
+
+
 
 <p style="font-size:16px;"><i>What if they leave me once they know the real me? What if they start to dislike me once they know how dark I am? and etc.</i> Questions like these would often pop up in my mind whenever a casual bond was starting to form into a close one.</p>
 
