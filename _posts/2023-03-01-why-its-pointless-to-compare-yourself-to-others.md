@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why it’s Pointless to Compare Yourself to Others
-share-description:
+share-description: Comparison will stall your progress, as you are putting too much focus on others. We’re always changing. People only show what they want to show others. It is insubstantial to compare to what is only presented to us on the surface.
 thumbnail-img: /assets/img/comparing-is-pointless.png
 categories: life-tips
 tags: life-tips
