@@ -64,3 +64,8 @@ However, your happiness can only defined by you. It cannot be formed out of comp
 <br/><br/>AND
 <br/><br/><b>Be brave</b> to pursue what we truly want.</p>
 
+<div class="flexbox-bord">
+  <div style="background-color: #c0fcc1;"><p><b>Positive Situation:</b></p></div>
+  <div>"The others are in a more positive situation than me. They are doing better. I'm not happy (enough) with the situation I am in. I need and deserve more. I want to become better!"</div>
+</div>
+</div>
