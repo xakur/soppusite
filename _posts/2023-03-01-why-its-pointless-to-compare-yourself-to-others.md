@@ -6,12 +6,12 @@ thumbnail-img: /assets/img/comparing-is-pointless.png
 categories: life-tips
 tags: life-tips
 readtime: true
-excerpt: We are often told not to compare ourselves to others, but we may still inevitably do it anyway. It is said that the act of comparing is a natural part of human cognition, which can be beneficial for the process of improving oneself. While it can feel normal to compare yourself to others, it is not ideal. Well, it depends on your attitude towards it.
+excerpt: We are often told not to compare ourselves to others, but we may still inevitably do it anyway. It is said that the act of comparing is a natural part of human cognition, which can be beneficial for the process of improving oneself. While it can feel normal to compare yourself to others, it is not ideal.
 ---
 
 <img src="/assets/img/comparing-is-pointless.png" alt="two women looking at their photos" style="display: block; margin: 0 auto;">
 
-We are often told not to compare ourselves to others, but we may still inevitably do it anyway. It is said that [the act of comparing is a natural part of human cognition, which can be beneficial for the process of improving oneself](https://wp.nyu.edu/mind/2021/02/27/why-do-we-compare-ourselves-to-others/). While it can feel normal to compare yourself to others, it is not ideal. Well, it depends on your attitude towards it.
+We are often told not to compare ourselves to others, but we may still inevitably do it anyway. It is said that [the act of comparing is a natural part of human cognition, which can be beneficial for the process of improving oneself](https://wp.nyu.edu/mind/2021/02/27/why-do-we-compare-ourselves-to-others/). While it can feel normal to compare yourself to others, it is not ideal. [Comparing can make you miserable.](https://sliceofpower.com/2023-03-16-how-comparing-can-make-you-miserable)
 
 When you see someone who is better than you, there are typically two ways to look at it: Are you acknowledging their merits and looking up to them? Or are you feeling jealous and unhappy that they are better than you? When I think about these two perspectives carefully, I realized that they are in fact, two very different concepts. In both scenarios, despite being aware of the differences present, the former is not based off a comparative mindset.
 
@@ -63,7 +63,7 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 
 ## Conclusion
 
-Everyone is unique in their own ways. It is a waste of time to compare yourself with others as the time could be spent on improving yourself instead. Comparing can make you miserable. There is no need to be too focused on our lacks. We should embrace who we really are. When we see someone better than us, we can always take it as a learning opportunity to learn from them. To improve and become a better person, you should only compare yourself with yourself.
+Everyone is unique in their own ways. It is a waste of time to compare yourself with others as the time could be spent on improving yourself instead. We should embrace who we really are. When we see someone better than us, we can always take it as a learning opportunity to learn from them. To improve and become a better person, you should only compare yourself with yourself.
 
 **Invest the time and energy in becoming a better version of yourself**. Forgive yourself for your past. Forgive the past that you had to go through, which might have caused you to become what you do not want to become. We all have our circumstances to go through and uncontrollable external factors may sometimes affect us in our journeys. No matter what, we need to believe that the time to shine will eventually arrive as we constantly strive to improve ourselves.
 
