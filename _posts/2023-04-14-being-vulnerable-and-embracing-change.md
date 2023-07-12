@@ -98,7 +98,7 @@ I realized that I was starting to find excuses to deny myself of the warmth. I f
 <div style="text-align:center; font-size:22px;">
 <p>I need to tell myself that I'm actually deserving of this positive change and warmth. I'm just doubting it due to my past experiences. I deserve this just as much as anyone else.</p></div>
 
-When we are not fully accustomed to the new ways, it's easy to revert to our old ways or old mindset by accident. Just like bad habits, the soothing aspect of it makes us fall back into old patterns, in order to feel safe and comfortable. As much as we do not like the old ways, we slip into them because it feels familiar to us. It is normal and even inevitable for that to happen. Simply, changes take time to adapt to. This applies to all types of changes.
+When we are not fully accustomed to the new ways, it's easy to revert to our old ways or old mindset by accident. [Just like bad habits, the soothing aspect of it makes us fall back into old patterns, in order to feel safe and comfortable.](https://sliceofpower.com/2023-02-15-stopping-bad-habits-focus-on-your-feelings-first/) As much as we do not like the old ways, we slip into them because it feels familiar to us. It is normal and even inevitable for that to happen. Simply, changes take time to adapt to. This applies to all types of changes.
 
 I gradually realized that it is okay to feel lost and "off" about the change in the beginning. There is no need to beat myself up over it and feel sorry towards my friend either. Moreover, an understanding friend would understand.
 
