@@ -60,7 +60,7 @@ Affirmations can be done in various ways. It can be in the form of repeating pos
 
 
 <ul class="box-beige" style="padding-left:1.5rem;">
-<p><b>Examples of Positive Affirmations:</b></p>
+<b>Examples of Positive Affirmations:</b>
 <li>I am successful. I am worthy of my dreams.</li>
 <li>I accept who I am.</li>
 <li>I will love myself and be kind to myself.</li>
