@@ -42,8 +42,11 @@ It was a nerve-wrecking experience, and felt like a "make-or-break" situation. C
 If I was lucky and if my friend was understanding, she wouldn't mind the broken me. However, there was also the possibility of losing this friend right away. She might leave me alone and never speak to me again. I wished I could be forthcoming with my feelings - to simply tell her that I do not want her to leave (the real) me. But who was I to request something? It did not sit well with me to ask a friend for help, even if all I needed was a listening ear or an understanding voice. But as we were getting closer, I wanted to reveal my true self before anything worse happens...
 
 <div style="text-align:center; font-size:22px;">A sort of fear arises in me when two hearts are getting closer.</div>
-
-<div style="align:center; text-align:center;"><img src="https://images.pexels.com/photos/7277896/pexels-photo-7277896.jpeg" alt="troubled lady sitting by the window" style="width:543px; height:358px; display: block; margin: 0 auto;"><i>What if they leave me once they know the real me? What if they start to dislike me once they know how dark I am? and etc.</i> Questions like these would often pop up in my mind whenever a casual bond was starting to form into a close one.</div>
+<br/>
+<div style="align:center; text-align:center;">
+  <img src="https://images.pexels.com/photos/7277896/pexels-photo-7277896.jpeg" alt="troubled lady sitting by the window" style="width:543px; height:358px; display: block; margin: 0 auto;">
+  <p style="font-size:16px;"><i>What if they leave me once they know the real me? What if they start to dislike me once they know how dark I am? and etc.</i> Questions like these would often pop up in my mind whenever a casual bond was starting to form into a close one.</p>
+</div>
 
 
 
