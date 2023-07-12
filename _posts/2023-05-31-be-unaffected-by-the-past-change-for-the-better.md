@@ -3,8 +3,8 @@ layout: post
 title: Be Unaffected by the Past. Change for the Better.
 share-description:
 thumbnail-img: /assets/img/change-for-the-better.jpg
-categories: life-tips
-tags: life-tips
+categories: the-deep
+tags: the-deep
 readtime: true
 excerpt: Like fallen leaves, our past has left us. New leaves start growing and we create new memories, as well as change for the better. Unfortunately, it can be tough to let go of the past completely. We might find ourselves restrained by our past at times. The events that happened in the past can still bring about influences today. We may hold grudges against someone or even ourselves.
 ---
