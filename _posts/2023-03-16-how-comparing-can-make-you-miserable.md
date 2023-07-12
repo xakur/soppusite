@@ -99,3 +99,13 @@ There are different ways to look at the current situation and determine what you
   <td>&#8594; Pushes you to <b>ACTIVELY</b> do something; to keep grinding till you finally achieve what you want. You know you are capable of achieving more. Higher gains.</td>
 </tr>
 </table>
+
+When you do not compare, you put all focus on yourself - to keep grinding and become better. You will know yourself better. If you are not truly happy with your current circumstances, you need to take action and make changes. If you do not do anything, no matter how much you compare to people, you will still be in the same spot and state of mind.
+
+## Conclusion
+
+In my opinion, comparison in general, whether for the better or worse, can make one feel empty. This is because you are using someone or something else as a benchmark to determine how you are feeling and even who you are. It keeps you away from focusing on yourself and building on your true happiness.
+
+We are responsible for defining our own happiness. If you are not truly happy, it means you are not. There is no need to "find" someone else to make you feel better. Comparing is a never-ending chore. You can always do that for everything, and you may end up neglecting your true happiness. It is pointless to compare.
+
+There are always things to be grateful for to make you feel better about your life, and this has nothing to do with comparing to someone else. Always be grateful and count your blessings. Be happy for the things and achievements that you have today. Whether big or small, be grateful for all the kindness that people have given you. Be grateful for the capability you have to accomplish all that you have today and never stop working towards a better you.
