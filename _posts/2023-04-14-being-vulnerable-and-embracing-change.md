@@ -102,9 +102,9 @@ When we are not fully accustomed to the new ways, it's easy to revert to our old
 
 I gradually realized that it is okay to feel lost and "off" about the change in the beginning. There is no need to beat myself up over it and feel sorry towards my friend either. Moreover, an understanding friend would understand.
 
-Through this encounter, I have gained a <b>deeper</b> understanding about embracing changes in life.
+I have gained a <b>deeper</b> understanding about embracing changes in life.
 
-<div style="text-align:center; font-size:20px; font-style:bold;">
+<div style="text-align:center; font-size:20px; font-weight:bold;">
   <p>Any type of change will feel "out of place" at first. Even for a change that favors you.</p>
   <p>Prepare your heart for the change.</p>
   <p>Give yourself enough time to adapt to the change without being critical of yourself.</p>
@@ -119,7 +119,7 @@ Once I've developed a stronger love for myself, I would know that there's nothin
 
 If trying to accept this warmth is causing too much discomfort, I can feel free to put it aside first. No need to blame myself. What I need to do is to work on myself; to develop more love within myself and know that **I'm worthy of the good things in life too.** I deserve these positive changes in my life. 
 
-<div style="text-align:center; font-size:22px; font-style:bold;">
+<div style="text-align:center; font-size:22px; font-weight:bold;">
   <p>I'm loveable, by myself and other people.</p>
   <p>A change is happening, so I need to be patient with myself.</p>
   <p>Give myself ample time to embrace this new change without guilt.</p>
