@@ -19,7 +19,7 @@ Pause all thoughts that are running through your head.
 <br/>
 Take a deep breath. Don't worry.</div>
   
-Rest assured that this is not an uncommon feeling and there is nothing wrong with you. You are not alone. It is okay to feel sad and hopeless in our journey at times. We are only human after all. In moments like this, it is important to [be kinder than we normally are to ourselves](https://xakur.github.io/2022-12-19-be-kinder-to-yourself-when-you-feel-hopeless/).
+Rest assured that this is not an uncommon feeling and there is nothing wrong with you. You are not alone. It is okay to feel sad and hopeless in our journey at times. We are only human after all. In moments like this, it is important to [be kinder than we normally are to ourselves](https://sliceofpower.com/2022-12-19-be-kinder-to-yourself-when-you-feel-hopeless/).
 
 We are all always learning to become better and stronger. Although this journey is not meant to be an easy one, you got this! Here are 5 ways on how to stay hopeful when you are feeling doubtful of yourself and your circumstances.
 
