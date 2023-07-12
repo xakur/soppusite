@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Comparing Can Make You Miserable
-share-description:
+share-description: Comparing makes you disregard your true definition of happiness. Comparing only leads to a clash of concepts as everyone has both good and bad situations to go through in life. Instead of comparing, we should acknowledge our unhappiness and be brave to pursue what we truly want.
 thumbnail-img: "https://images.pexels.com/photos/4145365/pexels-photo-4145365.jpeg"
 categories: the-deep
 tags: the-deep
@@ -94,7 +94,7 @@ There are different ways to look at the current situation and determine what you
   <br/>- No external influences to tell you if you’re good/happy enough.
   <br/>- Focused on yourself.</td>
 </tr>
-<tr style="background-color:#fff4d1">
+<tr style="background-color:#fff8e2">
   <td>&#8594; In a way, this attitude is more <b>PASSIVE</b>, but it does not mean that it’s bad either. You are simply already happy with what you have, and do not necessarily have to do something more.</td>
   <td>&#8594; Pushes you to <b>ACTIVELY</b> do something; to keep grinding till you finally achieve what you want. You know you are capable of achieving more. Higher gains.</td>
 </tr>
