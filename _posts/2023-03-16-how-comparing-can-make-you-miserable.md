@@ -64,8 +64,19 @@ However, your happiness can only defined by you. It cannot be formed out of comp
 <br/><br/>AND
 <br/><br/><b>Be brave</b> to pursue what we truly want.</p>
 
-<div class="flexbox-bord" style="flex-basis:50%; text-align:center;">
+<div class="flexbox-bord" style="flex-basis: 1; text-align:center;">
   <div><b>Be clear</b> of what your own happiness is.</div>
   <div><b>Avoid</b> letting <b>external factors</b> deny you of greater happiness.</div>
   <div><b>Decide</b> for yourself if you're <b>truly happy</b>, without comparing.</div>
 </div>
+
+Certainly, it is important to count your blessings. You can be grateful for the things you have but also, find ways to make yourself happier (if that’s what you truly want). It is also important to always have respect for others. However, don't become too immersed in the life situation of others, that you neglect what you truly want.
+
+## If you're not happy with your life situation, TAKE ACTION.
+
+I feel that we sometimes slip into being “lazy” or we lack the courage to go after our TRUE happiness after comparing to others (which in this case, comparing to those who have a tougher time than us).
+
+For example, since we are already good and we feel adequately comfortable, we may keep the status quo. I think this is not a very helpful mindset, unless you are truly happy with the present circumstances, after much serious thought. We should not give in to our present comfort if we actually want something more in our hearts.
+
+![listen to your heart](https://images.pexels.com/photos/7005819/pexels-photo-7005819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
