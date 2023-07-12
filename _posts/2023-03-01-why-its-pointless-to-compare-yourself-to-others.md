@@ -57,7 +57,7 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 
 <div class="imgtext-container" style="display: block; text-align:center; padding-top:40px; padding-left:40px; padding-right:40px; padding-bottom:10px; margin-bottom:40px;">
   <img src="https://images.pexels.com/photos/7148445/pexels-photo-7148445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-  <p style="font-size:20px; font-weight:bold;">Everyone is born to be different to begin with. No matter how much you compare, you are still uniquely you.</p>
+  <p style="font-size:21px; font-weight:bold;">Everyone is born to be different to begin with. No matter how much you compare, you are still uniquely you.</p>
   <p>We were all born into different environments, have different upbringing and different lives. As humans, we might go through the same emotions and/or similar experiences, but not everyone’s path will be the same. How we get from one point to the next will not be the same, because of differences in our environments, situations and personalities. It is what makes us unique in each of our own ways. Often, comparison makes us neglect our own uniqueness as we feel that we are not on par with someone else. <b>However, we are all different and are endowed with different talents.</b> The person you are comparing to may not have what you have. You just do not know it. <b>We all excel in different ways</b> and it is our uniqueness and different life stories that add color to this world.</p>
 </div>
 
