@@ -23,7 +23,7 @@ We need to let ourselves go by forgiving ourselves for our past. Things happened
 
 <div style="text-align:center; font-weight:bold;">
 <p>Forgive yourself for your (bad) past.</p>
-<p>It's normal for us to make mistakes in life and what is most important is to learn from our mistakes. </p>
+<p>It's normal for us to make mistakes in life and what is most important is to learn from our mistakes.</p>
 </div>
 
 Forgive the situation you were in and the past you had to go through. Know that it is all over now and your destiny lies in your hands.
@@ -40,8 +40,46 @@ You might have to work harder and spend more time than the others to undo all th
 
 Even if people who were part of your past brings up the dark side, it will not affect you because you know you have changed. The current you is different. We are always learning something new as each day passes. We are always a little different from who we were yesterday.
 
-<img src="https://images.pexels.com/photos/2494693/pexels-photo-2494693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="weighing scale" style="width:401px; height:505px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/2494693/pexels-photo-2494693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="weighing scale" style="width:351px; height:455px; display: block; margin: 0 auto;">
 
 The people you meet in the later part of your life would only know the current you. The you that you have established yourself to be. Even if they got to know your past, they would have already known that you are fine as you are through their interactions with you. The person that they like and want to be around with is who you are of the present day. 
 
 People change all the time. As long as you are striving to change for the better, you are becoming a better self. There's no need to worry about how bad your past was since it is already over and there is nothing that you can do about it.
+
+## Importance of Self-Improvement & Moving On
+
+Well, our past has definitely shaped us to a certain extent, so no matter how much we have moved forward, remnants of our past may follow us. However, the remnants can serve as **reminders to help us prevent the same mistakes**.
+
+No matter how bad things were, even though the memories or feelings might come back on random days, there is no need to fret over them because we are always improving ourselves.
+
+There is no need to deny yourself of the past either. Accept that they happened and you already did what you could in the situation back then. As mentioned above, it is important to only take away the learning points of your past experiences.
+
+As long as we work on our flaws, improve ourselves and prevent the same mistakes from happening again, we do not have to feel troubled by what happened and how we once were.
+
+Improvement happens through conscious means and unknowingly. You have already moved ahead when you have the heart to keep improving. So whether you can move on or not, is only a matter of thought. Don't forget, we are already moving on and distancing ourselves from the past day by day. This is because we naturally strive for improvement as we live in this world.
+
+<div style="text-align:center; font-weight:bold;">
+<p>Focus on your current actions.</p>
+<p>Do what you can, and do not worry about not doing enough to wipe off your past.</p>
+<p>No one (including yourself) can use your past against you when you have been improving and changing for the better.</p>
+</div>
+
+Even if people were to criticize you for your past actions, their criticisms do not stand to be valid anymore. It is even pointless to bring them up. Hence, it is so important to always work on yourself and improve.
+
+If you frequently feel like you are stuck in the past, you have to make a conscious effort to adjust your thoughts and redirect your attention to the present. **Keep telling yourself that you are ok now. You are in (better) control of your situation now.** You know what to do to make your life better.
+
+The past may affect us, but it can only affect us this much. It will not affect us forever. We are greeted by new things and new people as we go about our lives. The new additions in our lives help us to distance ourselves from the past.
+
+![someone holding fallen leaf](https://images.pexels.com/photos/290617/pexels-photo-290617.jpeg)
+
+Likewise, what's new at the moment will become old and be something of the past eventually. This applies to everything in life. Just like how technology and trending songs eventually die off and take a backseat in our memories as the new ones take over their positions, our unhappy past works the same way too.
+
+The main thing in life is to focus on the present. It's the only area where you have the most control over.
+
+<div style="text-align:center; font-weight:bold;">
+<p>Cherish the present, for you are the <u>best version of yourself</u> in the present.</p>
+<p>By being in the present, you are already improving.</p>
+<p>As you keep improving yourself, you are building up your confidence.</p>
+</div>
+
+Make use of the present to get away from the old. Constantly remind yourself that you are in the present. You have survived the past and it is time to make things even better from now!
