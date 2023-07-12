@@ -34,7 +34,7 @@ It's not in me to talk about myself, but I suddenly decided to open up to this f
 
 It was a nerve-wrecking experience, and felt like a "make-or-break" situation. Considering how I was treated by former friends in the past, I was already expecting an outcome in my heart. I very well understood that no one likes to be around a negative person. By "negative", I mean a pessimistic or emotionally injured person, and not those who intentionally try to hurt others and spread negativity.
 
-<div style="text-align:center; font-size:22px;">
+<div style="text-align:center; font-size:22px; font-weight:bold;">
 <p>Being truthful can be agonizing.</p>
 <p>I would rather not form any close ties to begin with. It would not hurt anyone.</p>
 </div>
