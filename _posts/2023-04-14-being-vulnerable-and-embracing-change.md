@@ -34,9 +34,11 @@ It's not in me to talk about myself, but I suddenly decided to open up to this f
 
 It was a nerve-wrecking experience, and felt like a "make-or-break" situation. Considering how I was treated by former friends in the past, I was already expecting an outcome in my heart. I very well understood that no one likes to be around a negative person. By "negative", I mean a pessimistic or emotionally injured person, and not those who intentionally try to hurt others and spread negativity.
 
-<div style="text-align:center; font-size:22px; font-weight:bold;">
+<div style="text-align:center; font-size:22px;">
 <p>Being truthful can be agonizing.</p>
 <p>I would rather not form any close ties to begin with. It would not hurt anyone.</p>
 </div>
 
 If I was lucky and if my friend was understanding, she wouldn't mind the broken me. However, there was also the possibility of losing this friend right away. She might leave me alone and never speak to me again. I wished I could be forthcoming with my feelings - to simply tell her that I do not want her to leave (the real) me. But who was I to request something? It did not sit well with me to ask a friend for help, even if all I needed was a listening ear or an understanding voice. But as we were getting closer, I wanted to reveal my true self before anything worse happens...
+
+
