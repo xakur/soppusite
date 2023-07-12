@@ -79,11 +79,13 @@ With the lack of a supportive community that understands you, it is very easy to
 
 You pretty much have to be proactive in seeking out like-minded people. This is often easier said than done. However, with thanks to technology nowadays, we can easily reach out to people living in various parts of the world. It widens our social circle as we are able to extend our connections through online interactions, and get to know people from other places.
 
-**With plenty of social media platforms available now, you can easily engage with others through a common interest**. E.g. chatting and making friends through livestreaming platforms, interacting with people who share similar interests on online forums or other social media sites.
+**With plenty of social media platforms available now, you can easily engage with others through a common interest**. E.g. chatting and making friends through livestreaming platforms, interacting with people who share similar interests on online forums or social media platforms.
 
 Even if you cannot seem to find people similar to you in your environment (be it family, workplace or even country), there is bound to be someone out there in the world who understands what you are going through.
 
-Let your mind be open to the world and equip yourself with more knowledge. Generally, increasing the amount of reading can not only expand your knowledge base, but can also distract you from the loneliness that you are feeling as you become immersed in the reading. Reading up on other people's experiences, self-help books or other books and related articles may be able to relieve your mind.
+Let your mind be open to the world and equip yourself with more knowledge.
+
+Generally, increasing the amount of reading can not only expand your knowledge base, but can also distract you from the loneliness that you are feeling as you become immersed in the reading. Reading up on other people's experiences, self-help books or other books and related articles may be able to relieve your mind.
 
 All sorts of situations and emotions exist in this world. **Surely, there is definitely someone out there who have the same feelings (or even situations), and is able to support your beliefs.** They might be physically far away, but you are not alone. Find comfort in knowing that.
 
@@ -93,4 +95,4 @@ To stop feeling lonely, learn to love yourself wholeheartedly. Seek the understa
 
 You can find significance of your life from within. You are your own power. You have yourself to rely on, so you are never alone. Even if you feel lonely, be it in the physical or emotional context, there are still activities in life that you can engage in and find joy from.
 
-When we look at things from a different perspective, you are not lonely after all. There are people out there who are going through or have gone through similar experiences and sensations. They would know exactly how you feel, and just like you, they are also coping in their own ways as best as possible.
+When you look at things from a different perspective, you are not lonely after all. There are people out there who are going through or have gone through similar experiences and sensations. They would know exactly how you feel, and just like you, they are also coping in their own ways as best as possible.
