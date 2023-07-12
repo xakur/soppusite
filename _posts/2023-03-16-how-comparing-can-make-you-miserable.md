@@ -64,10 +64,10 @@ However, your happiness can only defined by you. It cannot be formed out of comp
 <br/><br/>AND
 <br/><br/><b>Be brave</b> to pursue what we truly want.</p>
 
-<div class="flexbox-bord" style="flex-basis: 0; display: flex; flex: 1; text-align:center;">
-  <div><b>Be clear</b> of what your own happiness is.</div>
-  <div><b>Avoid</b> letting <b>external factors</b> deny you of greater happiness.</div>
-  <div><b>Decide</b> for yourself if you're <b>truly happy</b>, without comparing.</div>
+<div class="flexbox-bord" style="text-align:center;">
+  <div style="flex-basis: 0; flex: 1;"><b>Be clear</b> of what your own happiness is.</div>
+  <div style="flex-basis: 0; flex: 1;"><b>Avoid</b> letting <b>external factors</b> deny you of greater happiness.</div>
+  <div style="flex-basis: 0; flex: 1;"><b>Decide</b> for yourself if you're <b>truly happy</b>, without comparing.</div>
 </div>
 
 Certainly, it is important to count your blessings. You can be grateful for the things you have but also, find ways to make yourself happier (if that’s what you truly want). It is also important to always have respect for others. However, don't become too immersed in the life situation of others, that you neglect what you truly want.
