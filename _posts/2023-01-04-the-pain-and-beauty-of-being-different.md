@@ -95,7 +95,7 @@ I understand this can be difficult sometimes, especially if you had grown up in 
 
 Being different means you are unique. You do not follow the crowd. You have a very clear mind - you know **what** you like/dislike and **why** you like/dislike. [It is said that most people by default, follow the crowd because it is easier to do so than to think for themselves.](https://www.linkedin.com/pulse/why-do-people-follow-crowd-muhammad-salman)
 
-[You are creative, you often have unique opinions and are capable of making a difference in this world](https://sliceofpower.com/5-reasons-why-being-different-is-good/). Do not be afraid to show your uniqueness to others. Functioning differently in this world can sometimes be tiring, but remember, you are not alone in this struggle.
+[You are creative, you often have unique opinions and are capable of making a difference in this world](https://sliceofpower.com/2023-01-11-5-reasons-why-being-different-is-good/). Do not be afraid to show your uniqueness to others. Functioning differently in this world can sometimes be tiring, but remember, you are not alone in this struggle.
 
 <img src="https://images.pexels.com/photos/6058051/pexels-photo-6058051.jpeg" alt="view of the city" style="width:533px; height:348px; display: block; margin: 0 auto;">
 
