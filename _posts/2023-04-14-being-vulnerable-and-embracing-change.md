@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Being Vulnerable and Embracing Change
-share-description:
+share-description: Any type of change will feel "out of place" at first. Even for a change that favors you. Give yourself enough time to adapt to the change without being critical of yourself. Prepare your heart for the change. Refrain from picking out things to disprove of the change.
 thumbnail-img: "https://images.pexels.com/photos/887349/pexels-photo-887349.jpeg"
 categories: in-my-mind
 tags: in-my-mind
