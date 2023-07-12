@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be Unaffected by the Past. Change for the Better.
-share-description:
+share-description: Cherish the present, for you are the best version of yourself in the present. No one can use your past against you when you have been improving and changing for the better. Work on what you can do right now, to bring you further away from the past.
 thumbnail-img: /assets/img/change-for-the-better.jpg
 categories: the-deep
 tags: the-deep
@@ -56,15 +56,15 @@ There is no need to deny yourself of the past either. Accept that they happened 
 
 As long as we work on our flaws, improve ourselves and prevent the same mistakes from happening again, we do not have to feel troubled by what happened and how we once were.
 
-Improvement happens through conscious means and unknowingly. You have already moved ahead when you have the heart to keep improving. So whether you can move on or not, is only a matter of thought. Don't forget, we are already moving on and distancing ourselves from the past day by day. This is because we naturally strive for improvement as we live in this world.
+Improvement happens through conscious means and unknowingly. You have already moved ahead when you have the heart to keep improving. So whether or not you can move on, is only a matter of thought. Don't forget, we are already moving on and distancing ourselves from the past day by day. This is because we naturally strive for improvement as we live in this world.
 
 <div style="text-align:center; font-weight:bold;">
 <p>Focus on your current actions.</p>
-<p>Do what you can, and do not worry about not doing enough to wipe off your past.</p>
+<p>Do what you can, and do not worry about not doing enough to wipe off the past.</p>
 <p>No one (including yourself) can use your past against you when you have been improving and changing for the better.</p>
 </div>
 
-Even if people were to criticize you for your past actions, their criticisms do not stand to be valid anymore. It is even pointless to bring them up. Hence, it is so important to always work on yourself and improve.
+Even if people were to criticize you for your past actions, their criticisms do not stand to be valid anymore. It is even pointless to bring them up. Hence, it is very important to always work on yourself and improve.
 
 If you frequently feel like you are stuck in the past, you have to make a conscious effort to adjust your thoughts and redirect your attention to the present. **Keep telling yourself that you are ok now. You are in (better) control of your situation now.** You know what to do to make your life better.
 
