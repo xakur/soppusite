@@ -87,15 +87,15 @@ There are different ways to look at the current situation and determine what you
   <th>Comparing to someone who's worse than you</th>
   <th>Not comparing to anyone</th>
 </tr>
-<tr>
+<tr style="background-color:#ffffff">
   <td>- Feel that you are already good enough as compared to them, so it is ok.
   <br/>- Being satisfied with current state.</td>
   <td>- You know what you want. 
   <br/>- No external influences to tell you if you’re good/happy enough.
   <br/>- Focused on yourself.</td>
 </tr>
-<tr>
-  <td>In a way, this attitude is more <b>PASSIVE</b>, but it does not mean that it’s bad either. You are simply already happy with what you have, and do not necessarily have to do something more. &#8594;</td>
-  <td>Pushes you to <b>ACTIVELY</b> do something; to keep grinding till you finally achieve what you want. You know you are capable of achieving more. Higher gains. &#8594;</td>
+<tr style="background-color:#fff4d1">
+  <td>&#8594; In a way, this attitude is more <b>PASSIVE</b>, but it does not mean that it’s bad either. You are simply already happy with what you have, and do not necessarily have to do something more.</td>
+  <td>&#8594; Pushes you to <b>ACTIVELY</b> do something; to keep grinding till you finally achieve what you want. You know you are capable of achieving more. Higher gains.</td>
 </tr>
 </table>
