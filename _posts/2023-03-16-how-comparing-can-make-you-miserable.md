@@ -22,10 +22,15 @@ I do not think that is good either, because comparison amounts to nothing in the
 Here is an example of what our thought process may be, when we compare against a...
 
 <div class="flexbox-bord">
-  <div><p><b>Negative Situation:</b></p></div>
-  <div><p>"The others are in a more negative situation than me. I am already very lucky. I will be happy with what I have, be happy with the situation that I am in, and not think that I need more."</p></div>
+  <div style="background-color: #f9c9cf;"><p><b>Negative Situation:</b></p></div>
+  <div><p>"The others are in a more negative situation than me. I am already very lucky. I will be happy with what I have, be happy with the situation that I am in, and not think that I need more." lololol</p></div>
 </div>
 
-jjhoij
+So with the same logic, when you compare against a positive situation, it should be...
+
+<div class="flexbox-bord">
+  <div style="background-color: #f9c9cf;"><p><b>Negative Situation:</b></p></div>
+  <div><p>"The others are in a more negative situation than me. I am already very lucky. I will be happy with what I have, be happy with the situation that I am in, and not think that I need more."</p></div>
+</div>
 
 
