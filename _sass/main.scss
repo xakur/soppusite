@@ -43,3 +43,13 @@ blockquote {
   justify-content: center;
   background-color: #fff1c0;
 }
+
+/* border flex box for compare miserable post */
+.flexbox-bord {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #eee;
+  padding: 20px;
+}
+  
