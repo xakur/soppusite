@@ -22,7 +22,7 @@ A long-term goal is made up of a series of short-term goals or rather, small tas
 
 Unfortunately, there may be factors along the way that stop us in our journey, e.g. we become unmotivated, we procrastinate or simply, we feel sad and cannot move on etc. The small tasks might seem dreadful and intimidating at times. 
 
-<div class="box-purple" style="background-color:#feffd0; padding-bottom:0.9375rem;">
+<div class="box-purple" style="background-color:#feffd0; padding-bottom:0rem;">
 <p>Hence, we should <b>focus on keeping up with these small tasks/little steps.</b></p>
 <p>We need to <b>ensure</b> that these <b>small tasks give us continuing happiness</b>, so that we do not see these tasks as chores that we are obliged to do.</p>
 <p><b>By being happy in the process, we can be consistent in our actions.</b></p>
@@ -59,13 +59,13 @@ We can get engulfed by our own emotions without noticing, and this can happen th
 Affirmations can be done in various ways. It can be in the form of repeating positive quotes and sentences to yourself, depending on which area you would like to reinforce. For example, if you want to become more confident, you can say and repeat to yourself, "I'm confident!" or "The only approval I need is myself." Alternatively, you can do this by writing it down on a piece of paper or a sticky note and stick it to your wall. There are also affirmation card decks that you can purchase from sites like [Amazon](https://www.amazon.com/) or [Etsy](https://www.etsy.com/).
 
 {: .box-beige}
-**Examples of Positive Affirmations:**
+**Examples of Positive Affirmations:**  
 * I am successful. I am worthy of my dreams.
 * I accept who I am.
 * I will love myself and be kind to myself.
 * I am good enough for myself.
 * I forgive myself for my past.
-* My past mistakes have made me stronger. 
+* My past mistakes have made me stronger.
 
 Some of these cards have pleasing designs and contain very encouraging words. You can choose to shuffle and draw a card everyday or as and when you like. I would normally redraw a card every other day and have the card placed on my table so that I could see it while I work on my tasks. On top of that, there are plenty of positive affirmations videos on YouTube that you can listen to as well.
 
