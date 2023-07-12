@@ -80,3 +80,22 @@ For example, since we are already good and we feel adequately comfortable, we ma
 
 ![listen to your heart](https://images.pexels.com/photos/7005819/pexels-photo-7005819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
+There are different ways to look at the current situation and determine what you want. Ultimately, it has to be through your heart – Are you truly happy? Will this happiness last for a long time?
+
+<table style="width:100%">
+<tr>
+  <th>Comparing to someone who's worse than you</th>
+  <th>Not comparing to anyone</th>
+</tr>
+<tr>
+  <td>- Feel that you are already good enough as compared to them, so it is ok.
+  <br/>- Being satisfied with current state.</td>
+  <td>- You know what you want. 
+  <br/>- No external influences to tell you if you’re good/happy enough.
+  <br/>- Focused on yourself.</td>
+</tr>
+<tr>
+  <td>In a way, this attitude is more <b>PASSIVE</b>, but it does not mean that it’s bad either. You are simply already happy with what you have, and do not necessarily have to do something more. &#8594;</td>
+  <td>Pushes you to <b>ACTIVELY</b> do something; to keep grinding till you finally achieve what you want. You know you are capable of achieving more. Higher gains. &#8594;</td>
+</tr>
+</table>
