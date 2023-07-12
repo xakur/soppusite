@@ -67,7 +67,7 @@ You can also set short-term or long-term life goals for yourself - What do you w
 
 Personally, it is not easy to find like-minded people who can understand and accept my weird thoughts and beliefs. Even till today. 
 
-Growing up, I never felt understood by my parents. I was/am still the oddball among my siblings, so I always had to do something more to fit in. Being different can be a pain, especially when your differences are being ignored. This had caused me to lose myself in the process.
+Growing up, I never felt understood by my parents. I was/am still the oddball among my siblings, so I always had to do something more to fit in. [Being different can be a pain, especially when your differences are being ignored.](https://sliceofpower.com/2023-01-04-the-pain-and-beauty-of-being-different/) This had caused me to lose myself in the process.
 
 Throughout my youth and young adulthood, I faced my challenges in isolation, never feeling like I had anyone I could truly confide in. The fact that I am an old soul makes things even harder. I do not think like how most people do. I tend to have a higher maturity in the way I behave and how I perceive things as compared to my peers. I am a deep thinker and looking at simple events often lead me to think of something bigger. I often cannot have intellectual conversations with my peers.
 
