@@ -22,7 +22,7 @@ A long-term goal is made up of a series of short-term goals or rather, small tas
 
 Unfortunately, there may be factors along the way that stop us in our journey, e.g. we become unmotivated, we procrastinate or simply, we feel sad and cannot move on etc. The small tasks might seem dreadful and intimidating at times. 
 
-<div class="box-purple" style="background-color:#fdfebc;">
+<div class="box-purple" style="background-color:#fdfebc; text-align: left;">
 <p>Hence, what's really important is to <b>focus on keeping up with these small tasks/little steps.</b></p>
 <p>We need to <b>ensure</b> that these <b>small tasks give us continuing happiness</b>, so that we do not see these tasks as chores that we are obliged to do.</p>
 <p><b>By being happy in the process, we can be consistent in our actions.</b></p>
