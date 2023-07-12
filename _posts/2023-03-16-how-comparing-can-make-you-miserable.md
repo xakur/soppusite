@@ -23,7 +23,7 @@ Here is an example of what our thought process may be, when we compare against a
 
 <div class="flexbox-bord">
   <div style="background-color: #f9c9cf;"><p><b>Negative Situation:</b></p></div>
-  <div><p>"The others are in a more negative situation than me. I am already very lucky. I will be happy with what I have, be happy with the situation that I am in, and not think that I need more." lololol</p></div>
+  <div><p>"The others are in a more negative situation than me. I am already very lucky. I will be happy with what I have, be happy with the situation that I am in, and not think that I need more."</p></div>
 </div>
 
 So with the same logic, when you compare against a positive situation, it should be...
@@ -33,7 +33,7 @@ So with the same logic, when you compare against a positive situation, it should
   <div><p>"The others are in a more positive situation than me. They are doing better. I'm not happy (enough) with the situation I am in. I need and deserve more. I want to become better!"</p></div>
 </div>
 
-Why do we need to compare with the negative situations of others in order to start feeling alright? If we want to compare, why are we not comparing against the positive situations as well? At the end of the day, **the act of comparing only leads to a clash of concepts**.
+Why do we need to compare with the negative situations of others in order to start feeling alright? If we want to compare, why are we not comparing against the positive situations as well? At the end of the day, <u>the act of comparing only leads to a clash of concepts</u>.
 
 <h3 style="text-align:center;">Comparison in either way is pointless and unnecessary.</h3>
 
@@ -43,10 +43,19 @@ When you compare, you are taking someone or something as a benchmark, to determi
 
 In my case, I realized that this mindset (comparing in this manner) had made me unintentionally neglect what happiness really meant to me, and had pulled me back from going after what truly satisfies my heart.
 
-<h3 style="text-align:center;">Comparing makes you disregard your true definition of happiness.</h3>
+<h3 style="text-align:center;">Comparing makes you disregard your
+<br/>true definition of happiness.</h3>
 
 I felt miserable that day. It was as if I could not ask for more. I understand I need to be grateful and I am always grateful for whatever I have despite all the bad experiences I face. However, why did it feel wrong to want to get more?
 
 I suddenly realized how obstructive this mindset can be. By thinking about how lucky I am as opposed to the sufferings of others, I started to feel that I was not worth the “better stuff” in life. I became too immersed in the life situations of others.
 
 Thinking about people who were born into unfortunate situations and environments aches my heart (till today). I would start thinking that I am not worth what I have right now. It made me belittle my own suffering and sadness (unhappiness) instead. It became a rather toxic mindset despite it being out of empathy for others. I do truly care about the less fortunate in the world.
+
+![woman looking out of window](https://images.pexels.com/photos/1101726/pexels-photo-1101726.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+When you are already aware that you are not completely happy, comparing yourself to others and then deciding if you are happy or not can be rather stifling. It makes you suppress your true feelings, as you try to convince yourself that you are already happy, just because you are in a better place.
+
+However, your happiness can only defined by you. It cannot be formed out of comparing to someone else’s lacks.
+
+
