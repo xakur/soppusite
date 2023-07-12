@@ -29,3 +29,43 @@ Unfortunately, there may be factors along the way that stop us in our journey, e
 </div>
 
 Once you've become consistent, performing these tasks would eventually become a habit and part of your lifestyle. Here are 3 easy ways that can help you establish a consistent routine, so that you can hold yourself accountable in your journey.
+
+## 1. Find enjoyment in every small task
+
+Find enjoyment in every step. It is your goal/dream for a reason. No matter how difficult it is to achieve the ultimate goal, there is certainly something that you truly enjoy about it. Something that prompted you to take on this journey in the first place. So what is it? What joy does the activity give you? Rely on that fun and enjoyment wholeheartedly.
+
+What's fun about it while you are in the process of doing these small tasks? It is **more important to focus on the positive feelings you get from the process**, than to think about the "good feelings" you imagine you would get from the end result. Focus on living in the moment. The past is gone and we cannot predict or control the future. [It is a lot more helpful to focus on the what's happening right now, as we can only control the present](https://nafc.org/bhealth-blog/the-importance-of-living-in-the-moment/). Cherish the present moment and enjoy what is fun about the task at hand right now.
+
+So how can you keep yourself reminded of what's fun about the activity?
+
+On a piece of paper, list 5 things that are fun about the activity (i.e. the small task(s) that make up your big goal, that you have to do). Think about what makes you smile while doing the tasks. Which part of it makes you enjoy and feel lighter? Certainly, there are difficulties in any given task, but finding joy and reminding yourself of the fun aspects will make them more tolerable. It gives you something to look forward to.
+
+<img src="https://images.pexels.com/photos/4792255/pexels-photo-4792255.jpeg" alt="lady writing notes" style="width:523px; height:339px; display: block; margin: 0 auto;">
+
+Whenever you feel dreadful about the task, look at this piece of paper to remind yourself of the fun that you will receive from doing this task. The fun of the task will be what keeps you consistent in doing it. Keep reminding yourself. Despite the challenges, you are enjoying it too.
+
+Ultimately, the practice of being consistent would eventually form into a habit. The process will become less intimidating to go through, and would become an automatic thing to do. Being consistent in doing what needs to be done will help you achieve your goal.
+
+## 2. Incorporate daily affirmations
+
+Affirmations or daily affirmations are positive statements that affirm you of your abilities, reinforce your confidence and uplift your spirits, helping you to stay motivated. The affirmations can foster a positive mindset when trying to complete the seemingly dreadful small tasks that make up our big goal. When you find things difficult and feel like procrastinating, these affirmations serve as words of encouragement to push you forward.
+
+We need these reminders sometimes as it might be easy to forget our own strengths. Personally, positive affirmations help to calm me down whenever I'm feeling overwhelmed. It helps me to feel more at peace with myself, especially when I suddenly doubt myself. We all have moments like this in life. In addition to the various ways that you can adopt to help you stay hopeful in times of self-doubt, positive affirmations are a good way to help you feel better too. And affirming yourself daily can reduce the tendency of doubting yourself when you internalize the positive beliefs over time.
+
+We can get engulfed by our own emotions without noticing, and this can happen through external influences as well; you might start doubting your abilities when you see someone who is a lot better than you. This is where (daily) affirmations can help you stay rooted to yourself.
+
+<img src="https://images.pexels.com/photos/1624501/pexels-photo-1624501.jpeg" alt="man standing under starry sky" style="width:303px; height:505px; display: block; margin: 0 auto;">
+
+Affirmations can be done in various ways. It can be in the form of repeating positive quotes and sentences to yourself, depending on which area you would like to reinforce. For example, if you want to become more confident, you can say and repeat to yourself, "I'm confident!" or "The only approval I need is myself." Alternatively, you can do this by writing it down on a piece of paper or a sticky note and stick it to your wall. There are also affirmation card decks that you can purchase from sites like [Amazon](https://www.amazon.com/) or [Etsy](https://www.etsy.com/).
+
+{: .box-beige}
+**Examples of Positive Affirmations:**
+    • I am successful. 
+    • I am worthy of my dreams. 
+    • I accept who I am. 
+    • I will love myself and be kind to myself. 
+    • I am good enough for myself. 
+    • I forgive myself for my past. 
+    • My past mistakes have made me stronger. 
+
+
