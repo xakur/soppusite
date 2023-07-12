@@ -36,7 +36,7 @@ You cannot rewrite or change the past, but you can write how you want your prese
 
 Even though the effects of what happened in the past might still influence you somehow, you can only **work on what you can do right now, to bring you further away from the past**.
 
-You might have to work harder and spend more time than the others to undo all the damage, but such is life. There's no point comparing yourself to others either as everyone has each of their difficulties to go through. Our hardships are not comparable as we each have our own fate to go through. All we need to do is to focus on our paths, and be unaffected by what others say.
+You might have to work harder and spend more time than the others to undo all the damage, but such is life. [There's no point comparing yourself to others either as everyone has each of their difficulties to go through.](https://sliceofpower.com/2023-03-01-why-its-pointless-to-compare-yourself-to-others/) Our hardships are not comparable as we each have our own fate to go through. All we need to do is to focus on our paths, and be unaffected by what others say.
 
 Even if people who were part of your past brings up the dark side, it will not affect you because you know you have changed. The current you is different. We are always learning something new as each day passes. We are always a little different from who we were yesterday.
 
