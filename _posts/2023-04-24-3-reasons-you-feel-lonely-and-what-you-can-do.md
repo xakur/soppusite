@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons You Feel Lonely (And What You Can Do)
-share-description:
+share-description: You don't feel loved - Learn to love yourself, amd you will also learn how to receive love and feel loved. You haven’t found your direction in life - Build on the activities that make you happy. They bring significance to your life. You can’t find like-minded people around you.
 thumbnail-img: "https://images.pexels.com/photos/54379/pexels-photo-54379.jpeg"
 categories: life-tips
 tags: life-tips
