@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Before Manifestation - Focus on the Little Steps
-share-description: Bad habits primarily stem from our feelings, e.g. feelings of discomfort, anxiousness. To stop bad habits, focus on your feelings. Identify the cause, replace current feelings with past happiness and remind yourself of horrible outcomes from doing the bad habit.
+share-description:
 thumbnail-img: "https://images.pexels.com/photos/7708705/pexels-photo-7708705.jpeg"
 categories: life-tips
 tags: life-tips
@@ -9,7 +9,7 @@ readtime: true
 excerpt: What does it take to manifest our goals? Why does the thought of having to manifest something feel like a tedious task? The idea of manifestation actually stresses me out a bit. There is too much emphasis on the destination and it makes me overthink and worry about whether I will succeed or not.
 ---
 
-![footprints](https://images.pexels.com/photos/7708705/pexels-photo-7708705.jpeg)
+<img src="https://images.pexels.com/photos/7708705/pexels-photo-7708705.jpeg" alt="footprints" style="width:553px; height:505px; display: block; margin: 0 auto;">
 
 What does it take to manifest our goals? Why does the thought of having to manifest something feel like a tedious task? The idea of manifestation actually stresses me out a bit. There is too much emphasis on the destination and it makes me overthink and worry about whether I will succeed or not.
 
@@ -22,8 +22,8 @@ A long-term goal is made up of a series of short-term goals or rather, small tas
 
 Unfortunately, there may be factors along the way that stop us in our journey, e.g. we become unmotivated, we procrastinate or simply, we feel sad and cannot move on etc. The small tasks might seem dreadful and intimidating at times. 
 
-<div class="box-purple" style="background-color:#fdfebc;">
-<p>Hence, it is important to <b>focus on keeping up with these small tasks/little steps.</b></p>
+<div class="box-purple" style="background-color:#feffd0; padding-bottom:0.9375rem;">
+<p>Hence, we should <b>focus on keeping up with these small tasks/little steps.</b></p>
 <p>We need to <b>ensure</b> that these <b>small tasks give us continuing happiness</b>, so that we do not see these tasks as chores that we are obliged to do.</p>
 <p><b>By being happy in the process, we can be consistent in our actions.</b></p>
 </div>
