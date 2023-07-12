@@ -22,7 +22,7 @@ I do not think that is good either, because comparison amounts to nothing in the
 Here is an example of what our thought process may be, when we compare against a...
 
 <div class="flexbox-bord">
-  <div style="background-color:#f9c9cf; width: 300px;"><p>Negative Situation:</p></div>
+  <div><p>Negative Situation:</p></div>
   <div><p>"The others are in a more negative situation than me. I am already very lucky. I will be happy with what I have, be happy with the situation that I am in, and not think that I need more."</p></div>
 </div>
 
