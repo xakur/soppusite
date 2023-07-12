@@ -54,18 +54,37 @@ We need these reminders sometimes as it might be easy to forget our own strength
 
 We can get engulfed by our own emotions without noticing, and this can happen through external influences as well; you might start doubting your abilities when you see someone who is a lot better than you. This is where (daily) affirmations can help you stay rooted to yourself.
 
-<img src="https://images.pexels.com/photos/1624501/pexels-photo-1624501.jpeg" alt="man standing under starry sky" style="width:303px; height:505px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/1624501/pexels-photo-1624501.jpeg" alt="man standing under starry sky" style="width:203px; height:405px; display: block; margin: 0 auto;">
 
 Affirmations can be done in various ways. It can be in the form of repeating positive quotes and sentences to yourself, depending on which area you would like to reinforce. For example, if you want to become more confident, you can say and repeat to yourself, "I'm confident!" or "The only approval I need is myself." Alternatively, you can do this by writing it down on a piece of paper or a sticky note and stick it to your wall. There are also affirmation card decks that you can purchase from sites like [Amazon](https://www.amazon.com/) or [Etsy](https://www.etsy.com/).
 
 {: .box-beige}
 **Examples of Positive Affirmations:**
-    • I am successful. 
-    • I am worthy of my dreams. 
-    • I accept who I am. 
-    • I will love myself and be kind to myself. 
-    • I am good enough for myself. 
-    • I forgive myself for my past. 
-    • My past mistakes have made me stronger. 
+* I am successful. I am worthy of my dreams.
+* I accept who I am.
+* I will love myself and be kind to myself.
+* I am good enough for myself.
+* I forgive myself for my past.
+* My past mistakes have made me stronger. 
 
+Some of these cards have pleasing designs and contain very encouraging words. You can choose to shuffle and draw a card everyday or as and when you like. I would normally redraw a card every other day and have the card placed on my table so that I could see it while I work on my tasks. On top of that, there are plenty of positive affirmations videos on YouTube that you can listen to as well.
 
+It is ideal to incorporate daily affirmations into your life, as they act as reminders to **help you feel better about yourself and your journey**. The words of encouragement can provide relief when you feel frustrated about yourself. At the same time, they remind you of your inner strength to help you to stay on track and cultivate a positive mindset.
+
+When keeping a positive mindset becomes a habit, it will become a natural state. When faced with other difficulties, you will feel that you have enough mental capacity to get through them. Being in a comfortable state of mind will help you move forward and be consistent in your efforts to complete the small tasks that lead you to your goal. 
+
+## 3. Reward yourself for every small achievement
+
+To keep yourself focused on completing the seemingly unfavorable tasks necessary to achieve your big goal, you may choose to reward yourself for every little task done. **Rewards can provide motivation**. When we feel overwhelmed by the issue(s) at hand, we may end up not doing anything instead. Therefore, it is important to do whatever it takes to help you stay consistent in doing something that will ultimately achieve your goal. Implementing practices such as rewarding yourself may help to make the task at hand more favorable, as there is something to look forward to after completing the task.
+
+Rewarding yourself can be in tangible or intangible terms. Examples for tangible rewards: a favorite snack or a good meal. Examples for intangible rewards: have a nice long bubble bath or play some games after the task for the day is done.
+
+![happy guy gamin](https://images.pexels.com/photos/7871543/pexels-photo-7871543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+**Have discipline** to reward yourself when the time comes, and make sure that you have completed whatever you have planned for the day.
+
+Having breaks in between when working on your tasks is also necessary. Rest can help you go a long way. However, **it is important to not treat rest as a reward**. As humans, we all need rest when we feel tired. We deserve rest and it does not need to be earned.
+
+## Conclusion
+
+Simply put, do whatever it takes to keep going to complete the necessary tasks that make up the big goal. The key thing is to be consistent in your execution, which will ultimately help to manifest your desires. Focus on the favorable parts of the required tasks at hand to keep you happy and consistent in your journey. Without stressing over what might happen in the future, focus on what you can do in the present. Develop ways to support and encourage yourself.
