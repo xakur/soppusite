@@ -23,14 +23,14 @@ Here is an example of what our thought process may be, when we compare against a
 
 <div class="flexbox-bord">
   <div style="background-color: #f9c9cf;"><p><b>Negative Situation:</b></p></div>
-  <div><p>"The others are in a more negative situation than me. I am already very lucky. I will be happy with what I have, be happy with the situation that I am in, and not think that I need more."</p></div>
+  <div>"The others are in a more negative situation than me. I am already very lucky. I will be happy with what I have, be happy with the situation that I am in, and not think that I need more."</div>
 </div>
 
 So with the same logic, when you compare against a positive situation, it should be...
 
 <div class="flexbox-bord">
   <div style="background-color: #c0fcc1;"><p><b>Positive Situation:</b></p></div>
-  <div><p>"The others are in a more positive situation than me. They are doing better. I'm not happy (enough) with the situation I am in. I need and deserve more. I want to become better!"</p></div>
+  <div>"The others are in a more positive situation than me. They are doing better. I'm not happy (enough) with the situation I am in. I need and deserve more. I want to become better!"</div>
 </div>
 
 Why do we need to compare with the negative situations of others in order to start feeling alright? If we want to compare, why are we not comparing against the positive situations as well? At the end of the day, <u>the act of comparing only leads to a clash of concepts</u>.
@@ -67,5 +67,6 @@ However, your happiness can only defined by you. It cannot be formed out of comp
 <div class="flexbox-bord">
   <div style="background-color: #c0fcc1;"><p><b>Positive Situation:</b></p></div>
   <div>"The others are in a more positive situation than me. They are doing better. I'm not happy (enough) with the situation I am in. I need and deserve more. I want to become better!"</div>
+  <div>"The others are in a more positive situation than me. They are doing better. I'm not happy (enough) with the situation I am in.</div>
 </div>
 </div>
