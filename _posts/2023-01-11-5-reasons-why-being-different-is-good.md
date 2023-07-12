@@ -11,7 +11,7 @@ excerpt: Previously, I shared about how being different is not necessarily a goo
 
 ![tulip that stands out](https://images.pexels.com/photos/2480072/pexels-photo-2480072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-Previously, I shared about how being different is not necessarily a good thing. Being different in this world can at times be disheartening when you do not receive the support and understanding you need. However, these situations toughen you up and make you stronger than the average person. There will always be pros and cons to anything in life. We can make use of the downsides to our advantage. In this post, I will explain how and why being different is good.
+Previously, I shared about [how being different is not necessarily a good thing](https://sliceofpower.com/2023-01-04-the-pain-and-beauty-of-being-different/). Being different in this world can at times be disheartening when you do not receive the support and understanding you need. However, these situations toughen you up and make you stronger than the average person. There will always be pros and cons to anything in life. We can make use of the downsides to our advantage. In this post, I will explain how and why being different is good.
 
 I hope these reasons can provide some relief in your life as you try your best to live comfortably in this world. It is ok to not fit in completely, because someday, your uniqueness may inspire others and lead to a positive change in the society. Embrace your differences and have faith that it does you more good than harm as you live in this world.
 
