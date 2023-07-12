@@ -47,10 +47,7 @@ blockquote {
 /* border flex box for compare miserable post */
 .flexbox-bord {
   display: flex;
-  justify-content: center;
-  border: 1px;
-  border-color: #000000;
-  padding: 20px;
+  justify-content: space-between;
 }
 .flexbox-bord > div {
     flex-basis: 50%;
