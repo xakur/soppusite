@@ -58,9 +58,8 @@ We can get engulfed by our own emotions without noticing, and this can happen th
 
 Affirmations can be done in various ways. It can be in the form of repeating positive quotes and sentences to yourself, depending on which area you would like to reinforce. For example, if you want to become more confident, you can say and repeat to yourself, "I'm confident!" or "The only approval I need is myself." Alternatively, you can do this by writing it down on a piece of paper or a sticky note and stick it to your wall. There are also affirmation card decks that you can purchase from sites like [Amazon](https://www.amazon.com/) or [Etsy](https://www.etsy.com/).
 
-
-<ul class="box-beige" style="padding-left:1.5rem;">
-<b>Examples of Positive Affirmations:</b>
+**Examples of Positive Affirmations:**
+<ul class="box-beige" style="padding-left:2rem;">
 <li>I am successful. I am worthy of my dreams.</li>
 <li>I accept who I am.</li>
 <li>I will love myself and be kind to myself.</li>
