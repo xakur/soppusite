@@ -51,7 +51,7 @@ blockquote {
 }
 .flexbox-bord > div {
   flex-basis: content;
-  padding: 20px 20px 10px; /* top, R & L, bottom */
+  padding: 20px 20px 0px; /* top, R & L, bottom */
   border: 1px solid #a2a2a2; /* Add this line to set the border */
 }
 .flexbox-bord > div:first-child {
