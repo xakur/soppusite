@@ -5,7 +5,7 @@ title: Life Tips
 share-title: Life Tips | Slice of Power
 ---
 
-<p style="text-align: center;font-size: 18px;font-family: Gadugi;">Easy tips for life, easy nourishment for your mind. Start everything from your mind. Reprogram your mind, and all unpleasantries will be minimized. Change the way you think and become your biggest supporter.
+<p style="text-align: center;font-size: 18px;font-family: Gadugi;">Easy tips for life, easy nourishment for the mind. Start everything from your mind. Reprogram your mind, and all unpleasantries will be minimized. Change the way you think and become your biggest supporter.
 You alone, will lift yourself up.</p>
 
 
