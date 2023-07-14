@@ -23,7 +23,7 @@ Eventually, you will realize that you're your own Slice of Power after all.
 
 To change yourself, to heal yourself, to pull yourself up.
 
-<img src="/assets/img/sliceofpower-banner3.png" alt="Slice of Power Logo" style="display: block; margin: 0 auto;">
+<img src="/assets/img/sliceofpower-banner4.png" alt="Slice of Power Logo" style="display: block; margin: 0 auto;">
 
 We tend to feel lonely when we have difficulty blending into the society, or when social norms do not line up with ours. When there is a lack of understanding and emotional support from people around us, the sense of loneliness can be immense and affect our daily lives.
 
