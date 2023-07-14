@@ -13,7 +13,9 @@ excerpt: We are often told not to compare ourselves to others, but we may still 
 
 We are often told not to compare ourselves to others, but we may still inevitably do it anyway. It is said that [the act of comparing is a natural part of human cognition, which can be beneficial for the process of improving oneself](https://wp.nyu.edu/mind/2021/02/27/why-do-we-compare-ourselves-to-others/). While it can feel normal to compare yourself to others, it is not ideal. [Comparing can make you miserable.](https://sliceofpower.com/2023-03-16-how-comparing-can-make-you-miserable)
 
-When you see someone who is better than you, there are typically two ways to look at it: Are you acknowledging their merits and looking up to them? Or are you feeling jealous and unhappy that they are better than you? When I think about these two perspectives carefully, I realized that they are in fact, two very different concepts. In both scenarios, despite being aware of the differences present, the former is not based off a comparative mindset.
+When you see someone who is better than you, there are typically two ways to look at it: Are you acknowledging their merits and looking up to them? Or are you feeling jealous and unhappy that they are better than you?
+
+When I think about these two perspectives carefully, I realized that they are in fact, two very different concepts. In both scenarios, despite being aware of the differences present, the former is not based off a comparative mindset.
 
 ## Comparing VS Looking Up to Someone
 
@@ -25,7 +27,9 @@ From another perspective, looking up to someone is not quite the same as compari
 
 You are not putting yourself and the other party on a weighing scale to see who is "heavier" (better), but rather, you are only evaluating the differences between the two of you from an objective point of view. It is unlike a "comparison" where you are picking out differences and deciding who is better. It depends on your attitude at the end of the day.
 
-Ideally, you need to accept yourself for who you are. Be satisfied with yourself, as you have your merits that are worth celebrating too. At the same time, it is important to constantly work on improving ourselves. Having someone to look up to can be healthy, when your figure of admiration acts as a motivating force for you to strive harder and achieve more. They serve as your role model as you would like to become as spectacular as them. This is vastly different from jealousy.
+Ideally, you need to accept yourself for who you are. Be satisfied with yourself, as you have your merits that are worth celebrating too. At the same time, it is important to constantly work on improving ourselves.
+
+Having someone to look up to can be healthy, when your figure of admiration acts as a motivating force for you to strive harder and achieve more. They serve as your role model as you would like to become as spectacular as them. This is vastly different from jealousy.
 
 ## Why it is Pointless to Compare Yourself to Others
 
