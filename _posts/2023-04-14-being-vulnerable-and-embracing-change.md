@@ -105,7 +105,7 @@ I gradually realized that it is okay to feel lost and "off" about the change in 
 I have gained a <b>deeper</b> understanding about embracing changes in life.
 
 <div style="text-align:center; font-size:20px; font-weight:bold;">
-  <p>Any type of change will feel "out of place" at first. Even for a change that favors you.</p>
+  <p>Any type of change will feel "out of place" at first.<br/>Even for a change that favors you.</p>
   <p>Prepare your heart for the change.</p>
   <p>Give yourself enough time to adapt to the change without being critical of yourself.</p>
   <p>Refrain from picking out things to disprove of the change.</p>
