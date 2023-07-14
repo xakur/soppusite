@@ -23,7 +23,7 @@ Long story short, I decided to be vulnerable towards my friend one day.
 
 It's not something that I usually do. If anything at all, I'm a pretty secretive and closed-off person towards most people. I don't share about myself, much less to talk about the pain and problems I face. I very much prefer to listen to what others have to say and ask about them.
 
-It's not in me to talk about myself, but I suddenly decided to open up to this friend, when we were texting each other. I told her
+It's not in me to talk about myself, but I suddenly decided to open up to this friend, when we were messaging each other. I told her
 
 <div style="text-align:center;">
 <p>how dark I am.</p>
