@@ -85,7 +85,7 @@ Honestly, I don’t quite know what gave me the courage to be vulnerable and sho
 
 Looking back at my relationships with people, even the ones before I faced the abandonment in life, I realized that I have always been a pretty secretive person all along. No one really knew the real me. I guess this makes sense since I wasn't sure of who I was back then either.
 
-I just often see no need to show that side of me. Though, after all the heartbreaks, it certainly takes a lot more trust and observation before I show the real me. For the most part, I'm happy as long as the people around me are happy, regardless of how I present myself. I could be there for my friends, listen to their rants all day, spend time helping them to feel better, without talking about myself at all. It feels natural and am absolutely fine with that.
+I just often see no need to show that side of me. Though, after all the heartbreaks, it certainly takes a lot more trust and observation before I reveal the real me. For the most part, I'm happy as long as the people around me are happy, regardless of how I present myself. I could be there for my friends, listen to their rants all day, spend time helping them to feel better, without talking about myself at all. It feels natural and am absolutely fine with that.
 
 ## Acknowledging and Embracing Change
 
