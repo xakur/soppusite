@@ -50,13 +50,13 @@ I felt miserable that day. It was as if I could not ask for more. I understand I
 
 I suddenly realized how obstructive this mindset can be. By thinking about how lucky I am as opposed to the sufferings of others, I started to feel that I was not worth the “better stuff” in life. I became too immersed in the life situations of others.
 
-Thinking about people who were born into unfortunate situations and environments aches my heart (till today). I would start thinking that I am not worth what I have right now. It made me belittle my own suffering and sadness (unhappiness) instead. It became a rather toxic mindset despite it being out of empathy for others. I do truly care about the less fortunate in the world.
+Thinking about people who were born into unfortunate situations and environments aches my heart (till today). I would start thinking that I am not worth what I have right now. It made me belittle my own suffering and unhappiness instead. It became a rather toxic mindset despite it being out of empathy for others. I do truly care about the less fortunate in the world.
 
 ![woman looking out of window](https://images.pexels.com/photos/1101726/pexels-photo-1101726.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 When you are already aware that you are not completely happy, comparing yourself to others and then deciding if you are happy or not can be rather stifling. It makes you suppress your true feelings, as you try to convince yourself that you are already happy, just because you are in a better place.
 
-However, your happiness can only defined by you. It cannot be formed out of comparing to someone else’s lacks.
+However, your happiness can only be defined by you. It cannot be formed out of comparing to someone else’s lacks.
 
 ## Instead of comparing...
 <br/>
