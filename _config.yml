@@ -26,7 +26,7 @@ navbar-links:
   In My Mind: "/posts/in-my-mind/"
   More:
   - Contact: "contact"
-  - Privacy Policy: "/privacy-policy/"
+  - Privacy Policy: "https://sliceofpower.com/privacy-policy/"
 
 ################
 # --- Logo --- #
