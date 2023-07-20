@@ -1,7 +1,5 @@
 <head>
 
-  {% include piwik-pro.html %}
-  
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -141,6 +139,8 @@
   {% endif %}
 
   {% include matomo.html %}
+
+  {% include piwik-pro.html %}
 
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
