@@ -46,4 +46,4 @@ We may update this Privacy Policy from time to time to reflect changes in our da
 
 **Contact Us**
 
-If you have any questions or concerns regarding this Privacy Policy, you may contact us at sliceofpower (at) proton (dot) me.
+If you have any questions or concerns regarding this Privacy Policy, you may contact us at our email address listed on the ["Contact" page here](https://sliceofpower.com/contact/).
