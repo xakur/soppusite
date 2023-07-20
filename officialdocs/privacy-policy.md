@@ -6,7 +6,7 @@ share-title: Privacy Policy | Slice of Power
 share-description: 
 ---
 
-Effective Date: 20 July 2023
+Last modified: 20 July 2023
 
 **Introduction**
 
