@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+hyperlink: /contact/
 share-title: Contact | Slice of Power
 share-description: 
 subtitle: 
