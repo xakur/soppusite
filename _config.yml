@@ -27,6 +27,7 @@ navbar-links:
   More:
   - Contact: "contact"
   - Privacy Policy: "/privacy-policy/"
+  - Terms and Conditions: "/terms-and-conditions/"
 
 ################
 # --- Logo --- #
