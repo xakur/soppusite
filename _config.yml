@@ -24,7 +24,8 @@ navbar-links:
   Life Tips: "/posts/life-tips/"
   The Deep: "/posts/the-deep/"
   In My Mind: "/posts/in-my-mind/"
-  Contact: "contact"
+  More:
+  - Contact: "contact"
 
 ################
 # --- Logo --- #
