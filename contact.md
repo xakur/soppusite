@@ -5,13 +5,16 @@ share-title: Contact | Slice of Power
 share-description: For any inquiries or assistance, please feel free to reach us at our email adresss here.
 ---
 
-For any inquiries or assistance, please feel free to reach us at <details style="display: inline-block; border: 1px solid #ccc; border-radius: 4px;">
-  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px;">Spoiler</summary>
+For any inquiries or assistance, please feel free to reach us here:
+
+<details style="display: inline-block; border: 1px solid #ccc; border-radius: 4px;">
+  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px;">Business Email</summary>
   <div style="padding: 10px; background-color: #fff;">
     <!-- Your spoiler content here -->
-    This is a spoiler! It will be hidden by default.
+    sliceofpower@proton.me
   </div>
-</details> xyz.
+</details>
+
 
 
 
