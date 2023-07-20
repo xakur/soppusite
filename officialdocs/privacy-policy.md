@@ -10,7 +10,7 @@ Effective Date: 20 July 2023
 
 **Introduction**
 
-Thank you for visiting Slice of Power (https//sliceofpower.com). Your privacy is very important to us, which is why we have developed this Policy to ensure your understanding of how we collect, use, communicate, disclose, and make use of personal information. This Privacy Policy outlines how we handle and protect any information collected through your use of our website.
+Thank you for visiting Slice of Power at https//sliceofpower.com (“Site”). Your privacy is very important to us, which is why we have developed this Policy to ensure your understanding of how we collect, use, communicate, disclose, and make use of personal information. This Privacy Policy outlines how we handle and protect any information collected through your use of our website.
 
 **Information Collected**
 
@@ -46,4 +46,4 @@ We may update this Privacy Policy from time to time to reflect changes in our da
 
 **Contact Us**
 
-If you have any questions or concerns regarding this Privacy Policy, you may contact us at sliceofpower@proton.me.
+If you have any questions or concerns regarding this Privacy Policy, you may contact us at sliceofpower (at) proton (dot) me.
