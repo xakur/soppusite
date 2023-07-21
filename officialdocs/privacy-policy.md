@@ -24,7 +24,7 @@ This website does not use cookies on its own. However, we utilize third-party co
 
 You have the option to control the use of cookies by adjusting your browser settings. If you prefer not to allow cookies, you may configure your browser to block or delete them. However, please be aware that disabling cookies may impact certain functions and features of our website. 
 
-* **Piwik PRO Analytics**
+* **Piwik PRO Analytics**  
 We use Piwik PRO Analytics Suite as our website/app analytics software and consent management tool. We collect data about website visitors based on [cookies](https://help.piwik.pro/support/getting-started/cookies-created-by-piwik-pro/). The collected information may include a visitor’s IP address, operating system, browser ID, browsing activity and other information. However, to enhance privacy and data protection, we have implemented measures to mask the IP addresses collected by Piwik PRO. This means that the full IP addresses are not stored or visible to us, ensuring that your identity remains anonymous in the analytics data. See the [scope of data collected by Piwik PRO](https://help.piwik.pro/support/getting-started/what-data-does-piwik-pro-collect/).
 
 We calculate metrics like bounce rate, page views, sessions and the like to understand how our website/app is used. We may also create visitors’ profiles based on browsing history to analyze visitor behavior, show personalized content and run online campaigns.
@@ -37,7 +37,6 @@ Piwik PRO does not send the data about you to any other sub-processors or third 
 
 * **Google Adsense**  
 We participate in the Google AdSense program, which allows us to display advertisements provided by Google. Google AdSense, which serves ads on our website, may also collect data using cookies and other tracking technologies to customize and target ads based on users' browsing behavior and interests. The data collected by Google AdSense includes unique identifiers, such as cookies and mobile advertising identifiers, as well as Internet Protocol (IP) addresses and device information. Google AdSense uses this data to measure ad performance, deliver relevant ads, and improve ad targeting. Google's use of cookies allows them to serve advertisements to our visitors based on their visits to our website and other sites on the Internet. You can manage your ad personalization settings and opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). For more information about how Google collects and processes data, please refer to their [privacy policy](https://policies.google.com/privacy).
-
 
 **Social Media Sharing**
 
