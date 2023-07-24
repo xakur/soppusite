@@ -65,17 +65,17 @@
 <url>
   <loc>https://sliceofpower.com/2023-03-01-why-its-pointless-to-compare-yourself-to-others/</loc>
   <lastmod>2023-07-13T06:54:32+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sliceofpower.com/2023-02-15-stopping-bad-habits-focus-on-your-feelings-first/</loc>
   <lastmod>2023-07-13T06:54:32+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sliceofpower.com/2023-01-11-5-reasons-why-being-different-is-good/</loc>
   <lastmod>2023-07-13T06:54:32+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sliceofpower.com/2022-12-15-how-to-stay-hopeful-in-times-of-doubt/</loc>
@@ -85,12 +85,12 @@
 <url>
   <loc>https://sliceofpower.com/2022-11-19-5-tips-on-becoming-unaffected-by-what-people-say/</loc>
   <lastmod>2023-07-13T06:54:32+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sliceofpower.com/2022-12-19-be-kinder-to-yourself-when-you-feel-hopeless/</loc>
   <lastmod>2023-07-13T06:54:32+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sliceofpower.com/2022-11-07-lesson-learnt-dealing-with-negative-people/</loc>
@@ -100,7 +100,7 @@
 <url>
   <loc>https://sliceofpower.com/2023-01-04-the-pain-and-beauty-of-being-different/</loc>
   <lastmod>2023-07-13T06:54:32+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sliceofpower.com/2022-08-09-do-you-believe-in-friends-forever/</loc>
@@ -112,6 +112,20 @@
   <lastmod>2023-07-13T06:54:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
+<url>
+  <loc>https://sliceofpower.com/privacy-policy/</loc>
+  <lastmod>2023-07-21</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sliceofpower.com/terms-and-conditions/</loc>
+  <lastmod>2023-07-20</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sliceofpower.com/contact</loc>
+  <lastmod>2023-07-20</lastmod>
+  <priority>0.64</priority>
+</url>
 
 </urlset>
