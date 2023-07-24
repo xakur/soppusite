@@ -77,7 +77,7 @@ Likewise, what's new at the moment will become old and be something of the past 
 The main thing in life is to focus on the present. It's the only area where you have the most control over.
 
 <div style="text-align:center; font-weight:bold;">
-<p>Cherish the present, for you are the <u>best version of yourself</u> in the present.</p>
+<p>Cherish the present, for you are the <u>best version of yourself</u> right now.</p>
 <p>By being in the present, you are already improving.</p>
 <p>As you keep improving yourself, you are building up your confidence.</p>
 </div>
