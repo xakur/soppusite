@@ -38,7 +38,7 @@ Even though the effects of what happened in the past might still influence you s
 
 You might have to work harder and spend more time than the others to undo all the damage, but such is life. [There's no point comparing yourself to others either as everyone has each of their difficulties to go through.](https://sliceofpower.com/2023-03-01-why-its-pointless-to-compare-yourself-to-others/) Our hardships are not comparable as we each have our own fate to go through. All we need to do is to focus on our paths, and be unaffected by what others say.
 
-Even if people who were part of your past brings up the dark side, it will not affect you because you know you have changed. The current you is different. We are always learning something new as each day passes. We are always a little different from who we were yesterday.
+Even if people who were part of your past were to bring up the dark side, it will not affect you because you know you have changed. The current you is different. We are always learning something new as each day passes. We are always a little different from who we were yesterday.
 
 <img src="https://images.pexels.com/photos/2494693/pexels-photo-2494693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="weighing scale" style="width:351px; height:455px; display: block; margin: 0 auto;">
 
