@@ -6,7 +6,7 @@ share-title: Privacy Policy | Slice of Power
 share-description: 
 ---
 
-Last updated: 21 July 2023
+Last updated: 29 July 2023
 
 **Introduction**
 
