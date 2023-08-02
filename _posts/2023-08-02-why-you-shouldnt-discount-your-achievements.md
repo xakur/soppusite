@@ -55,11 +55,11 @@ It’s your own breakthrough that matters the most. This occurs at various point
 
 ## Every achievement, whether big or small, contributes to your final goal
 
-I do look up to several people and have a high expectation of myself. I think it’s fine to have our own standards. It’s a matter of personal preference. Ideally, we should maintain a balance in everything. We can aim higher and not settle for anything less, but we should not be overly critical of ourselves too. We need to remember that it is our personal breakthrough that matters the most and we should recognize every personal achievement, whether big or small.
+I do look up to several people and have a high expectation of myself. I think it’s fine to have our own standards. It’s a matter of personal preference. Ideally, we should maintain a balance in everything. We can aim higher and not settle for anything less, but we should not be overly critical of ourselves too. We need to remember that it is our personal breakthrough that matters the most and we should **recognize every personal achievement, whether big or small**.
 
 ![cheerful man](https://images.pexels.com/photos/3974771/pexels-photo-3974771.jpeg)
 
-Just because something is self-perceived as “easy” and “expected” does not mean that there’s no value behind it. On the contrary, we might even become demotivated by the thought of trying to accomplish a big goal as it can seem overwhelming at times. Hence, it may be more helpful to focus on the small steps or small tasks instead. After all, every little task make up the final goal.
+Just because something is self-perceived as “easy” and “expected” does not mean that there’s no value behind it. [On the contrary, we might even become demotivated by the thought of trying to accomplish a big goal as it can seem overwhelming at times](https://sliceofpower.com/2023-05-19-before-manifestation-focus-on-the-little-steps/). Hence, it may be more helpful to focus on the small steps or small tasks instead. After all, every little task make up the final goal.
 
 Although it can be easy to think that these smaller tasks are considered “expected duties”, they contribute to the big goal too. They are just as important as any other more difficult or significant tasks and processes. We need them to reach our goal. We should also recognize our efforts put into these small tasks, and give ourselves a pat on the back upon completion. [Acknowledging your efforts more often can help you to feel more assured and confident of yourself.](https://www.forbes.com/sites/forbescoachescouncil/2021/04/22/boost-your-self-confidence-with-self-acknowledgement/?sh=5177dd461319)
 
