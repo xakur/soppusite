@@ -11,7 +11,7 @@ excerpt: Have you ever completed something and felt like, despite the admiration
 
 ![woman looking at results](https://images.pexels.com/photos/3727463/pexels-photo-3727463.jpeg)
 
-Have you ever completed something and felt like, despite the admiration from others, what you've just done doesn't feel like something significant? Or that people are just being kind to you? 
+Have you ever completed something and felt like, despite the admiration from others, what you just did doesn't feel like something significant? Or that people are just being kind to you? 
 
 That’s me most of the time. I either don’t feel anything or I would feel strange when I receive admiration or praises like this. “It’s not that big of a deal! So many people have accomplished it”, I’d think to myself.
 
