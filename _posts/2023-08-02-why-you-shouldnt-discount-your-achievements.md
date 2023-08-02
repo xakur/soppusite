@@ -11,9 +11,13 @@ excerpt: Have you ever completed something and felt like, despite the admiration
 
 ![woman looking at results](https://images.pexels.com/photos/3727463/pexels-photo-3727463.jpeg)
 
-Have you ever completed something and felt like, despite the admiration from others, what you've just done doesn't feel like something significant? Or that people are just being kind to you? That’s me most of the time. I either don’t feel anything or I would feel weird when I receive admiration or praises like this. “It’s not that big of a deal! So many people have accomplished it”, I’d think to myself.
+Have you ever completed something and felt like, despite the admiration from others, what you've just done doesn't feel like something significant? Or that people are just being kind to you? 
 
-It’s easy to brush off my achievements, thinking that they were nothing. It’s easy to feel that there are so many people out there who are able to achieve or had achieved the same. So why would it be something worth acknowledging or celebrating?
+That’s me most of the time. I either don’t feel anything or I would feel strange when I receive admiration or praises like this. “It’s not that big of a deal! So many people have accomplished it”, I’d think to myself.
+
+It’s easy to brush off my achievements, thinking that they were nothing since so many other people have achieved the same thing. So why would it be something worth acknowledging or celebrating?
+
+<img src="https://images.pexels.com/photos/2962105/pexels-photo-2962105.jpeg" alt="man in his thoughts" style="width:533px; height:290px; display: block; margin: 0 auto;">
 
 I reflected upon this recently after someone told me that they were impressed by my work. I thought nothing of it at first, but as I thought back on the journey, I recalled how much pain I had to go through in order to finally achieve what I had in mind. It wasn’t just a walk in the park. In fact, it had been a frustrating journey full of self-doubt because I wasn’t very familiar with the topic at hand. I had to seek my own resources and do everything by myself.
 
