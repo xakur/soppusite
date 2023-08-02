@@ -25,17 +25,19 @@ If people could see the hard work and quality I put into my work, why can’t I 
 
 ## How I Fail to Appreciate my Efforts
 
-I’ve been told by a few people that I’m really hard on myself. I often have difficulty in perceiving my achievements as a job well done. As I thought about it further, I realized that I'm indeed often rushing from one task to the other. I don’t give myself space or time to rest and appreciate what I just completed. My mind often goes like this:
+I’ve been told by a few people that I’m really hard on myself. I often find it difficult to view my achievements as a job well done. As I thought about it further, I realized that I'm indeed often rushing from one task to the other. I don’t give myself space or time to rest and appreciate what I just completed. My mind often goes like this:
 
 _“Ok, now that I’m done with part A (after much difficulty), it’s now time to move on to part B! Let’s go! No time to waste! I’ve already wasted too much time in part A.”_
 
-I often don’t give myself a breather or rather, don’t think that I deserve a breather. This is especially so when the tasks are “expected” of me. Both easy and difficult tasks. For the difficult ones, if I had spent a lot more time than what I had expected, I would blame myself for spending too much time, and get upset with myself. Moreover, so many other random people around the world have accomplished the same things, thus my completion of these very same things don’t seem significant to me too. I automatically think that I shouldn’t have used so much time. This mindset makes things worse as I start feeling guilty for spending too much time, thinking that I’m not capable enough.
+I often don’t give myself a breather or rather, don’t think that I deserve a breather. This is especially so when the tasks are “expected” of me. Both easy and difficult tasks. For the difficult ones, if I had spent a lot more time than what I had expected, I would blame myself for spending too much time, and get upset with myself. 
+
+_"So many other random people around the world have accomplished the same things... My completion of these very same things isn't something significant."_
 
 ![frustrated man](https://images.pexels.com/photos/52608/pexels-photo-52608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-I was always like this and I only realized how unreasonable I was after I briefly shared with a few people on what I was up to.
+I was always like this and I only realized how unreasonable I was after I briefly shared with a few people on what I was dealing with.
 
-When I was criticizing myself for moving too slowly and for lacking motivation on certain days, they comforted me that it was normal to feel that way. Learning takes time, especially in the beginning, and I was still learning. There were many aspects that needed to be addressed based on what I was doing, and everything takes time. In fact, this is why some people undergo specialized training in a given field in order to be employed specifically for a specific function.
+When I was criticizing myself for moving too slowly and for lacking motivation on certain days, they comforted me that it was normal to feel that way. Learning takes time, especially in the beginning, and I was still learning. There were many areas that I had to work on based on what I was doing, and everything takes time. In fact, this is why some people undergo specialized training in a given field in order to be employed specifically for a specific function.
 
 Moreover, as I was handling everything on my own, it was only logical that I needed extra time to figure things out and get them done.
 
