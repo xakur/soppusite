@@ -23,7 +23,7 @@ I reflected upon this recently after someone told me that they were impressed by
 
 If people could see the hard work and quality I put into my work, why can’t I do the same for myself? Why am I belittling the work I had done? The amount of time and effort put in should not go unrecognized. We shouldn’t discount our achievements, whether big or small.
 
-## How I Fail to Appreciate my Efforts
+## How I Failed to Appreciate my Efforts
 
 I’ve been told by a few people that I’m really hard on myself. I often find it difficult to view my achievements as a job well done. As I thought about it further, I realized that I'm indeed often rushing from one task to the other. I don’t give myself space or time to rest and appreciate what I just completed. My mind often goes like this:
 
