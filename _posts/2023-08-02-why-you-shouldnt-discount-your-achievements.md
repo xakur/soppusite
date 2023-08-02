@@ -35,9 +35,9 @@ _"So many other random people around the world have accomplished the same things
 
 ![frustrated man](https://images.pexels.com/photos/52608/pexels-photo-52608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-I was always like this and I only realized how unreasonable I was after I briefly shared with a few people on what I was dealing with.
+I was always like this and I only realized how unreasonable I was after I briefly shared with a few people what I was dealing with.
 
-When I was criticizing myself for moving too slowly and for lacking motivation on certain days, they comforted me that it was normal to feel that way. Learning takes time, especially in the beginning, and I was still learning. There were many areas that I had to work on based on what I was doing, and everything takes time. In fact, this is why some people undergo specialized training in a given field in order to be employed specifically for a specific function.
+When I was criticizing myself for moving too slowly and for lacking motivation on certain days, they comforted me that it was normal to feel that way. Learning takes time, especially in the beginning, and I was still learning. There were many areas that I had to work on based on what I was doing, and everything takes time. In fact, this is why some people undergo specialized training in a given field in order to be employed solely for a specific function.
 
 Moreover, as I was handling everything on my own, it was only logical that I needed extra time to figure things out and get them done.
 
@@ -53,7 +53,7 @@ Everyone’s life path is different. It is silly to think that you are not doing
 
 It’s your own breakthrough that matters the most. This occurs at various points in our lives as we continue to improve ourselves. From one breakthrough to the other. Instead of thinking about what you fall short of as compared to others, think about your **personal achievements and breakthroughs** – what you had failed to do in the past, but are able to do now. You shouldn’t be thinking about how much you’ve completed according to the success of someone else.
 
-## Every achievement, whether big or small, contributes to our final goal
+## Every achievement, whether big or small, contributes to your final goal
 
 I do look up to several people and have a high expectation of myself. I think it’s fine to have our own standards. It’s a matter of personal preference. Ideally, we should maintain a balance in everything. We can aim higher and not settle for anything less, but we should not be overly critical of ourselves too. We need to remember that it is our personal breakthrough that matters the most and we should recognize every personal achievement, whether big or small.
 
