@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Shouldn’t Discount Your Achievements
-share-description: 
+share-description: You shouldn't discount your achievements, because every task or achievement, whether big or small, contributes to your final goal. Don’t compare your achievements against the “norm”. It's your own breakthrough that matters the most. Be happy that you started doing something.
 thumbnail-img: "https://images.pexels.com/photos/3727463/pexels-photo-3727463.jpeg"
 categories: in-my-mind
 tags: in-my-mind
@@ -65,11 +65,11 @@ Although it can be easy to think that these smaller tasks are considered “expe
 
 On the other hand, we should not blame ourselves for taking a longer time to complete any difficult task either. Especially when the given task at hand is something new or that we are inexperienced in, it only makes sense to spend a substantial amount of time to get it done.
 
-I often blame myself for spending too much time on figuring things out. For some reason, I expect myself to solve issues quickly. But truth is, I hadn’t even learned of the new skills that are required to complete the tasks, so how was I going to complete them quickly? I realized that I really needed to be patient with myself. 
+I often blame myself for spending too much time on figuring things out. For some reason, I expect myself to solve issues quickly. But truth is, I hadn’t even learned of the new skills that were required to complete the tasks, so how was I going to complete them quickly? I realized that I really needed to be patient with myself. 
 
 For any difficult task or process that is part of a big goal that you are trying to achieve, instead of thinking about completing the task right away, it would be helpful to be more flexible with yourself. Allocate a reasonable amount of time to acquire any new information or skills before working on the task. By taking the time to learn the required skills, it would help you be more efficient in completing the task.
 
-## Be happy that you started something
+## Be happy that you started doing something
 
 Be happy that you have taken action! There’s significance behind starting something that seems daunting. We should feel proud of ourselves for having the bravery to follow our own desires and take action. And for some of us, we finally did something that we had failed to do in the past. We should be happy that we finally took action and persevered. 
 
@@ -81,4 +81,4 @@ Now that you’ve reached a significant milestone and have become more familiari
 
 ## Conclusion
 
-Any task or achievement, whether big or small, contributes to your final goal at the end of the day.  We should not discount our achievement even if it was something we felt that was easy and expected of us. We need to remember not to be too hard on ourselves, and recognize every effort that we put in to get things completed. Our souls will continue to feel more motivated as we acknowledge our achievements.
+Any task or achievement, whether big or small, contributes to your final goal at the end of the day.  We should not discount our achievement even if it was something we felt that was easy and expected of us. We need to remember not to be too hard on ourselves, and recognize every effort that we put in to get things completed. Our souls will continue to stay motivated as we acknowledge our achievements.
