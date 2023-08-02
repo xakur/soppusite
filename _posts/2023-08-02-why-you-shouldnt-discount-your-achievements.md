@@ -25,11 +25,11 @@ If people could see the hard work and quality I put into my work, why can’t I 
 
 ## How I Failed to Appreciate my Efforts
 
-I’ve been told by a few people that I’m really hard on myself. I often find it difficult to view my achievements as a job well done. As I thought about it further, I realized that I'm indeed often rushing from one task to the other. I don’t give myself space or time to rest and appreciate what I just completed. My mind often goes like this:
+I’ve been told by a couple of people that I’m really hard on myself. I often find it difficult to view my achievements as a job well done. As I thought about it further, I realized that I'm indeed often rushing from one task to the other. I don’t give myself space or time to rest and appreciate what I just completed. My mind often goes like this:
 
 _“Ok, now that I’m done with part A (after much difficulty), it’s now time to move on to part B! Let’s go! No time to waste! I’ve already wasted too much time in part A.”_
 
-I often don’t give myself a breather or rather, don’t think that I deserve a breather. This is especially so when the tasks are “expected” of me. Both easy and difficult tasks. For the difficult ones, if I had spent a lot more time than what I had expected, I would blame myself for spending too much time, and get upset with myself. 
+I often don’t give myself a breather or rather, don’t think that I deserve a breather. This is especially so when the tasks are “expected” of me. Both easy and difficult tasks. For the difficult ones, if I had spent a lot more time than what I had expected, I would blame myself for spending too much time, and get upset with myself. I couldn't appreciate my efforts and my mind would always think...
 
 _"So many other random people around the world have accomplished the same things... My completion of these very same things isn't something significant."_
 
