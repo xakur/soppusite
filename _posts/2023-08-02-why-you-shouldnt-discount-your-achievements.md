@@ -49,7 +49,7 @@ There is no need to measure your achievements against what’s considered “sta
 
 Everyone’s life path is different. It is silly to think that you are not doing enough just because others have done and achieved more. We pursue different things at different timings and we grow at different rates. Some people achieve a certain goal sooner, while some later than the others. It is never fair to compare ourselves to others as we all have different life situations and even upbringing. [Comparing to others amounts to nothing at the end of the day.](https://sliceofpower.com/2023-03-01-why-its-pointless-to-compare-yourself-to-others/)
 
-<h3 style="text-align:center;">It should always be you vs you.</h3>
+<h3 style="text-align:center;">It should always be you VS you.</h3>
 
 It’s your own breakthrough that matters the most. This occurs at various points in our lives as we continue to improve ourselves. From one breakthrough to the other. Instead of thinking about what you fall short of as compared to others, think about your **personal achievements and breakthroughs** – what you had failed to do in the past, but are able to do now. You shouldn’t be thinking about how much you’ve completed according to the success of someone else.
 
