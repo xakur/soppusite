@@ -43,8 +43,7 @@ Moreover, as I was handling everything on my own, it was only logical that I nee
 
 From this recent encounter, I’ve gained a better understanding of why we shouldn’t discount our achievements:
 
-## It’s your own breakthrough.  
-## Don’t compare your achievements against the “norm”.
+## It’s your own breakthrough. Don’t compare your achievements against the “norm”.
 
 There is no need to measure your achievements against what’s considered “standard” or “norm”. It is unnecessary to think about what others have already accomplished and let that discourage you.
 
