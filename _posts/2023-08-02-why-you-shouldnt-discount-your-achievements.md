@@ -43,7 +43,8 @@ Moreover, as I was handling everything on my own, it was only logical that I nee
 
 From this recent encounter, I’ve gained a better understanding of why we shouldn’t discount our achievements:
 
-## It’s your own breakthrough. Don’t compare your achievements against the “norm”
+## It’s your own breakthrough.  
+## Don’t compare your achievements against the “norm”.
 
 There is no need to measure your achievements against what’s considered “standard” or “norm”. It is unnecessary to think about what others have already accomplished and let that discourage you.
 
@@ -53,7 +54,7 @@ Everyone’s life path is different. It is silly to think that you are not doing
 
 It’s your own breakthrough that matters the most. This occurs at various points in our lives as we continue to improve ourselves. From one breakthrough to the other. Instead of thinking about what you fall short of as compared to others, think about your **personal achievements and breakthroughs** – what you had failed to do in the past, but are able to do now. You shouldn’t be thinking about how much you’ve completed according to the success of someone else.
 
-## Every achievement, whether big or small, contributes to your final goal
+## Every achievement, whether big or small, contributes to your final goal.
 
 I do look up to several people and have a high expectation of myself. I think it’s fine to have our own standards. It’s a matter of personal preference. Ideally, we should maintain a balance in everything. We can aim higher and not settle for anything less, but we should not be overly critical of ourselves too. We need to remember that it is our personal breakthrough that matters the most and we should **recognize every personal achievement, whether big or small**.
 
@@ -69,7 +70,7 @@ I often blame myself for spending too much time on figuring things out. For some
 
 For any difficult task or process that is part of a big goal that you are trying to achieve, instead of thinking about completing the task right away, it would be helpful to be more flexible with yourself. Allocate a reasonable amount of time to acquire any new information or skills before working on the task. By taking the time to learn the required skills, it would help you be more efficient in completing the task.
 
-## Be happy that you started doing something
+## Be happy that you started doing something.
 
 Be happy that you have taken action! There’s significance behind starting something that seems daunting. We should feel proud of ourselves for having the bravery to follow our own desires and take action. And for some of us, we finally did something that we had failed to do in the past. We should be happy that we finally took action and persevered. 
 
