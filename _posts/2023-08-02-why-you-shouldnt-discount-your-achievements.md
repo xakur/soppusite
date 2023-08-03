@@ -47,7 +47,7 @@ From this recent encounter, I’ve gained a better understanding of why we shoul
 
 There is no need to measure your achievements against what’s considered “standard” or “norm”. It is unnecessary to think about what others have already accomplished and let that discourage you.
 
-Everyone’s life path is different. It is silly to think that you are not doing enough just because others have done and achieved more. We pursue different things at different timings and we grow at different rates. Some people achieve a certain goal sooner, while some later than the others. It is never fair to compare ourselves to others as we all have different life situations and even upbringing. [Comparing to others amounts to nothing at the end of the day.](https://sliceofpower.com/2023-03-01-why-its-pointless-to-compare-yourself-to-others/)
+Everyone’s life path is different. It is silly to think that you are not doing enough just because others have done and achieved more. We pursue different things at different timings and we grow at different rates. Some people achieve a certain goal sooner, while some later than the others. It is never fair to compare ourselves to others as we all have different life situations and even upbringing. [Comparing to others amounts to nothing at the end of the day.](https://sliceofpower.com/2023-03-01-why-you-should-not-compare-yourself-to-others/)
 
 <h3 style="text-align:center;">It should always be you VS you.</h3>
 
