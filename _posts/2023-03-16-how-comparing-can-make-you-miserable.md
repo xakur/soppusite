@@ -17,7 +17,7 @@ Yet, on the other hand, when we are feeling negative about our situation, people
 
 Often, people like to compare against the negative situations of other people to make themselves happy.
 
-I do not think that is good either, [because comparison amounts to nothing in the end](https://sliceofpower.com/2023-03-01-why-its-pointless-to-compare-yourself-to-others). It is not practical to make a comparison in only one side of a matter or scenario. If you want to compare, both the negative and positive scenarios should be taken into consideration to make it a fair comparison.
+I do not think that is good either, [because comparison amounts to nothing in the end](https://sliceofpower.com/2023-03-01-why-you-should-not-compare-yourself-to-others/). It is not practical to make a comparison in only one side of a matter or scenario. If you want to compare, both the negative and positive scenarios should be taken into consideration to make it a fair comparison.
 
 Here is an example of what our thought process may be, when we compare against a...
 
