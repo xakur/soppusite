@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why it’s Pointless to Compare Yourself to Others
+title: Why You Should Not Compare Yourself to Others
 share-description: Comparison will stall your progress, as you are putting too much focus on others. We’re always changing. People only show what they want to show others. It is insubstantial to compare to what is only presented to us on the surface.
 thumbnail-img: /assets/img/comparing-is-pointless.png
 categories: life-tips
@@ -31,7 +31,7 @@ Ideally, you need to accept yourself for who you are. Be satisfied with yourself
 
 Having someone to look up to can be healthy, when your figure of admiration acts as a motivating force for you to strive harder and achieve more. They serve as your role model as you would like to become as spectacular as them. This is vastly different from jealousy.
 
-## Why it is Pointless to Compare Yourself to Others
+## Why You Should Not Compare Yourself to Others
 
 <div class="imgtext-container" style="margin-top: 40px; margin-bottom:40px;">
   <div><img src="https://images.pexels.com/photos/6289065/pexels-photo-6289065.jpeg" style="width: 2000px; max-height:100%"></div>
