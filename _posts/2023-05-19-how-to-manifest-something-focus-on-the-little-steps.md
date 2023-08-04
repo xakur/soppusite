@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Manifest Something - Focus on the Little Steps
-share-description: Instead of fantasizing about the big goal, think about and focus on the little steps that take us there. Find enjoyment in every small task. Incorporate daily affirmations. Reward yourself for every small achievement. Develop ways to support and encourage yourself.
+share-description: To manifest something, instead of fantasizing about the big goal, focus on the little steps that take us there. Find enjoyment in every small task. Incorporate daily affirmations. Reward yourself for every small achievement. Develop ways to support and encourage yourself.
 thumbnail-img: "https://images.pexels.com/photos/7708705/pexels-photo-7708705.jpeg"
 categories: life-tips
 tags: life-tips
