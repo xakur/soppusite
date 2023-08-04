@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Being Vulnerable and Embracing Change
-share-description: Any type of change will feel "out of place" at first. Even for a change that favors you. Give yourself enough time to adapt to the change without being critical of yourself. Prepare your heart for the change. Refrain from picking out things to disprove of the change.
+title: Being Vulnerable is Scary. Learn to Embrace Change.
+share-description: Being vulnerable to someone is scary. It can feel like a make-or-break situation, as we don't know if people will accept us for who we truly are. Being vulnerable can change your life too, and any type of change will feel "out of place" at first. Even for a change that favors you. Give yourself enough time to embrace the change without being critical of yourself.
 thumbnail-img: "https://images.pexels.com/photos/887349/pexels-photo-887349.jpeg"
 categories: in-my-mind
 tags: in-my-mind
