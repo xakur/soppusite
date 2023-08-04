@@ -32,7 +32,8 @@ It's not in me to talk about myself, but I suddenly decided to open up to this f
 <p>how I really am.</p>
 </div>
 
-It was a nerve-wrecking experience, and felt like a "make-or-break" situation. Considering how I was treated by former friends in the past, I was already expecting an outcome in my heart. I very well understood that no one likes to be around a negative person. By "negative", I mean a pessimistic or emotionally injured person, and not those who intentionally try to hurt others and spread negativity.
+It was a nerve-wrecking experience, and felt like a "make-or-break" situation. Considering how I was treated by former friends in the past, I was already expecting an outcome in my heart. I very well understood that no one likes to be around a negative person. While I've had experiences of former friends avoiding me after getting to know the negative side of me, I certainly don't agree to such behavior. [I am not going to avoid negative people immediately. Instead, I would like to get to know the cause of the problem through their life stories.](https://sliceofpower.com/2022-11-07-lesson-learnt-dealing-with-negative-people/) (By "negative", I mean a pessimistic or emotionally injured person, and not those who intentionally try to hurt others and spread negativity.) However, negativity is always unwelcome and it is not without a reason.
+
 
 <div style="text-align:center; font-size:22px;">
 <p>Being truthful can be agonizing.</p>
