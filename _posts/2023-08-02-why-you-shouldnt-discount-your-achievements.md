@@ -59,7 +59,7 @@ I do look up to several people and have a high expectation of myself. I think it
 
 ![cheerful man](https://images.pexels.com/photos/3974771/pexels-photo-3974771.jpeg)
 
-Just because something is self-perceived as “easy” and “expected” does not mean that there’s no value behind it. [On the contrary, we might even become demotivated by the thought of trying to accomplish a big goal as it can seem overwhelming at times](https://sliceofpower.com/2023-05-19-before-manifestation-focus-on-the-little-steps/). Hence, it may be more helpful to focus on the small steps or small tasks instead. After all, every little task make up the final goal.
+Just because something is self-perceived as “easy” and “expected” does not mean that there’s no value behind it. [On the contrary, we might even become demotivated by the thought of trying to accomplish a big goal as it can seem overwhelming at times](https://sliceofpower.com/2023-05-19-how-to-manifest-something-focus-on-the-little-steps/). Hence, it may be more helpful to focus on the small steps or small tasks instead. After all, every little task make up the final goal.
 
 Although it can be easy to think that these smaller tasks are considered “expected duties”, they are just as important as any other more difficult or significant tasks and processes. We need them to reach our goal. We should also recognize our efforts put into these small tasks, and give ourselves a pat on the back upon completion. [Acknowledging your efforts more often can help you to feel more assured and confident of yourself.](https://www.forbes.com/sites/forbescoachescouncil/2021/04/22/boost-your-self-confidence-with-self-acknowledgement/?sh=5177dd461319)
 
