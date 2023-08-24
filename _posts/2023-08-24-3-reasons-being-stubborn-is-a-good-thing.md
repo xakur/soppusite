@@ -83,7 +83,7 @@ When you’re firm on your stance, you’re very likely to persevere through any
 
 Being firm in your beliefs can also help you to have less decision-making dilemmas. Moreover, when your beliefs are able to guide and help you reach a decision, you will have less difficulty in making up your mind. You’re normally clear of what you want to do and you won’t ponder too much over it. It saves you time too.
 
-### 3. You know what you want and you follow your heart
+### 3. You know what you want and follow your heart
 
 At the end of the day, you only need to follow your heart and mind.
 
@@ -91,7 +91,7 @@ It’s better to follow your heart than to regret not doing what you had wanted 
 
 It’s a matter of perspective and whether you want to consider multiple other perspectives. Due to differences in perspectives, people might think that you’re stubborn when you insist on your perspective. Sometimes though, this has nothing to do with being stubborn. In my past experiences, in the times where I was called stubborn, I actually had concrete reasons to back up my decisions. I’m not one to make decisions loosely.
 
-Therefore, while being stubborn might not entirely be a bad thing, it is important to be open-minded and expose yourself to various other ideas and experiences, instead of rejecting them immediately. Give it a chance for consideration at least. Other people’s suggestions or new approaches might help to make things easier for you.
+Therefore, while being stubborn might not entirely be a bad thing, it is important to be open-minded and expose yourself to various other ideas and experiences, instead of rejecting them immediately. Give it a chance for consideration at least. Other suggestions or new approaches might help to make things easier for you.
 
 It’s always good to evaluate various options. Upon evaluation, if you still strongly wish to go with your original intention, you can ultimately go ahead with your decision.
 
