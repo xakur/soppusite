@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons Being Stubborn is a Good Thing
-share-description: 
+share-description: Stubbornness is a subjective opinion. You only need to answer to yourself. Being responsible is important. You’re firm on your stance. Less decision-making dilemmas. It’s better to follow your heart than to regret not doing what you wanted.
 thumbnail-img: "https://images.pexels.com/photos/6964115/pexels-photo-6964115.jpeg"
 categories: life-tips
 tags: life-tips
@@ -35,7 +35,7 @@ However, as long as it doesn't involve breaking the law and harming others, who 
 
 At times, even if we are already aware of the consequences of the issue, we choose to ignore them and do what we think is best. Whichever it is, it is important to hold yourself accountable at the end of the day.
 
-<div class="imgtext-container" style="display: block; background-color: #def5dc; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
+<div class="imgtext-container" style="display: block; background-color: #e2ffdf; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
 <h4><b>How to resolve this?</b></h4>
 <p>To ensure that your stubbornness or resolute mindset is not sabotaging you, you may want to list the reasons why you want to go ahead with a certain decision. Ideally, weigh the pros and cons of doing and not doing it.</p>
 <p>Consider all angles, including what others might have told you. No one said that you must listen to what others tell you, but taking into account of other suggestions or advice can help you reach a well-informed decision. This is especially helpful when dealing with a serious issue.</p>
@@ -47,7 +47,7 @@ At times, even if we are already aware of the consequences of the issue, we choo
 
 When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times. Stagnation can occur if you refuse to consider different perspectives or make an improvement from past mistakes. Refusing to be open-minded and clinging to your own perspectives without considering other viewpoints can hinder your personal growth, as it restricts your exposure to more knowledge and information.
 
-<div class="imgtext-container" style="display: block; background-color: #def5dc; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
+<div class="imgtext-container" style="display: block; background-color: #e2ffdf; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
 <h4><b>How to resolve this?</b></h4>
 <p>If you really insist on doing what you want without considering other options, you can give it a try first. However, if keeping to an old mindset does not bring about improvements and things do not turn out well, you need to start realizing that you need to change for the better. There is no point in keeping to an approach that does not work for you anymore.</p>
 <p>When you start welcoming new ideas, you may find that there are various options you can choose from. Although a new idea or approach may not be the best for you in that moment, it might be helpful to you someday in the future. Thinking it through would more or less offer insights that might help you.</p>
