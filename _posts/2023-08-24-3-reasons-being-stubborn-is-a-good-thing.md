@@ -23,9 +23,9 @@ So when somebody tells you that you are stubborn, it’s up to you to decide whe
 
 If you think that what someone else said made sense and you start doubting yourself, it will be good reevaluate your decision by considering all possible choices or suggestions. This is not to make them happy or prove who is right in this, it is to give you a clearer understanding of your situation, so that you can make the best choice that you are willing to be accountable for.
 
-So, how is being stubborn a bad thing?
+Before moving to the 3 reasons why being stubborn is a good thing, let's take a look at how being stubborn is a bad thing and how to resolve it:
 
-<li style="padding-top: 50px; font-size: 1.175rem; font-weight: bold;">You might be doing the wrong thing or ignoring the consequences</li>
+<li style="font-size: 1.175rem; font-weight: bold;">You might be doing the wrong thing or ignoring the consequences</li>
 
 As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
 
