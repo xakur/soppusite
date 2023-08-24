@@ -62,7 +62,7 @@ It is fine to stay firm to your beliefs and decisions as this is your life, and 
 
 If the decision or issue at hand only involves yourself, you are always free to do what you think is best, as long as you have valid reasons for making a certain decision or holding on to a belief. 
 
-Same as for the outcome, whether or not things turn out well, no one other than you is accountable for it. If something bad happens, you should not run away from it or push the blame to others. **Being responsible for your own actions is the most important.**
+Same as for the outcome, whether or not things turn out well, no one other than you is accountable for it. If something bad happens, you should not run away from it or push the blame to others. **Being responsible for your own actions is most important.**
 
 If we encounter something bad due to our stubbornness, all we have to do is to learn and improve from there. We change as we grow in life.
 
@@ -98,4 +98,4 @@ You can stop second-guessing yourself if someone keeps questioning you or forcin
 
 ## Conclusion
 
-Stubbornness is a subjective viewpoint. In whatever you do, whether you call yourself stubborn or not, it is always helpful to consider and evaluate all perspectives and eventually follow what your heart. It is better than to regret doing or not doing something because you chose to listen to what others have told you. After all, this is your life. You are entitled to make your own choices. Always hold yourself accountable in everything that you do.
+Stubbornness is a subjective viewpoint. Whether you call yourself stubborn or not, it is always helpful to consider and evaluate all perspectives. Follow your heart after thoroughly reviewing the matter. It is better than to regret doing or not doing something because you chose to listen to what others have told you. After all, this is your life. You are entitled to make your own choices. Always hold yourself accountable in everything that you do.
