@@ -25,7 +25,7 @@ If you think that what someone else said made sense and you start doubting yours
 
 ## How is Being Stubborn a Bad Thing?
 
-<h3 style="padding-top: 40px;">You might be doing the wrong thing or ignoring the consequences</h3>
+<p style="padding-top: 40px;"><b>You might be doing the wrong thing or ignoring the consequences</b></p>
 
 As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
 
@@ -89,7 +89,7 @@ At the end of the day, you only need to follow your heart and mind.
 
 It’s better to follow your heart than to regret not doing what you had wanted to do because someone told you not to. It is important to be true to yourself and be responsible of your own actions.
 
-It’s a matter of perspective and whether you want to consider multiple other perspectives. Due to the difference in perspectives, people might think that you’re stubborn when you insist on your perspective. Sometimes though, this has nothing to do with being stubborn. In my past experiences, in the times where I was called stubborn, I actually had concrete reasons to back up my decisions. I’m not one to make decisions loosely.
+It’s a matter of perspective and whether you want to consider multiple other perspectives. Due to differences in perspectives, people might think that you’re stubborn when you insist on your perspective. Sometimes though, this has nothing to do with being stubborn. In my past experiences, in the times where I was called stubborn, I actually had concrete reasons to back up my decisions. I’m not one to make decisions loosely.
 
 Therefore, while being stubborn might not entirely be a bad thing, it is important to be open-minded and expose yourself to various other ideas and experiences, instead of rejecting them immediately. Give it a chance for consideration at least. Other people’s suggestions or new approaches might help to make things easier for you.
 
