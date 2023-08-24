@@ -25,7 +25,7 @@ If you think that what someone else said made sense and you start doubting yours
 
 ## How is being stubborn a bad thing?
 
-<h3 style="padding-top: 40px;"><li>You might be doing the wrong thing or ignoring the consequences</li></h3>
+<h4 style="padding-top: 40px;"><li>You might be doing the wrong thing or ignoring the consequences</li></h4>
 
 As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
 
