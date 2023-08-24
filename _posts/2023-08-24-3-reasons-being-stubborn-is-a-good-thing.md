@@ -23,11 +23,9 @@ So when somebody tells you that you are stubborn, it’s up to you to decide whe
 
 If you think that what someone else said made sense and you start doubting yourself, it will be good reevaluate your decision by considering all possible choices or suggestions. This is not to make them happy or prove who is right in this, it is to give you a clearer understanding of your situation, so that you can make the best choice that you are willing to be accountable for.
 
-Before moving to the 3 reasons why being stubborn is a good thing, let's take a look at how being stubborn is a bad thing:
+Before moving to the 3 reasons why being stubborn is a good thing, let's take a look at how being stubborn is a **bad** thing:
 
-* #### You might be doing the wrong thing or ignoring the consequences
-
-<li style="font-size: 1.175rem; font-weight: bold;">You might be doing the wrong thing or ignoring the consequences</li>
+<li style="font-size: 1.175rem; font-weight: bold;">You might be doing the wrong thing or ignoring the consequences.</li>
 
 As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
 
@@ -45,7 +43,7 @@ At times, even if we are already aware of the consequences of the issue, we choo
 <p>Always remember that you only have to answer to yourself at the end of the day. Whether you choose to listen to what others tell you or not, if anything were to go wrong, you must be responsible and bear the consequences of your own actions.</p>
 </div>
 
-<li style="font-size: 1.175rem; font-weight: bold;">It prevents you from growing</li>
+<li style="font-size: 1.175rem; font-weight: bold;">It prevents you from growing.</li>
 
 When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times. Stagnation can occur if you refuse to consider different perspectives or make an improvement from past mistakes. Refusing to be open-minded and clinging to your own perspectives without considering other viewpoints can hinder your personal growth, as it restricts your exposure to more knowledge and information.
 
@@ -77,7 +75,7 @@ Whichever it is, we learn as we grow. We never really know who is right or wrong
 
 Therefore, following your heart and doing what you think is best is most important at the end of the day. It is your life, you make the decision and you take the responsibility for it. Our mistakes will help us learn.
 
-### 2. You’re firm on your stance
+### 2. You’re firm on your stance.
 
 No one can easily influence your decisions or even your character. There’s beauty in staying true to your values, as long as it’s not something that offends the law or other people. 
 
@@ -85,7 +83,7 @@ When you’re firm on your stance, you’re very likely to persevere through any
 
 Being firm in your beliefs can also help you to have less decision-making dilemmas. Moreover, when your beliefs are able to guide and help you reach a decision, you will have less difficulty in making up your mind. You’re normally clear of what you want to do and you won’t ponder too much over it. It saves you time too.
 
-### 3. You know what you want and follow your heart
+### 3. You know what you want and follow your heart.
 
 At the end of the day, you only need to follow your heart and mind.
 
