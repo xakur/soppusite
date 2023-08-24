@@ -25,7 +25,6 @@ If you think that what someone else said made sense and you start doubting yours
 
 ## How is being stubborn a bad thing?
 <br/>
-
 ### You might be doing the wrong thing or ignoring the consequences
 
 As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
@@ -58,7 +57,6 @@ When you are stubborn, you tend to resist change - new ways of doing things and 
 
 ## How is being stubborn a good thing?
 <br/>
-
 ### 1. You only need to answer to yourself. Not anyone else.
 
 It is fine to stay firm to your beliefs and decisions as this is your life, and you only need to answer to yourself. However, if your actions could impact others, be it a certain decision in a matter or a belief that you’re holding, you need to consider the opinions of others as well. For this scenario, you should spare a thought for others too. Otherwise, being stubborn can lead to selfishness as you are only concerned about your own needs. [In a team setting especially at work, stubborn people are seen as selfish and challenging to work with.](https://www.elitedaily.com/life/stubborn-people-self-assured/1192404)
