@@ -43,7 +43,7 @@ At times, even if we are already aware of the consequences of the issue, we choo
 <p>Always remember that you only have to answer to yourself at the end of the day. Whether you choose to listen to what others tell you or not, if anything were to go wrong, you must be responsible and bear the consequences of your own actions.</p>
 </div>
 
-<li style="font-size: 1.175rem; font-weight: bold;">It prevents you from growth</li>
+<li style="font-size: 1.175rem; font-weight: bold;">It prevents you from growing</li>
 
 When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times. Stagnation can occur if you refuse to consider different perspectives or make an improvement from past mistakes. Refusing to be open-minded and clinging to your own perspectives without considering other viewpoints can hinder your personal growth, as it restricts your exposure to more knowledge and information.
 
