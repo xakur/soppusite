@@ -2,7 +2,7 @@
 layout: post
 title: 3 Reasons Being Stubborn is a Good Thing
 share-description: 
-thumbnail-img: “https://images.pexels.com/photos/6964115/pexels-photo-6964115.jpeg”
+thumbnail-img: "https://images.pexels.com/photos/6964115/pexels-photo-6964115.jpeg"
 categories: life-tips
 tags: life-tips
 readtime: true
