@@ -25,7 +25,7 @@ If you think that what someone else said made sense and you start doubting yours
 
 ## How is Being Stubborn a Bad Thing?
 
-<li style="padding-top: 50px; font-size: 1.145rem; font-weight: bold;">You might be doing the wrong thing or ignoring the consequences</li>
+<li style="padding-top: 50px; font-size: 1.175rem; font-weight: bold;">You might be doing the wrong thing or ignoring the consequences</li>
 
 As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
 
@@ -43,12 +43,12 @@ At times, even if we are already aware of the consequences of the issue, we choo
 <p>Always remember that you only have to answer to yourself at the end of the day. Whether you choose to listen to what others tell you or not, if anything were to go wrong, you must be responsible and bear the consequences of your own actions.</p>
 </div>
 
-<li style="padding-top: 50px; font-size: 1.145rem; font-weight: bold;">It prevents you from growth</li>
+<li style="font-size: 1.175rem; font-weight: bold;">It prevents you from growth</li>
 
 When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times. Stagnation can occur if you refuse to consider different perspectives or make an improvement from past mistakes. Refusing to be open-minded and clinging to your own perspectives without considering other viewpoints can hinder your personal growth, as it restricts your exposure to more knowledge and information.
 
 <div class="imgtext-container" style="display: block; background-color: #def5dc; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
-<h3><b>How to resolve this?</b></h3>
+<h4><b>How to resolve this?</b></h4>
 <p>If you really insist on doing what you want without considering other options, you can give it a try first. However, if keeping to an old mindset does not bring about improvements and things do not turn out well, you need to start realizing that you need to change for the better. There has to be a “limit”. There is no point in keeping to a method that does not work for you anymore.</p>
 <p>When you start welcoming new ideas, you may find that there are more than one way to approach the matter. Although a new idea or approach may not be the best for you in that moment, it might be helpful to you someday in the future. Thinking it through would more or less offer insights that might help you.</p>
 <p>When looking at the downsides of the decision, evaluate if you are ready to bear the consequences if the worst case scenario happens.</p>
@@ -57,7 +57,7 @@ When you are stubborn, you tend to resist change - new ways of doing things and 
 
 ## How is Being Stubborn a Good Thing?
 
-<h3 style="padding-top: 40px;">You only need to answer to yourself. Not anyone else.</h3>
+<h3 style="padding-top: 40px;">1. You only need to answer to yourself. Not anyone else.</h3>
 
 It is fine to stay firm to your beliefs and decisions as this is your life, and you only need to answer to yourself. However, if your actions could impact others, be it a certain decision in a matter or a belief that you’re holding, you need to consider the opinions of others as well. For this scenario, you should spare a thought for others too. Otherwise, being stubborn can lead to selfishness as you are only concerned about your own needs. [In a team setting especially at work, stubborn people are seen as selfish and challenging to work with.](https://www.elitedaily.com/life/stubborn-people-self-assured/1192404)
 
