@@ -25,9 +25,7 @@ If you think that what someone else said made sense and you start doubting yours
 
 ## How is being stubborn a bad thing?
 
-### * You might be doing the wrong thing or ignoring the consequences
-
-<h3 style="padding-top: 40px;">You might be doing the wrong thing or ignoring the consequences</h3>
+<h3 style="padding-top: 40px;"><li>You might be doing the wrong thing or ignoring the consequences</li></h3>
 
 As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
 
@@ -49,7 +47,7 @@ At times, even if we are already aware of the consequences of the issue, we choo
 
 When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times. Stagnation can occur if you refuse to consider different perspectives or make an improvement from past mistakes. Refusing to be open-minded and clinging to your own perspectives without considering other viewpoints can hinder your personal growth, as it restricts your exposure to more knowledge and information.
 
-<div class="box-purple" style="text-align: left; background-color: #effde3;">
+<div class="imgtext-container" style="display: block; background-color: #daefd8; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
 <h3><b>How to resolve this?</b></h3>
 <p>If you really insist on doing what you want without considering other options, you can give it a try first. However, if keeping to an old mindset does not bring about improvements and things do not turn out well, you need to start realizing that you need to change for the better. There has to be a “limit”. There is no point in keeping to a method that does not work for you anymore.</p>
 <p>When you start welcoming new ideas, you may find that there are more than one way to approach the matter. Although a new idea or approach may not be the best for you in that moment, it might be helpful to you someday in the future. Thinking it through would more or less offer insights that might help you.</p>
