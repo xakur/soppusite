@@ -23,7 +23,7 @@ So when somebody tells you that you are stubborn, it’s up to you to decide whe
 
 If you think that what someone else said made sense and you start doubting yourself, it will be good reevaluate your decision by considering all possible choices or suggestions. This is not to make them happy or prove who is right in this, it is to give you a clearer understanding of your situation, so that you can make the best choice that you are willing to be accountable for.
 
-## How is being stubborn a bad thing?
+## How is Being Stubborn a Bad Thing?
 
 <h3 style="padding-top: 40px;">You might be doing the wrong thing or ignoring the consequences</h3>
 
@@ -35,7 +35,7 @@ However, as long as it doesn't involve breaking the law and harming others, who 
 
 At times, even if we are already aware of the consequences of the issue, we choose to ignore them and do what we think is best. Whichever it is, it is important to hold yourself accountable at the end of the day.
 
-<div class="imgtext-container" style="display: block; background-color: #daefd8; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
+<div class="imgtext-container" style="display: block; background-color: #def5dc; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
 <h4><b>How to resolve this?</b></h4>
 <p>To ensure that your stubbornness or resolute mindset is not sabotaging you, you may want to list the reasons why you want to go ahead with a certain decision. Ideally, weigh the pros and cons of doing and not doing it.</p>
 <p>Consider all angles, including what others might have told you. No one said that you must listen to what others tell you, but taking into account of other suggestions or advice can help you reach a well-informed decision. This is especially helpful when dealing with a serious issue.</p>
@@ -47,7 +47,7 @@ At times, even if we are already aware of the consequences of the issue, we choo
 
 When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times. Stagnation can occur if you refuse to consider different perspectives or make an improvement from past mistakes. Refusing to be open-minded and clinging to your own perspectives without considering other viewpoints can hinder your personal growth, as it restricts your exposure to more knowledge and information.
 
-<div class="imgtext-container" style="display: block; background-color: #daefd8; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
+<div class="imgtext-container" style="display: block; background-color: #def5dc; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
 <h3><b>How to resolve this?</b></h3>
 <p>If you really insist on doing what you want without considering other options, you can give it a try first. However, if keeping to an old mindset does not bring about improvements and things do not turn out well, you need to start realizing that you need to change for the better. There has to be a “limit”. There is no point in keeping to a method that does not work for you anymore.</p>
 <p>When you start welcoming new ideas, you may find that there are more than one way to approach the matter. Although a new idea or approach may not be the best for you in that moment, it might be helpful to you someday in the future. Thinking it through would more or less offer insights that might help you.</p>
@@ -55,9 +55,9 @@ When you are stubborn, you tend to resist change - new ways of doing things and 
 <p>So instead of rejecting all other ideas/suggestions immediately, try to have an open mind. Give yourself various options to think about, but ultimately follow what you think is best for you. See how it goes, and then make adjustments accordingly. Be open to new ideas.</p>
 </div>
 
-## How is being stubborn a good thing?
-<br/>
-### 1. You only need to answer to yourself. Not anyone else.
+## How is Being Stubborn a Good Thing?
+
+<h3 style="padding-top: 40px;">You only need to answer to yourself. Not anyone else.</h3>
 
 It is fine to stay firm to your beliefs and decisions as this is your life, and you only need to answer to yourself. However, if your actions could impact others, be it a certain decision in a matter or a belief that you’re holding, you need to consider the opinions of others as well. For this scenario, you should spare a thought for others too. Otherwise, being stubborn can lead to selfishness as you are only concerned about your own needs. [In a team setting especially at work, stubborn people are seen as selfish and challenging to work with.](https://www.elitedaily.com/life/stubborn-people-self-assured/1192404)
 
