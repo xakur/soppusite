@@ -23,7 +23,7 @@ So when somebody tells you that you are stubborn, it’s up to you to decide whe
 
 If you think that what someone else said made sense and you start doubting yourself, it will be good reevaluate your decision by considering all possible choices or suggestions. This is not to make them happy or prove who is right in this, it is to give you a clearer understanding of your situation, so that you can make the best choice that you are willing to be accountable for.
 
-## How is Being Stubborn a Bad Thing?
+So, how is being stubborn a bad thing?
 
 <li style="padding-top: 50px; font-size: 1.175rem; font-weight: bold;">You might be doing the wrong thing or ignoring the consequences</li>
 
