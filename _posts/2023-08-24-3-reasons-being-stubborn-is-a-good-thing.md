@@ -25,7 +25,7 @@ If you think that what someone else said made sense and you start doubting yours
 
 Before moving to the 3 reasons why being stubborn is a good thing, let's take a look at how being stubborn is a bad thing:
 
-#### - You might be doing the wrong thing or ignoring the consequences
+* ### You might be doing the wrong thing or ignoring the consequences
 
 <li style="font-size: 1.175rem; font-weight: bold;">You might be doing the wrong thing or ignoring the consequences</li>
 
