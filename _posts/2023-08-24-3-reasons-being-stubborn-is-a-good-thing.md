@@ -25,6 +25,8 @@ If you think that what someone else said made sense and you start doubting yours
 
 ## How is being stubborn a bad thing?
 
+### * You might be doing the wrong thing or ignoring the consequences
+
 <h3 style="padding-top: 40px;">You might be doing the wrong thing or ignoring the consequences</h3>
 
 As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
@@ -35,7 +37,7 @@ However, as long as it doesn't involve breaking the law and harming others, who 
 
 At times, even if we are already aware of the consequences of the issue, we choose to ignore them and do what we think is best. Whichever it is, it is important to hold yourself accountable at the end of the day.
 
-<div class="imgtext-container" style="display: block; background-color: #bdffb8; padding-top:40px; padding-left:40px; padding-right:40px; padding-bottom:10px; margin-bottom:40px;">
+<div class="imgtext-container" style="display: block; background-color: #daefd8; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
 <h3><b>How to resolve this?</b></h3>
 <p>To ensure that your stubbornness or resolute mindset is not sabotaging you, you may want to list the reasons why you want to go ahead with a certain decision. Ideally, weigh the pros and cons of doing and not doing it.</p>
 <p>Consider all angles, including what others might have told you. No one said that you must listen to what others tell you, but taking into account of other suggestions or advice can help you reach a well-informed decision. This is especially helpful when dealing with a serious issue.</p>
