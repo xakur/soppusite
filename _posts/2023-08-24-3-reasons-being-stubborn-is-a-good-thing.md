@@ -17,13 +17,14 @@ Stubbornness is often felt when we see someone hold on to a belief that we deem 
 
 However, as much as we have our reasons for giving suggestions, they might have strong reasons for insisting on their stance. It is a matter of perspective.
 
-<img src="https://images.pexels.com/photos/17895618/pexels-photo-17895618/free-photo-of-kittens-playing-on-ground.jpeg" alt="two kittens" style="width:523px; height:339px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/17895618/pexels-photo-17895618/free-photo-of-kittens-playing-on-ground.jpeg" alt="two kittens" style="width:543px; height:359px; display: block; margin: 0 auto;">
 
 So when somebody tells you that you are stubborn, it’s up to you to decide whether it’s true or not. You don’t necessarily have to be affected by what they said as there is always a limitation on our capacity to fathom another person’s situation and vice versa. [If you do not feel comfortable hearing what someone else said (be it out of a positive or negative intent), the words are not meant for you. You have the choice to accept or reject it.](https://sliceofpower.com/2022-11-19-5-tips-on-becoming-unaffected-by-what-people-say/)
 
 If you think that what someone else said made sense and you start doubting yourself, it will be good reevaluate your decision by considering all possible choices or suggestions. This is not to make them happy or prove who is right in this, it is to give you a clearer understanding of your situation, so that you can make the best choice that you are willing to be accountable for.
 
 ## How is being stubborn a bad thing?
+<br/>
 
 ### You might be doing the wrong thing or ignoring the consequences
 
@@ -56,6 +57,7 @@ When you are stubborn, you tend to resist change - new ways of doing things and 
 </div>
 
 ## How is being stubborn a good thing?
+<br/>
 
 ### 1. You only need to answer to yourself. Not anyone else.
 
