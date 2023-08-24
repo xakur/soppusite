@@ -25,7 +25,7 @@ If you think that what someone else said made sense and you start doubting yours
 
 ## How is being stubborn a bad thing?
 
-### * You might be doing the wrong thing or ignoring the consequences
+### You might be doing the wrong thing or ignoring the consequences
 
 As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
 
@@ -37,20 +37,20 @@ At times, even if we are already aware of the consequences of the issue, we choo
 
 <div class="box-purple" style="text-align: left; background-color: #effde3;">
 <h3><b>How to resolve this?</b></h3>
-  <p>To ensure that your stubbornness or resolute mindset is not sabotaging you, you may want to list the reasons why you want to go ahead with a certain decision. Ideally, weigh the pros and cons of doing and not doing it.</p>
-  <p>Consider all angles, including what others might have told you. No one said that you must listen to what others tell you, but taking into account of other suggestions or advice can help you reach a well-informed decision. This is especially helpful when dealing with a serious issue.</p>
+<p>To ensure that your stubbornness or resolute mindset is not sabotaging you, you may want to list the reasons why you want to go ahead with a certain decision. Ideally, weigh the pros and cons of doing and not doing it.</p>
+<p>Consider all angles, including what others might have told you. No one said that you must listen to what others tell you, but taking into account of other suggestions or advice can help you reach a well-informed decision. This is especially helpful when dealing with a serious issue.</p>
 <p>When looking at the downsides of the decision, evaluate if you are prepared to bear the consequences if the worst case scenario happens.</p>
 <p>Always remember that you only have to answer to yourself at the end of the day. Whether you choose to listen to what others tell you or not, if anything were to go wrong, you must be responsible and bear the consequences of your own actions.</p>
 </div>
 
-### * It prevents you from growth
+### It prevents you from growth
 
 When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times. Stagnation can occur if you refuse to consider different perspectives or make an improvement from past mistakes. Refusing to be open-minded and clinging to your own perspectives without considering other viewpoints can hinder your personal growth, as it restricts your exposure to more knowledge and information.
 
 <div class="box-purple" style="text-align: left; background-color: #effde3;">
 <h3><b>How to resolve this?</b></h3>
-  <p>If you really insist on doing what you want without considering other options, you can give it a try first. However, if keeping to an old mindset does not bring about improvements and things do not turn out well, you need to start realizing that you need to change for the better. There has to be a “limit”. There is no point in keeping to a method that does not work for you anymore.</p>
-  <p>When you start welcoming new ideas, you may find that there are more than one way to approach the matter. Although a new idea or approach may not be the best for you in that moment, it might be helpful to you someday in the future. Thinking it through would more or less offer insights that might help you.</p>
+<p>If you really insist on doing what you want without considering other options, you can give it a try first. However, if keeping to an old mindset does not bring about improvements and things do not turn out well, you need to start realizing that you need to change for the better. There has to be a “limit”. There is no point in keeping to a method that does not work for you anymore.</p>
+<p>When you start welcoming new ideas, you may find that there are more than one way to approach the matter. Although a new idea or approach may not be the best for you in that moment, it might be helpful to you someday in the future. Thinking it through would more or less offer insights that might help you.</p>
 <p>When looking at the downsides of the decision, evaluate if you are ready to bear the consequences if the worst case scenario happens.</p>
 <p>So instead of rejecting all other ideas/suggestions immediately, try to have an open mind. Give yourself various options to think about, but ultimately follow what you think is best for you. See how it goes, and then make adjustments accordingly. Be open to new ideas.</p>
 </div>
