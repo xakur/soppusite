@@ -58,7 +58,9 @@ When you are stubborn, you tend to resist change - new ways of doing things and 
 
 <h3 style="padding-top: 40px;">1. You only need to answer to yourself. Not anyone else.</h3>
 
-It is fine to stay firm to your beliefs and decisions as this is your life, and you only need to answer to yourself. However, if your actions could impact others, be it a certain decision in a matter or a belief that you’re holding, you need to consider the opinions of others as well. For this scenario, you should spare a thought for others too. Otherwise, being stubborn can lead to selfishness as you are only concerned about your own needs. [In a team setting especially at work, stubborn people are seen as selfish and challenging to work with.](https://www.elitedaily.com/life/stubborn-people-self-assured/1192404)
+It is fine to stay firm to your beliefs and decisions as this is your life, and you only need to answer to yourself.
+
+However, if your actions could impact others, be it a certain decision in a matter or a belief that you’re holding, you need to consider the opinions of others as well. For this scenario, you should spare a thought for others too. Otherwise, being stubborn can lead to selfishness as you are only concerned about your own needs. [In a team setting especially at work, stubborn people are seen as selfish and challenging to work with.](https://www.elitedaily.com/life/stubborn-people-self-assured/1192404)
 
 If the decision or issue at hand only involves yourself, you are always free to do what you think is best, as long as you have valid reasons for making a certain decision or holding on to a belief. 
 
