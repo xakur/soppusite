@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Be Unaffected by the Past. Change for the Better.
+title: Let Go of the Past. Change for the Better.
 share-description: Cherish the present, for you are the best version of yourself in the present. No one can use your past against you when you have been improving and changing for the better. Work on what you can do right now, to bring you further away from the past.
 thumbnail-img: /assets/img/change-for-the-better.jpg
 categories: the-deep
@@ -30,7 +30,7 @@ Forgive the situation you were in and the past you had to go through. Know that 
 
 ## Why the past does not matter?
 
-No matter how bad the past was, as long as you **focus on the present and keep moving forward, you are disconnecting yourself from the past, step by step**. Every single small step counts. 
+No matter how bad the past was, as long as you **focus on the present and keep moving forward, you are disconnecting yourself from the past, step by step**. Let go of the past. Every single small step counts. 
 
 You cannot rewrite or change the past, but you can write how you want your present situation to be. You are in control of your current direction, leading you to your desired future.
 
@@ -42,7 +42,7 @@ Even if people who were part of your past were to bring up the dark side, it wil
 
 <img src="https://images.pexels.com/photos/2494693/pexels-photo-2494693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="weighing scale" style="width:351px; height:455px; display: block; margin: 0 auto;">
 
-The people you meet in the later part of your life would only know the current you. The you that you have established yourself to be. Even if they got to know your past, they would have already known that you are fine as you are through their interactions with you. The person that they like and want to be around with is who you are of the present day. 
+The people you meet in the later part of your life would only know the current you. The you that you have established yourself to be. Even if they got to know about your past, they would have already known that you are fine as you are through their interactions with you. The person that they like and want to be around with is who you are right now. 
 
 People change all the time. As long as you are striving to change for the better, you are becoming a better self. There's no need to worry about how bad your past was since it is already over and there is nothing that you can do about it.
 
@@ -52,7 +52,7 @@ Well, our past has definitely shaped us to a certain extent, so no matter how mu
 
 No matter how bad things were, even though the memories or feelings might come back on random days, there is no need to fret over them because we are always improving ourselves.
 
-There is no need to deny yourself of the past either. Accept that they happened and you already did what you could in the situation back then. As mentioned above, it is important to only take away the learning points of your past experiences.
+There is no need to deny yourself of the past either. Accept that they happened and you already did what you could in the situation back then. Gently let go of the past. As mentioned above, it is important to only take away the learning points of your past experiences.
 
 As long as we work on our flaws, improve ourselves and prevent the same mistakes from happening again, we do not have to feel troubled by what happened and how we once were.
 
