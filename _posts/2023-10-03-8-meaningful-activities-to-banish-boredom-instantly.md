@@ -21,7 +21,8 @@ So anytime when you feel bored, be it at home or outdoors, be sure to make use o
 
 ![laptop and phone](https://images.pexels.com/photos/296124/pexels-photo-296124.jpeg)
 
-## 2. Explore A New PC or Mobile Game (10 Minutes to 1 Hour)
+## 2. Explore A New PC or Mobile Game  
+## (10 Minutes to 1 Hour)
 
 Whether you have just 10 minutes to spare or a whole hour, gaming is a versatile activity that suits any schedule. You can enjoy it anywhere, as long as you have a mobile device with you.
 
