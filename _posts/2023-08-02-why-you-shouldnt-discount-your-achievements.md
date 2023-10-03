@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Shouldn’t Discount Your Achievements
+title: Recognize Your Achievements: Why You Shouldn’t Discount Your Accomplishments
 share-description: You shouldn't discount your achievements, because every task or achievement, whether big or small, contributes to your final goal. Don’t compare your achievements against the “norm”. It's your own breakthrough that matters the most. Be happy that you started doing something.
 thumbnail-img: "https://images.pexels.com/photos/3727463/pexels-photo-3727463.jpeg"
 categories: in-my-mind
