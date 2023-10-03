@@ -81,7 +81,8 @@ Researching destinations, activities, and accommodations can be exciting and mot
 
 Plan your next adventure according to your own needs. Note them down in a note-taking app or notebook for future use. It's a fantastic way to add some fun and excitement to your downtime, while also saving time on future planning.
 
-## 8.  Listen to Music or Watch a Show (5 Minutes to 1 Hour)
+## 8.  Listen to Music or Watch a Show  
+## (5 Minutes to 1 Hour)
 
 One of the most accessible and enjoyable ways to ward off boredom is to immerse yourself in the world of music or indulge in some screen time. These activities can easily cater to your schedule and preferences.
 
