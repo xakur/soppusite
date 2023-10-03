@@ -53,7 +53,7 @@ Additionally, here are a few prompts to help you get started on creating a grati
 
 **- Personal Relationships:** Consider your family, friends, or significant other. Reflect on the love and support they provide.  
 **- Health:** Be thankful for your physical and mental health. Appreciate the abilities and strengths you possess.  
-**- Simple Pleasures:** Sometimes, it's the little things that bring the most joy. Are you grateful for a delicious cup of coffee in the morning, a warm blanket, or a delicious meal?  
+**- Simple Pleasures:** Sometimes, it's the little things that bring the most joy. Are you grateful for a good cup of coffee in the morning, a warm blanket, or a delicious meal?  
 **- Experiences:** Recall memorable experiences or adventures that have enriched your life.  
 
 ## 5. Send a Thoughtful Message (5 Minutes)
