@@ -33,10 +33,11 @@ Before we tackle strategies to conquer overthinking, it's vital to understand th
 
 Although the act of overthinking itself does not bring about serious harm, it can still bring about real and detrimental effects on various aspects of our lives:
 
-* ###### Increased Stress and Anxiety:
+##### Increased Stress and Anxiety:
 Overthinking heightens stress levels, leading to chronic anxiety, sleep disturbances, and even panic attacks.
     
-* **Reduced Productivity:** The more we overthink, the less we achieve. It affects our ability to focus on tasks and make decisions promptly. We spend too much time worrying about the future instead of focusing on the present to get things done.\</li>
+#### Reduced Productivity:
+The more we overthink, the less we achieve. It affects our ability to focus on tasks and make decisions promptly. We spend too much time worrying about the future instead of focusing on the present to get things done.
 
 * Strained Relationships:</b> Questioning another person's intentions or behavior constantly can cause relationships to become strained, weakening trust and intimacy.
 
