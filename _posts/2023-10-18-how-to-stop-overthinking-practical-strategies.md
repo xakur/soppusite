@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Stop Overthinking: Practical Strategies for a Calmer Mind
+title: How to Stop Overthinking - Practical Strategies for a Calmer Mind
 share-description: 
 thumbnail-img: "https://images.pexels.com/photos/587836/pexels-photo-587836.jpeg"
 categories: life-tips
