@@ -27,7 +27,7 @@ Before we tackle strategies to conquer overthinking, it's vital to understand th
     
 4. **Confirmation Bias:** Confirmation bias refers to the tendency to search for information that supports and confirms our beliefs, while rejecting information that might challenge those beliefs. Overthinkers may selectively focus on information that confirms their fears or anxieties while dismissing contradictory evidence.
     
-5. **Decision Avoidance:** Fear of making the wrong choice can lead to indecision and prolonged contemplation. Overthinkers often envision the consequences of a wrong decision as catastrophic, leading them to have a hard time in coming to a decision.
+5. **Decision Avoidance:** Fear of making the wrong choice can lead to indecision and prolonged contemplation. Overthinkers often envision the consequences of a wrong decision as catastrophic, causing them to have a hard time to make a decision.
 
 ![troubled man on bench](https://images.pexels.com/photos/1134204/pexels-photo-1134204.jpeg)
 
