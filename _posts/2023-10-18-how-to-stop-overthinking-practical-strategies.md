@@ -33,20 +33,18 @@ Before we tackle strategies to conquer overthinking, it's vital to understand th
 
 Although the act of overthinking itself does not bring about serious harm, it can still bring about real and detrimental effects on various aspects of our lives:
 
-##### Increased Stress and Anxiety:
-Overthinking heightens stress levels, leading to chronic anxiety, sleep disturbances, and even panic attacks.
+1. **Increased Stress and Anxiety:** Overthinking heightens stress levels, leading to chronic anxiety, sleep disturbances, and even panic attacks.
     
-#### Reduced Productivity:
-The more we overthink, the less we achieve. It affects our ability to focus on tasks and make decisions promptly. We spend too much time worrying about the future instead of focusing on the present to get things done.
+2. **Reduced Productivity:** The more we overthink, the less we achieve. It affects our ability to focus on tasks and make decisions promptly. We spend too much time worrying about the future instead of focusing on the present to get things done.
 
-* Strained Relationships:</b> Questioning another person's intentions or behavior constantly can cause relationships to become strained, weakening trust and intimacy.
+3. **Strained Relationships:** Questioning another person's intentions or behavior constantly can cause relationships to become strained, weakening trust and intimacy.
 
-<li><b>Physical Health Issues:</b> Prolonged stress brought on by overthinking can cause issues such as headaches, muscle strain, and digestive problems.</li>
+4. **Physical Health Issues:** Prolonged stress brought on by overthinking can cause issues such as headaches, muscle strain, and digestive problems.
 
-<li><b>Procrastination:</b> Overthinkers often put off tasks due to fear of not doing them perfectly, which can lead to procrastination.</li>
-
+5. **Procrastination:** Overthinkers often put off tasks due to fear of not doing them perfectly, which can lead to procrastination.
 
 ## Practical Strategies to Stop Overthinking
+
 
 ### 1. Mindfulness Meditation
 
