@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stop Overthinking - Practical Strategies for a Calmer Mind
-share-description: 
+share-description: Stop overthinking · Challenge Negative Thoughts · Stay Engaged in Activities · Mindfulness Meditation · Set Time for Reflection · Create a To-Do List
 thumbnail-img: "https://images.pexels.com/photos/587836/pexels-photo-587836.jpeg"
 categories: life-tips
 tags: life-tips
