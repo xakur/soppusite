@@ -29,6 +29,8 @@ Before we tackle strategies to conquer overthinking, it's vital to understand th
     
 5. **Decision Avoidance:** Fear of making the wrong choice can lead to indecision and prolonged contemplation. Overthinkers often envision the consequences of a wrong decision as catastrophic, leading them to have a hard time in coming to a decision.
 
+![troubled man on bench](https://images.pexels.com/photos/1134204/pexels-photo-1134204.jpeg)
+
 ## Consequences of Overthinking
 
 Although the act of overthinking itself does not bring about serious harm, it can still bring about real and detrimental effects on various aspects of our lives:
@@ -61,6 +63,8 @@ When worries pop up outside of this time frame, gently remind yourself to save t
 ### 3. Challenge Negative Thoughts
 
 When you catch yourself in a cycle of negative thinking, start by questioning the foundation of your thoughts. Are they based on concrete facts or mere assumptions? Often, our minds tend to assume the worst possible outcomes without substantial evidence to support these beliefs. We tend to expect the worst when past experiences have shown that setting our hopes too high can lead to huge disappointment.
+
+![woman in thought](https://images.pexels.com/photos/3768144/pexels-photo-3768144.jpeg)
 
 Instead of rejecting potential positive outcomes to shield yourself from potential disappointment, adopt a more rational approach. Carefully assess the situation, considering both potential risks and rewards, before making a decision. This balanced evaluation can help you make more informed choices, reducing the tendency to overthink by finding a middle ground between pessimism and unrealistic optimism. Challenge irrational beliefs and replace them with more balanced ones. 
 
