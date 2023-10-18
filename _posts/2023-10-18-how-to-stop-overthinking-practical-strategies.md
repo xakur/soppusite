@@ -45,7 +45,7 @@ Although the act of overthinking itself does not bring about serious harm, it ca
 
 ## Practical Strategies to Stop Overthinking
 
-<h3 style="padding-top: 3px;">1. Mindfulness Meditation</h3>
+<h3 style="padding-top: 10px;">1. Mindfulness Meditation</h3>
 
 Mindfulness meditation involves focusing your attention on the present moment. Mindfulness meditation is like taking a break to focus on only yourself as you focus on your breathing. As you focus on your breathing, you are able to slow down your racing thoughts. Focus on being in the present moment. Breathe and let go of tension. Let your mind quieten down amidst all the chaos.
 If you do not know how to meditate, you can start by looking for guided meditation videos on YouTube. There are different types of meditation tailored to different needs, e.g. self-love meditation, meditation for calm, anxiety meditation. Typically, these videos incorporate positive affirmations to help you feel better. Depending on the video or audio, a guided meditation can range from 10 minutes to an hour. 
