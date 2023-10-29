@@ -15,7 +15,7 @@ Boredom strikes us all at some point, but it can be an invitation to engage in m
 
 ## 1. Organize Your Digital Files (10 Minutes)
 
-You can make use of your free time productively by tidying up your digital files, photos, or emails. We tend to pile up our photos and emails on our devices, only to remember to clear them when we start running out of space. We tend to overlook the need to organize digital files.
+You can make use of your free time productively by tidying up your digital files, photos, or emails. We tend to pile up photos and emails on our devices, only to remember to clear them when we start running out of space. We tend to overlook the need to organize digital files.
 
 So anytime when you feel bored, be it at home or outdoors, be sure to make use of the time to organize and clear your digital files. A clutter-free digital space can boost productivity and help you find what you need more efficiently.
 
