@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let Go of the Past. Change for the Better.
-share-description: Cherish the present, for you are the best version of yourself in the present. No one can use your past against you when you have been improving and changing for the better. Work on what you can do right now, to bring you further away from the past.
+share-description: Cherish the present, for you are the best version of yourself in the present. You are disconnecting yourself from the past by being in the present. Work on what you can do right now, to bring you further away from the past.
 thumbnail-img: /assets/img/change-for-the-better.jpg
 categories: the-deep
 tags: the-deep
@@ -28,7 +28,7 @@ We need to let ourselves go by forgiving ourselves for our past. Things happened
 
 Forgive the situation you were in and the past you had to go through. Know that it is all over now and your destiny lies in your hands.
 
-## Why the past does not matter?
+## Does the Past Matter?
 
 No matter how bad the past was, as long as you **focus on the present and keep moving forward, you are disconnecting yourself from the past, step by step**. Let go of the past. Every single small step counts. 
 
