@@ -11,13 +11,18 @@ excerpt: Stubbornness is a subjective opinion. What I think is stubborn behavior
 
 ![man and woman discussing something](https://images.pexels.com/photos/6964115/pexels-photo-6964115.jpeg)
 
+{:.image-caption}
+*Image Credit: Mikhail Nilov/Pexels*
+
 Stubbornness is a subjective opinion. What I think is stubborn behavior, others might not think so. It’s an observed trait that people give or tell us and vice versa. Most of the time, we probably don’t know when we are being stubborn.
 
 Stubbornness is often felt when we see someone hold on to a belief that we deem wrong or unsuitable. In many cases, stubbornness is felt when either a decision needs to be made or an action is required - the person involved insists on doing what they want, disregarding other suggestions. We thus see them as stubborn in their thinking or ways, as they are not receptive to change or better ideas. We typically think that they are not doing the right thing.
 
 However, as much as we have our reasons for giving suggestions, they might have their strong reasons for insisting on their stance. It is a matter of perspective.
 
+<figure>
 <img src="https://images.pexels.com/photos/17895618/pexels-photo-17895618/free-photo-of-kittens-playing-on-ground.jpeg" alt="two kittens" style="width:543px; height:359px; display: block; margin: 0 auto;">
+<image-caption><i>Image Credit: Vladimir Srajber/Pexels</i></image-caption>
 
 So when somebody tells you that you are stubborn, it’s up to you to decide whether it’s true or not. You don’t necessarily have to be affected by what they said as there is always a limitation on our capacity to fathom another person’s situation and vice versa. [If you do not feel comfortable hearing what someone else said (be it out of a positive or negative intent), the words are not meant for you. You have the choice to accept or reject it.](https://sliceofpower.com/2022-11-19-5-tips-on-becoming-unaffected-by-what-people-say/)
 
