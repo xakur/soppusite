@@ -20,13 +20,12 @@ To be honest, I was quite amused when I first came across this term. It is actua
 
 On another occasion, on a troubled day, I randomly listened to this song and sang along with it. “So Goodbye Happiness~”, I felt an instant relief. As if all my pent up tension was instantly released. The following line was in Japanese but it wasn’t so much about that that brought me a sense of lightness and enlightenment. The upbeat melody allowed me to let loose and be free of all obligations as I said goodbye to happiness. At the same time, the idea of Goodbye Happiness cracked me up; it doesn’t sound right, yet it does as well, as I sung along with the song. This song title really lightened my mood in various ways. It’s a pretty good song too. 
 
-<iframe width="703" height="360" src="https://www.youtube.com/embed/rUhhPZtYl7Y" title="宇多田ヒカル - Goodbye Happiness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="723" height="360" src="https://www.youtube.com/embed/rUhhPZtYl7Y" title="宇多田ヒカル - Goodbye Happiness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Certainly, my focus today is not on the song. But simply, the idea of saying “goodbye happiness” – feeling free from the never-ending pursuit of happiness. Letting go of the need to achieve something in order to be happy, letting go of the perfect idea of “Happiness”.
 
 ## Goodbye Happiness – What does it mean?
-
-
+<br/>
 * Quite literally, it means saying bye to happiness! 
 * Letting go of the idea of happiness and be in the present.
 * Find comfort in whatever you currently have!
