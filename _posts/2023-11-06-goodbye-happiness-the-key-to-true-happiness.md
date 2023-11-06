@@ -10,6 +10,7 @@ excerpt: I’m saying goodbye to happiness. I said bye before and I instantly fe
 ---
 
 ![woman waving](https://images.pexels.com/photos/3808845/pexels-photo-3808845.jpeg)
+
 {:.image-caption}
 *Image Credit: Andrea Piacquadio/Pexels*
 
