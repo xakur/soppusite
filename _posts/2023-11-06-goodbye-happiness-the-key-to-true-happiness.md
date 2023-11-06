@@ -37,7 +37,7 @@ Certainly, my focus today is not on the song. But simply, the idea of saying “
 </div>
 
 #### If happiness hasn’t arrived despite having tried so hard, I go by this mindset...
-<p style="margin-top: -2px; font-size:17px;"><i>“Screw it! Screw Happiness! I’m just gonna live however I want, do whatever I want and stop being restrained by the thought of happiness.”</i></p>
+<p style="margin-top: -1px; font-size:17px;"><i>“Screw it! Screw Happiness! I’m just gonna live however I want, do whatever I want and stop being restrained by the thought of happiness.”</i></p>
 
 The idea behind this mentality is that I’m not going to chase after happiness anymore. 
 
