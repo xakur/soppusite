@@ -68,9 +68,11 @@ We cannot control the future nor change the past. You only have control over thi
 
 ### Reason 2: Goodbye? Happiness is already with you.
 
-Sometimes, we might have to put in the extra effort to discover happiness from within our circumstances when everything feels overwhelming. There is always a little something to be happy and grateful for in our lives. This could be the random acts of kindness or supportive messages that you have received, to have kept you going till today. If you truly cannot find something to be happy for…
+Sometimes, we might have to put in the extra effort to discover happiness from within our circumstances when everything feels overwhelming. There is always a little something to be happy and grateful for in our lives. This could be the random acts of kindness or supportive messages that you have received, to have kept you going till today. 
 
-<p style="text-align: center;"><b>Be happy for yourself. You are your own happiness.</b></p>
+If you truly cannot find something to be happy for…
+
+#### Be happy for yourself. You are your own happiness.
 
 Despite all the chaos in life, you are still here, alive and functioning as best as you can to keep going. You, your mind and body have all helped you to reach where you are today. Isn’t that something to be happy about?
 
