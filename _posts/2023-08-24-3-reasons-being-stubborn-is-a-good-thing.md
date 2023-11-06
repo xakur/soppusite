@@ -74,6 +74,9 @@ If we encounter something bad due to our stubbornness, all we have to do is to l
 
 ![person touching leaves](https://images.pexels.com/photos/17948053/pexels-photo-17948053.jpeg)
 
+{:.image-caption}
+*Image Credit: Karim Ayman/Pexels*
+
 As our life situations change over time, we may even begin to realize that certain beliefs that we have held are no longer doing us any good. Life situations change and we start to accept new beliefs that would better fit into our current lives. This includes beliefs that we were once resistant to. There are also times in life where we would realize later on that our past actions and thoughts were not for the best, just like what people had once told us.
 
 Whichever it is, we learn as we grow. We never really know who is right or wrong till we experienced it ourselves.
