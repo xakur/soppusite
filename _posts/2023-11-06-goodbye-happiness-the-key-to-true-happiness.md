@@ -53,7 +53,7 @@ It can be stressful to keep having the thought that we need to “do something�
 
 The journey of trying to chase after a specific goal or happiness itself can seem like a never-ending daunting task.
 
-We sometimes only start to realize the happiness that we have after comparing our situation against someone else’s. However, I think comparison is not the best approach as [it involves using either your situation or someone’s situation as a benchmark, to see who is better or worse, and gaining relief from it.](https://sliceofpower.com/2023-03-16-how-comparing-can-make-you-miserable/) 
+We sometimes only start to realize the happiness that we have after comparing our situation against someone else’s. However, making comparisons is not the best approach as [it involves using either your situation or someone’s situation as a benchmark, to see who is better or worse, and gaining relief from it.](https://sliceofpower.com/2023-03-16-how-comparing-can-make-you-miserable/) 
 
 That shouldn’t be how things work. True happiness can only be defined by yourself. You know what you want.
 
@@ -61,9 +61,9 @@ That shouldn’t be how things work. True happiness can only be defined by yours
 
 When you’re tired of pursuing happiness, it is no longer serving you well. Resetting your mind to zero will be helpful.
 
-Saying goodbye to happiness does not mean that you will instantly feel sad either. It works similarly to how you typically won’t feel good right after crying over something that's making you sad. You will just be in a neutral mood, cleared of whatever emotion that was occupying you. Reset to a balanced state.
+"Goodbye Happiness" might seem like a negative scenario, as if we are giving up on happiness and that sadness takes over. But that's totally not the case! Saying goodbye to happiness does not mean that you will immediately feel sad. It works similarly to how you typically won’t feel "happy" right after crying over something that's making you sad. You will just be in a neutral mood, cleared of whatever emotion that was occupying you. Reset to a balanced state.
 
-Feel that instant relief. You do not have to answer for happiness nor do you have to be in a rush to fulfill something. Just do you, at your own pace.
+Feel that instant relief - you no longer have to answer for happiness nor do you have to be in a rush to fulfill something. Just do you, at your own pace.
 
 ![person lying on grass](https://images.pexels.com/photos/90440/pexels-photo-90440.jpeg)
 
