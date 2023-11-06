@@ -16,15 +16,15 @@ excerpt: I’m saying goodbye to happiness. I said bye before and I instantly fe
 
 I’m saying goodbye to happiness. I said bye before and I instantly felt better. If you’re reading this right now, you might go, “Huh? What do you mean ‘goodbye happiness’? What does that even mean?”
 
-To be honest, I was quite amused when I first came across this term. It is actually the title of a song by Japanese-American singer-songwriter, Hikaru Utada. (I’m a huge fan.) It stood out to me when I was watching a really old interview of them discussing about the set list of their concert and how they wanted the song to sound. The song title suddenly sounded hilarious to me. Right! Goodbye Happiness! What a concept!
+To be honest, I was quite amused when I first came across this term. It is actually the title of a song by Japanese-American singer-songwriter, Hikaru Utada. (I’m a huge fan.) It stood out to me when I was watching a really old interview of them discussing about the set list of their concert and how they wanted the song to be presented. The song title suddenly sounded hilarious to me. Right! Goodbye Happiness! What a concept!
 
-On another occasion, on a troubled day, I randomly listened to this song and sang along with it. “So Goodbye Happiness~”, I felt an instant relief. As if all my pent up tension was instantly released. The following lines were in Japanese. Although I understand the context of the entire song, it wasn't so much about that that brought me a sense of lightness and enlightenment. The song title itself did.
+On another occasion, on a troubled day, I randomly listened to this song and sang along with it. *“So Goodbye Happiness~”*, and I felt an instant relief. As if all my pent up tension was instantly released. The following lines were in Japanese. Although I understand the context of the entire song, it wasn't so much about that that brought me a sense of lightness and enlightenment. The song title itself did.
 
-The upbeat melody allowed me to let loose and be free of all obligations as I said goodbye to happiness. At the same time, the idea of Goodbye Happiness cracked me up; it doesn’t sound right, yet it does as well, as I sung along with the song. This song title really lightened my mood in various ways. It’s a pretty good song too. 
+The upbeat melody allowed me to let loose and be free of all obligations as I said goodbye to happiness. At the same time, the idea of Goodbye Happiness cracked me up; it doesn’t sound right, yet it does as well, as I sang along with the song. This song title really lightened my mood in various ways. It’s a pretty good song too. 
 
 <iframe width="723" height="360" src="https://www.youtube.com/embed/rUhhPZtYl7Y" title="宇多田ヒカル - Goodbye Happiness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Certainly, my focus today is not on the song. But simply, the idea of saying “goodbye happiness” – feeling free from the never-ending pursuit of happiness. Letting go of the need to achieve something in order to be happy, letting go of the perfect idea of “Happiness”.
+Certainly, my focus today is not on the song. But simply, the idea of saying “goodbye happiness” – feeling free from the never-ending pursuit of happiness. Letting go of the need to achieve something in order to be happy. Letting go of the perfect idea of “Happiness”.
 
 ## Goodbye Happiness – What Does It Mean?
 
