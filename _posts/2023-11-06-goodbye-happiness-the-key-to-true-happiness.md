@@ -76,17 +76,19 @@ If you truly cannot find something to be happy for…
 
 Despite all the chaos in life, you are still here, alive and functioning as best as you can to keep going. You, your mind and body have all helped you to reach where you are today. Isn’t that something to be happy about?
 
-So at any point in time, if you feel that you have not reached your optimum state and feel the absence of happiness, just take a look at what you’ve actually achieved. Be happy for yourself. Say thank you to yourself for all the roads that you’ve taken, the challenges that you have overcome and your strong will to keep fighting.
+So at any point in time, if you feel that you have not reached your optimum state and feel the absence of happiness, just take a look at what you’ve actually achieved.
+
+Be happy for yourself. Say thank you to yourself for all the roads that you’ve taken, the challenges that you have overcome and your strong will to keep fighting.
 
 ## The Way to True Happiness
 
-Free yourself from the burdens of seeking happiness. Be in the present, embrace all the comfort that is available to you, and you will be truly happy.
+Free yourself from the burdens of seeking happiness. You will experience true happiness by living in the moment and embrace all of the comforts that are available to you.
 
 [Being in the present enables us to fully experience everything that is around us.](https://time.com/collection/guide-to-happiness/4856944/secrets-happier-life/) Choosing to live in the present can alleviate anxiety, saving your valuable time and mental energy from being consumed by thoughts about the future. 
 
 Once you have got hold of your present circumstances, you will be in a better mental state to reach out to happiness. How? In a better frame of mind, you will take proactive steps to make you feel better or maintain your current sense of contentment. But even if you don’t want to do anything extra, that’s fine too.
 
-The key is to find comfort in the present, especially during those moments of burnout when it feels like you cannot move forward anymore. Drop everything, and engage in activities that you enjoy. For example, if watching a show makes you happy, do it. Do what it takes to maintain your inner peace and contentment. It doesn’t matter even if these inner feelings are at low levels at the moment. Recharging yourself by doing what you enjoy would help to build it up.
+**The key is to find comfort in the present**, especially during those moments of burnout when it feels like you cannot move forward anymore. Drop everything, and engage in activities that you enjoy. For example, if watching a show makes you happy, do it. Do what it takes to maintain your inner peace and contentment. It doesn’t matter even if these inner feelings are at low levels at the moment. Recharging yourself by doing what you enjoy would help to build it up.
 
 Once your mind feels more at ease and refreshed, you will have more energy to do more things that continue to contribute to your well-being. These “more things” vary from person to person. It could range from something simple like playing a new game and having fun, to learning a new skill to help you reach your ultimate goal. 
 The important thing is to constantly keep that pleasant state of mind to propel you forward. 
