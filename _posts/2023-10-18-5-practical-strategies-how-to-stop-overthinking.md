@@ -11,6 +11,9 @@ excerpt: Overthinking is a common mental habit that many of us grapple with dail
 
 ![silhouette of lady at the beach](https://images.pexels.com/photos/587836/pexels-photo-587836.jpeg)
 
+{:.image-caption}
+*Image Credit: Martijn Adegeest/Pexels*
+
 Overthinking is a common mental habit that many of us grapple with daily. It's the process of analyzing, replaying, and overanalyzing past events or obsessing about future scenarios. While it's natural to contemplate choices or ruminate on experiences occasionally, overthinking can become a harmful cycle that disrupts our peace of mind and stifles productivity. Sometimes, as we overthink, we might even start doubting ourselves in everything that we do. It is important to [take things easy and avoid being too hard on ourselves when our minds start overthinking and becoming doubtful of ourselves.](https://sliceofpower.com/2022-12-15-how-to-stay-hopeful-in-times-of-doubt/)
 
 In this comprehensive article, we will delve into the roots of overthinking, explore its consequences, and, most importantly, provide practical strategies to help you break free from its grasp.
@@ -30,6 +33,9 @@ Before we tackle strategies to conquer overthinking, it's vital to understand th
 5. **Decision Avoidance:** Fear of making the wrong choice can lead to indecision and prolonged contemplation. Overthinkers often envision the consequences of a wrong decision as catastrophic, causing them to have a hard time to make a decision.
 
 ![troubled man on bench](https://images.pexels.com/photos/1134204/pexels-photo-1134204.jpeg)
+
+{:.image-caption}
+*Image Credit: Inzmam Khan/Pexels*
 
 ## Consequences of Overthinking
 
@@ -66,6 +72,9 @@ When worries pop up outside of this time frame, gently remind yourself to save t
 When you catch yourself in a cycle of negative thinking, start by questioning the foundation of your thoughts. Are they based on concrete facts or mere assumptions? Often, our minds tend to assume the worst possible outcomes without substantial evidence to support these beliefs. We tend to expect the worst when past experiences have shown that setting our hopes too high can lead to huge disappointment.
 
 ![woman in thought](https://images.pexels.com/photos/3768144/pexels-photo-3768144.jpeg)
+
+{:.image-caption}
+*Image Credit: Andrea Piacquadio/Pexels*
 
 Instead of rejecting potential positive outcomes to shield yourself from potential disappointment, adopt a more rational approach. Carefully assess the situation, considering both potential risks and rewards, before making a decision. This balanced evaluation can help you make more informed choices, reducing the tendency to overthink by finding a middle ground between pessimism and unrealistic optimism. Challenge irrational beliefs and replace them with more balanced ones. 
 
