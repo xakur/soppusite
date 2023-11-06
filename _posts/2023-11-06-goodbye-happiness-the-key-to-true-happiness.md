@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Goodbye Happiness: The Key to True Happiness
+title: "Goodbye Happiness: The Key to True Happiness"
 share-description: 
 thumbnail-img: "https://images.pexels.com/photos/3808845/pexels-photo-3808845.jpeg"
 categories: the-deep
