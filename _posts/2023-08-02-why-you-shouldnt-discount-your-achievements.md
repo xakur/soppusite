@@ -11,6 +11,9 @@ excerpt: Have you ever completed something and felt like, despite the admiration
 
 ![woman looking at results](https://images.pexels.com/photos/3727463/pexels-photo-3727463.jpeg)
 
+{:.image-caption}
+*Image Credit: Anna Shvets/Pexels*
+
 Have you ever completed something and felt like, despite the admiration from others, what you just did doesn't feel like something significant? Or that people are just being kind to you? 
 
 That’s me most of the time. I either don’t feel anything or I would feel strange when I receive admiration or praises like this. “It’s not that big of a deal! So many people have accomplished it”, I’d think to myself.
@@ -18,6 +21,7 @@ That’s me most of the time. I either don’t feel anything or I would feel str
 It’s easy to brush off my achievements, thinking that they were nothing since so many other people have achieved the same thing. So why would it be something worth acknowledging or celebrating?
 
 <img src="https://images.pexels.com/photos/2962105/pexels-photo-2962105.jpeg" alt="man in his thoughts" style="width:533px; height:300px; display: block; margin: 0 auto;">
+<p class="image-caption"><i>Image Credit: Athena/Pexel</i></p>
 
 I reflected upon this recently after someone told me that they were impressed by my work. I thought nothing of it at first, but as I thought back on the journey, I recalled how much pain I had to go through in order to finally achieve what I had in mind. It wasn’t just a walk in the park. In fact, it had been a frustrating journey full of self-doubt because I wasn’t very familiar with the topic at hand. I had to seek my own resources and do everything by myself.
 
@@ -34,6 +38,9 @@ I often don’t give myself a breather or rather, don’t think that I deserve a
 _"So many other random people around the world have accomplished the same things... My completion of these very same things isn't something significant."_
 
 ![frustrated man](https://images.pexels.com/photos/52608/pexels-photo-52608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+{:.image-caption}
+*Image Credit: Tim Gouw/Pexels*
 
 I was always like this and I only realized how unreasonable I was after I briefly shared with a few people what I was dealing with.
 
@@ -58,6 +65,9 @@ It’s your own breakthrough that matters the most. This occurs at various point
 I do look up to several people and have a high expectation of myself. I think it’s fine to have our own standards. It’s a matter of personal preference. Ideally, we should maintain a balance in everything. We can aim higher and not settle for anything less, but we should not be overly critical of ourselves too. We need to remember that it is our personal breakthrough that matters the most and we should **recognize every personal achievement, whether big or small**.
 
 ![cheerful man](https://images.pexels.com/photos/3974771/pexels-photo-3974771.jpeg)
+
+{:.image-caption}
+*Image Credit: Andrea Piacquadio/Pexels*
 
 Just because something is self-perceived as “easy” and “expected” does not mean that there’s no value behind it. [On the contrary, we might even become demotivated by the thought of trying to accomplish a big goal as it can seem overwhelming at times](https://sliceofpower.com/2023-05-19-how-to-manifest-something-focus-on-the-little-steps/). Hence, it may be more helpful to focus on the small steps or small tasks instead. After all, every little task make up the final goal.
 
