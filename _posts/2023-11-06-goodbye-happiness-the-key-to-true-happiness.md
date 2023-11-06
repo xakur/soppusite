@@ -53,7 +53,7 @@ It can be stressful to keep having the thought that we need to “do something�
 
 The journey of trying to chase after a specific goal or happiness itself can seem like a never-ending daunting task.
 
-We sometimes only start to realize the happiness that we have after comparing our situation against someone else’s. However, making comparisons is not the best approach as [it involves using either your situation or someone’s situation as a benchmark, to see who is better or worse, and gaining relief from it.](https://sliceofpower.com/2023-03-16-how-comparing-can-make-you-miserable/) 
+We sometimes only start to realize the happiness we have after comparing our situation against someone else’s. However, making comparisons is not the best approach as [it involves using either your situation or someone’s situation as a benchmark, to see who is better or worse, and gaining relief from it.](https://sliceofpower.com/2023-03-16-how-comparing-can-make-you-miserable/) 
 
 That shouldn’t be how things work. True happiness can only be defined by yourself. You know what you want.
 
