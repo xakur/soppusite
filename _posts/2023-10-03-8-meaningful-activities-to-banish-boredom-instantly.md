@@ -11,6 +11,9 @@ excerpt: Boredom strikes us all at some point, but it can be an invitation to en
 
 ![bored guy in pink shirt](https://images.pexels.com/photos/2836477/pexels-photo-2836477.jpeg)
 
+{:.image-caption}
+*Image Credit: Maria Geller/Pexels*
+
 Boredom strikes us all at some point, but it can be an invitation to engage in meaningful and fulfilling activities. The next time you find yourself bored, consider these 8 meaningful activities you can do right away. These simple yet engaging activities offer opportunities for personal growth and self-discovery, regardless of your schedule — whether you have just a few minutes to spare or a leisurely hour, there's something here for everyone to banish boredom instantly and make the most of your time.
 
 ## 1. Organize Your Digital Files (10 Minutes)
@@ -20,6 +23,9 @@ You can make use of your free time productively by tidying up your digital files
 So anytime when you feel bored, be it at home or outdoors, be sure to make use of the time to organize and clear your digital files. A clutter-free digital space can boost productivity and help you find what you need more efficiently.
 
 ![laptop and phone](https://images.pexels.com/photos/296124/pexels-photo-296124.jpeg)
+
+{:.image-caption}
+*Image Credit: Lukas/Pexels*
 
 ## 2. Explore A New PC or Mobile Game  
 ## (10 Minutes to 1 Hour)
@@ -35,6 +41,9 @@ This applies to PC games too. If you do not want to spend money on games, do che
 Reading is a fantastic way to escape boredom and we do not even need to carry a physical book around these days. We could easily engage in online reading (e.g. ebooks, blogs), and you can always find something to read when you are bored. It does not have to take up too much of your time, if you do not have much time to spare. Even just reading for 10-20 minutes can [bring about various benefits, such as lowering your stress level](https://basmo.app/reading-20-minutes-a-day/).
 
 ![kindle ebook](https://images.pexels.com/photos/12627/pexels-photo-12627.jpeg)
+
+{:.image-caption}
+*Image Credit: freestocks.org/Pexels*
 
 Reading not only entertains but also broadens your horizons and stimulates your imagination. What I love most about reading is how stories often have a way of pulling me into different worlds. It is a fantastic way to kill boredom while also providing a break from our everyday routines. It's always fascinating to read about someone else's experiences or point of view (in non-fiction) or to enter an entirely new universe (in fiction). Either way, it’s bound to keep you engaged and entertained.
 
@@ -71,6 +80,9 @@ All kinds of recipes exist and there is always something new to explore. Dependi
 Learning a new recipe is a fulfilling way to make the most of your time. You will be able to refine your culinary skill, and expand on the variety of food that you can cook.
 
 ![cooking at home](https://images.pexels.com/photos/5971874/pexels-photo-5971874.jpeg)
+
+{:.image-caption}
+*Image Credit: Vanessa Loring/Pexels*
 
 ## 7. Plan Your Next Adventure (10 to 20 Minutes)
 
