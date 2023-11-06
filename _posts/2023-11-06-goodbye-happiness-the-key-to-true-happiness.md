@@ -26,10 +26,10 @@ Certainly, my focus today is not on the song. But simply, the idea of saying “
 
 ## Goodbye Happiness – What Does It Mean?
 
-<div style="text-align: center;padding-top: 28px;">
-<p>Quite literally, it means saying bye to happiness!</p>
-<p>To <b>let go</b> of the idea of happiness and be in the present.</p>
-<p><b>Find comfort</b> in whatever you currently have!</p>
+<div style="padding-top: 28px;padding-bottom:15px;">
+<li>Quite literally, it means saying bye to happiness!</li>
+<li>To <b>let go</b> of the idea of happiness and be in the present.</li>
+<li>Find comfort in whatever you currently have!</li>
 </div>
 
 #### If happiness hasn’t arrived despite having tried so hard, I go by this mindset...
