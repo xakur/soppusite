@@ -61,7 +61,9 @@ That shouldn’t be how things work. True happiness can only be defined by yours
 
 When you’re tired of pursuing happiness, it is no longer serving you well. Resetting your mind to zero will be helpful.
 
-"Goodbye Happiness" might seem like a negative scenario, as if we are giving up on happiness and that sadness takes over. But that's totally not the case! Saying goodbye to happiness does not mean that you will immediately feel sad. It works similarly to how you typically won’t feel "happy" right after crying over something that's making you sad. You will just be in a neutral mood, cleared of whatever emotion that was occupying you. Reset to a balanced state.
+"Goodbye Happiness" might seem like a negative scenario, as if we are giving up on happiness and that sadness takes over. But that's not the case! Saying goodbye to happiness does not mean that you will immediately feel sad.
+
+It works similarly to how you typically won’t feel "happy" right after crying over something that's making you sad. You will just be in a neutral mood, cleared of whatever emotion that was occupying you. Reset to a balanced state.
 
 Feel that instant relief - you no longer have to answer for happiness nor do you have to be in a rush to fulfill something. Just do you, at your own pace.
 
@@ -72,9 +74,9 @@ Feel that instant relief - you no longer have to answer for happiness nor do you
 
 Starting immediately, give yourself space and time to live in the present. Instead of feeling troubled over the thought of happiness, take time to appreciate your present self in this very moment. Free yourself from the burden and focus on the present.
 
-Things are always changing in this world. We can never predict how things will turn out or how circumstances may change that that would affect our journeys.
+Things are always changing. We can never predict how things will turn out or how circumstances may change that that would affect our journeys.
 
-We cannot control the future nor change the past. You only have control over things in the present, which is why you are always the best version of yourself in this very moment.
+We cannot control the future nor change the past. We only have control over things in the present.
 
 Trust in the power of the present moment, as it provides you with the best resources. It is up to you to do what you want with it. Find comfort and believe that you are fine as you are right now.
 
