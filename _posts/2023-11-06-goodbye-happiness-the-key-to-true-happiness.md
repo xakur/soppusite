@@ -20,7 +20,7 @@ To be honest, I was quite amused when I first came across this term. It is actua
 
 On another occasion, on a troubled day, I randomly listened to this song and sang along with it. 
 
-*“So Goodbye Happiness~”*, I instantly felt a sense of relief, as if all my pent up tension was instantly released. The following lines were in Japanese. Although I understand the context of the entire song, it wasn't so much about that that brought me a sense of lightness and enlightenment. The song title itself did.
+*“So Goodbye Happiness~”*, I instantly felt a sense of relief, as if all my pent up tension were instantly released. The following lines were in Japanese and although I understand the context of the entire song, it wasn't so much about that that brought me a sense of lightness and enlightenment. The song title itself did.
 
 The upbeat melody allowed me to let loose and be free of all obligations as I said goodbye to happiness. At the same time, the idea of Goodbye Happiness cracked me up; it doesn’t sound right, yet it does as well, as I sang along with the song. This song title really lightened my mood in various ways. It’s a pretty good song too. 
 
