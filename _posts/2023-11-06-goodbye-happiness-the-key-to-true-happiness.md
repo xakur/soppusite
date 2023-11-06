@@ -96,9 +96,14 @@ Be happy for yourself. Say thank you to yourself for all the roads that you’ve
 
 Free yourself from the burdens of seeking happiness. Relax and live in the moment.
 
-Experience true happiness by embracing all the comforts that are available to you right now.
+Experience true happiness by embracing and savoring all the comforts that are available to you in this very moment.
 
-[Being in the present enables us to fully experience everything that is around us.](https://time.com/collection/guide-to-happiness/4856944/secrets-happier-life/) Choosing to live in the present can alleviate anxiety, saving your valuable time and mental energy from being consumed by thoughts about the future. 
+[Being in the present enables us to fully experience everything that is around us.](https://time.com/collection/guide-to-happiness/4856944/secrets-happier-life/) Choosing to live in the present can alleviate anxiety, saving your valuable time and mental energy from being consumed by thoughts about the future.
+
+![smiling woman touching heart](https://images.pexels.com/photos/5340278/pexels-photo-5340278.jpeg)
+
+{:.image-caption}
+*Image Credit: Puwadon Sang-ngern/Pexels*
 
 Once you have got hold of your present circumstances, you will be in a better mental state to reach out to happiness. How? In a better frame of mind, you will take proactive steps to make you feel better or maintain your current sense of contentment. But even if you don’t want to do anything extra, that’s fine too.
 
