@@ -39,15 +39,19 @@ Certainly, my focus today is not on the song. But simply, the idea of saying “
 
 The idea behind this mentality is that I’m not going to chase after happiness anymore. 
 
-Instead, I will just make use of what I have right now and find comfort from within. I want to take things easy and do whatever I want right now. Take solace in what I currently have. Whether they constitute “happiness” or not, I’m not going to care anymore, much less care about what others tell me what happiness is.
+Instead, I will just make use of what I have right now and find comfort from within. 
+
+I want to take things easy and do whatever I want right now. Take solace in what I currently have. Whether they constitute “happiness” or not, I’m not going to care anymore, much less care about what others tell me what happiness is.
 
 ## Why Say Goodbye Happiness?
 
 At any point in time, we all have a certain definition or idea of what happiness is.
 
-It can be stressful to keep having the thought that we need to “do something” to achieve happiness. Or that the lack of something is blocking us from reaching happiness. The journey of trying to chase after a specific goal or happiness itself can seem like a never-ending daunting task.
+It can be stressful to keep having the thought that we need to “do something” to achieve happiness. Or that the lack of something is blocking us from reaching happiness.
 
-We sometimes only start to realize the happiness that we have after comparing our situation against someone else’s. However, comparison is not the best approach as [it involves using either your situation or someone’s situation as a benchmark, to see who is better or worse, and gaining relief from it.](https://sliceofpower.com/2023-03-16-how-comparing-can-make-you-miserable/) 
+The journey of trying to chase after a specific goal or happiness itself can seem like a never-ending daunting task.
+
+We sometimes only start to realize the happiness that we have after comparing our situation against someone else’s. However, I think comparison is not the best approach as [it involves using either your situation or someone’s situation as a benchmark, to see who is better or worse, and gaining relief from it.](https://sliceofpower.com/2023-03-16-how-comparing-can-make-you-miserable/) 
 
 That shouldn’t be how things work. True happiness can only be defined by yourself. You know what you want.
 
@@ -68,7 +72,9 @@ Starting immediately, give yourself space and time to live in the present. Inste
 
 Things are always changing in this world. We can never predict how things will turn out or how circumstances may change that that would affect our journeys.
 
-We cannot control the future nor change the past. You only have control over things in the present. It is why you are always the best version of yourself in this very moment. Trust in the power of the present moment, that it is giving you the best resources. It is up to you to do what you want with it. Find comfort and believe that you are fine as you are right now.
+We cannot control the future nor change the past. You only have control over things in the present, which is why you are always the best version of yourself in this very moment.
+
+Trust in the power of the present moment, as it provides you with the best resources. It is up to you to do what you want with it. Find comfort and believe that you are fine as you are right now.
 
 ### Reason 2: Goodbye? Happiness is already with you.
 
@@ -86,7 +92,9 @@ Be happy for yourself. Say thank you to yourself for all the roads that you’ve
 
 ## The Way to True Happiness
 
-Free yourself from the burdens of seeking happiness. Experience true happiness by living in the moment and embracing all of the comforts that are available to you right now.
+Free yourself from the burdens of seeking happiness. Relax and live in the moment.
+
+Experience true happiness by embracing all of the comforts that are available to you right now.
 
 [Being in the present enables us to fully experience everything that is around us.](https://time.com/collection/guide-to-happiness/4856944/secrets-happier-life/) Choosing to live in the present can alleviate anxiety, saving your valuable time and mental energy from being consumed by thoughts about the future. 
 
