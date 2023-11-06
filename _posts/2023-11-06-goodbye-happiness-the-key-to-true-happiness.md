@@ -88,10 +88,14 @@ Free yourself from the burdens of seeking happiness. You will experience true ha
 
 Once you have got hold of your present circumstances, you will be in a better mental state to reach out to happiness. How? In a better frame of mind, you will take proactive steps to make you feel better or maintain your current sense of contentment. But even if you don’t want to do anything extra, that’s fine too.
 
-**The key is to find comfort in the present**, especially during those moments of burnout when it feels like you cannot move forward anymore. Drop everything, and engage in activities that you enjoy. For example, if watching a show makes you happy, do it. Do what it takes to maintain your inner peace and contentment. It doesn’t matter even if these inner feelings are at low levels at the moment. Recharging yourself by doing what you enjoy would help to build it up.
+**The key is to find comfort in the present**, especially during those moments of burnout when it feels like you cannot move forward anymore. Drop everything, and engage in activities that you enjoy. For example, if watching a show makes you happy, do it right away.
+
+Do what it takes to maintain your inner peace and contentment. It doesn’t matter even if these inner feelings are at low levels at the moment. Recharging yourself by doing what you enjoy would help to build it up.
 
 Once your mind feels more at ease and refreshed, you will have more energy to do more things that continue to contribute to your well-being. These “more things” vary from person to person. It could range from something simple like playing a new game and having fun, to learning a new skill to help you reach your ultimate goal. 
+
 The important thing is to constantly keep that pleasant state of mind to propel you forward. 
+
 There is no need to rush either. 
 
-Just make use of the present. Be in the present.
+Just make use of the present, as you are always in the present.
