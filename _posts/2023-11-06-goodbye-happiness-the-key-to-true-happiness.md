@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Goodbye Happiness: The Key to True Happiness"
-share-description: 
+share-description: Say goodbye to happiness! When you’re are getting tired of pursuing happiness, it is no longer serving you well. Let go of the idea of happiness and be in the present. 
 thumbnail-img: "https://images.pexels.com/photos/3808845/pexels-photo-3808845.jpeg"
 categories: the-deep
 tags: the-deep
 readtime: true
-excerpt: I’m saying goodbye to happiness. I said bye before and I instantly felt better. If you’re reading this right now, you might go, “Huh? What do you mean ‘goodbye happiness’? What does that even mean?” To be honest, I was quite amused when I first came across this term. It is actually
+excerpt: I’m saying goodbye to happiness. I said bye before and I instantly felt better. If you’re reading this right now, you might go, “Huh? What do you mean ‘goodbye happiness’?” To be honest, I was quite amused when I first came across this term. It is actually the title of a song 
 ---
 
 ![woman waving](https://images.pexels.com/photos/3808845/pexels-photo-3808845.jpeg)
@@ -59,7 +59,7 @@ That shouldn’t be how things work. True happiness can only be defined by yours
 
 ### Reason 1: Goodbye Happiness, to reset your mind.
 
-When you’re tired of pursuing happiness, it is no longer serving you well. Resetting your mind to zero will be helpful.
+When you’re are getting tired of pursuing happiness, it is no longer serving you well. Resetting your mind to zero will be helpful.
 
 "Goodbye Happiness" might seem like a negative scenario, as if we are giving up on happiness and that sadness takes over. But that's not the case! Saying goodbye to happiness does not mean that you will immediately feel sad.
 
@@ -109,7 +109,7 @@ Experience true happiness by embracing and savoring all the comforts that are av
 
 Once you have got hold of your present circumstances, you will be in a better mental state to reach out to happiness. How? In a better frame of mind, you will take proactive steps to make you feel better or maintain your current sense of contentment. But even if you don’t want to do anything extra, that’s fine too.
 
-**The key is to find comfort in the present**, especially during those moments of burnout when it feels like you cannot move forward anymore. Drop everything, and engage in activities that you enjoy. For example, if watching a show makes you happy, do it right away.
+**The key is to find comfort in the present**, especially during those moments of burnout when it feels like you cannot move forward. Drop everything, and engage in activities that you enjoy. For example, if watching a show makes you happy, do it right away.
 
 Do what it takes to maintain your inner peace and contentment. It doesn’t matter even if these inner feelings are at low levels at the moment. Recharging yourself by doing what you enjoy would help to build it up.
 
