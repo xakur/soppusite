@@ -45,7 +45,9 @@ At any point in time, we all have a certain definition or idea of what happiness
 
 It can be stressful to keep having the thought that we need to “do something” to achieve happiness. Or that the lack of something is blocking us from reaching happiness. The journey of trying to chase after a specific goal or happiness itself can seem like a never-ending daunting task.
 
-We sometimes only start to realize the happiness that we have after comparing our situation against someone else’s. However, comparison is not the best approach as it involves using either your situation or someone’s situation as a benchmark, to see who is better or worse, and gaining comfort from it. That shouldn’t be how things work. True happiness can only be defined by yourself. You know what you want.
+We sometimes only start to realize the happiness that we have after comparing our situation against someone else’s. However, comparison is not the best approach as [it involves using either your situation or someone’s situation as a benchmark, to see who is better or worse, and gaining relief from it.](https://sliceofpower.com/2023-03-16-how-comparing-can-make-you-miserable/) 
+
+That shouldn’t be how things work. True happiness can only be defined by yourself. You know what you want.
 
 ### Reason 1: Goodbye Happiness, to reset your mind.
 
@@ -82,7 +84,7 @@ Be happy for yourself. Say thank you to yourself for all the roads that you’ve
 
 ## The Way to True Happiness
 
-Free yourself from the burdens of seeking happiness. You will experience true happiness by living in the moment and embrace all of the comforts that are available to you.
+Free yourself from the burdens of seeking happiness. Experience true happiness by living in the moment and embracing all of the comforts that are available to you right now.
 
 [Being in the present enables us to fully experience everything that is around us.](https://time.com/collection/guide-to-happiness/4856944/secrets-happier-life/) Choosing to live in the present can alleviate anxiety, saving your valuable time and mental energy from being consumed by thoughts about the future. 
 
