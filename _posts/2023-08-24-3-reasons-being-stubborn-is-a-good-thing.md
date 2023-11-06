@@ -21,7 +21,7 @@ Stubbornness is often felt when we see someone hold on to a belief that we deem 
 However, as much as we have our reasons for giving suggestions, they might have their strong reasons for insisting on their stance. It is a matter of perspective.
 
 <img src="https://images.pexels.com/photos/17895618/pexels-photo-17895618/free-photo-of-kittens-playing-on-ground.jpeg" alt="two kittens" style="width:543px; height:359px; display: block; margin: 0 auto;">
-<p class="image-caption">Image Credit: Vladimir Srajber/Pexels</p>
+<p class="image-caption"><i>Image Credit: Vladimir Srajber/Pexels</i></p>
 
 So when somebody tells you that you are stubborn, it’s up to you to decide whether it’s true or not. You don’t necessarily have to be affected by what they said as there is always a limitation on our capacity to fathom another person’s situation and vice versa. [If you do not feel comfortable hearing what someone else said (be it out of a positive or negative intent), the words are not meant for you. You have the choice to accept or reject it.](https://sliceofpower.com/2022-11-19-5-tips-on-becoming-unaffected-by-what-people-say/)
 
