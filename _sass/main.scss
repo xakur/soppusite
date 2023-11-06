@@ -17,6 +17,12 @@
   text-align: center;
 }
 
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: #858484c7;
+}
+
 /* block quote */
 blockquote {
   color: #111111;
@@ -58,10 +64,4 @@ blockquote {
   border-right: 0px solid #000000; /* add background-color in post */
 }
 
-.image-caption {
-  text-align: center;
-  font-size: .8rem;
-  color: #858484c7;
-  margin-top: -17px;
-}
   
