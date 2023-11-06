@@ -33,13 +33,13 @@ Certainly, my focus today is not on the song. But simply, the idea of saying “
 </div>
 
 #### If happiness hasn’t arrived despite having tried so hard, I go by this mindset...
-<p style="margin-top: -2px;"><i>“Screw it! Screw Happiness! I’m just gonna live however I want, do whatever I want and stop being restrained by the thought of happiness.”</i></p>
+<p style="margin-top: -2px; font-size:15px;"><i>“Screw it! Screw Happiness! I’m just gonna live however I want, do whatever I want and stop being restrained by the thought of happiness.”</i></p>
 
 The idea behind this mentality is that I’m not going to chase after happiness anymore. 
 
 Instead, I will just make use of what I have right now and find comfort from within. I want to take things easy and do whatever I want right now. Take solace in what I currently have. Whether they constitute “happiness” or not, I’m not going to care anymore, much less care about what others tell me what happiness is.
 
-## Why should we say Goodbye Happiness?
+## Why Say Goodbye Happiness?
 
 At any point in time, we all have a certain definition or idea of what happiness is.
 
