@@ -32,7 +32,7 @@ Certainly, my focus today is not on the song. But simply, the idea of saying “
 
 <div style="padding-top: 33px;padding-bottom:15px;">
 <li>Quite literally, it means saying bye to happiness!</li>
-<li>To <b>let go</b> of the idea of happiness and be in the present.</li>
+<li>To <b>let go</b> of the idea of happiness and <b>be in the present.</b></li>
 <li>Find comfort in whatever you currently have!</li>
 </div>
 
