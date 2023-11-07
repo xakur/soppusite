@@ -1,14 +1,15 @@
 <h4>Check Out More</h4>
 
 <div class="relatedrect">
-  {% for post in site.random_related_posts %}
-    {% unless post.url == page.url %} {# Exclude the current post #}
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <div class="rel">
-          <h5>{{ post.title }}</h5>
-          <img width="190" height="126" src="{{ post['thumbnail-img'] }}">
-        </div>
-      </a>
-    {% endunless %}
+  {% assign maxRelated = 3 %}
+  {% assign current_post_url = page.url %}
+  {% assign related_posts = site.posts | randomize | slice: 0, maxRelated %}
+  {% for post in related_posts %}
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <div class="rel">
+        <h5>{{ post.title }}</h5>
+        <img width="190" height="126" src="{{ post['thumbnail-img'] }}">
+      </div>
+    </a>
   {% endfor %}
 </div>
