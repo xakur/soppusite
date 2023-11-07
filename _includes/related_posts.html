@@ -2,7 +2,7 @@
 
 <div class="relatedrect">
 
-  {% assign maxRelated = 4 %}
+  {% assign maxRelated = 3 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
 
@@ -28,7 +28,7 @@
           <a href="{{ site.baseurl }}{{ post.url }}">
               <div class="rel">
                   <h5>{{ post.title }}</h5>
-                  <img width="100%" src="{{ post.thumbnail }}">
+                  <img width="100%" src="{{ post['thumbnail-img'] }}">
               </div>
           </a>
 
