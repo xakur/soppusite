@@ -72,12 +72,14 @@ blockquote {
     border-bottom: 3px solid #333;
     padding-top: 15px;
     margin:0 auto;
+    text-align: center;
 }
 .rel {
     width: 200px;
     display: inline-block;
     padding: 5px;
     opacity: 0.8;
+    text-align: left; /* Reset text alignment for inner content */
 }
 .rel hover {
      opacity: 1;    
