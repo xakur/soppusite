@@ -10,6 +10,7 @@ excerpt: What does it take to manifest our goals? Why does the thought of having
 ---
 
 <img src="https://images.pexels.com/photos/7708705/pexels-photo-7708705.jpeg" alt="footprints" style="width:553px; height:505px; display: block; margin: 0 auto;">
+<p class="image-caption"><i>Image Credit: My Photos/Pexels</i></p>
 
 What does it take to manifest our goals? Why does the thought of having to manifest something feel like a tedious task? The idea of manifestation actually stresses me out a bit. There is too much emphasis on the destination and it makes me overthink and worry about whether I will succeed or not.
 
@@ -41,6 +42,7 @@ So how can you keep yourself reminded of what's fun about the activity?
 On a piece of paper, list 5 things that are fun about the activity (i.e. the small task(s) that make up your big goal, that you have to do). Think about what makes you smile while doing the tasks. Which part of it makes you enjoy and feel lighter? Certainly, there are difficulties in any given task, but finding joy and reminding yourself of the fun aspects will make them more tolerable. It gives you something to look forward to.
 
 <img src="https://images.pexels.com/photos/4792255/pexels-photo-4792255.jpeg" alt="lady writing notes" style="width:523px; height:339px; display: block; margin: 0 auto;">
+<p class="image-caption"><i>Image Credit: Anete Lusina/Pexels</i></p>
 
 Whenever you feel dreadful about the task, look at this piece of paper to remind yourself of the fun that you will receive from doing this task. The fun of the task will be what keeps you consistent in doing it. Keep reminding yourself. Despite the challenges, you are enjoying it too.
 
@@ -55,6 +57,7 @@ We need these reminders sometimes as it might be easy to forget our own strength
 We can get engulfed by our own emotions without noticing, and this can happen through external influences as well; you might start doubting your abilities when you see someone who is a lot better than you. This is where (daily) affirmations can help you stay rooted to yourself.
 
 <img src="https://images.pexels.com/photos/1624501/pexels-photo-1624501.jpeg" alt="man standing under starry sky" style="width:273px; height:405px; display: block; margin: 0 auto;">
+<p class="image-caption"><i>Image Credit: Eberhard Grossgasteiger/Pexels</i></p>
 
 Affirmations can be done in various ways. It can be in the form of repeating positive quotes and sentences to yourself, depending on which area you would like to reinforce. For example, if you want to become more confident, you can say and repeat to yourself, "I'm confident!" or "The only approval I need is myself." Alternatively, you can do this by writing it down on a piece of paper or a sticky note and stick it to your wall. There are also affirmation card decks that you can purchase from sites like [Amazon](https://www.amazon.com/) or [Etsy](https://www.etsy.com/).
 
@@ -81,6 +84,7 @@ To keep yourself focused on completing the seemingly unfavorable tasks necessary
 Rewarding yourself can be in tangible or intangible terms. Examples for tangible rewards: a favorite snack or a good meal. Examples for intangible rewards: have a nice long bubble bath or play some games after the task for the day is done.
 
 <img src="https://images.pexels.com/photos/7871543/pexels-photo-7871543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="happy guy gaming" style="width:523px; height:338px; display: block; margin: 0 auto;">
+<p class="image-caption"><i>Image Credit: VAZHNIK/Pexels</i></p>
 
 **Have discipline** to reward yourself when the time comes, and make sure that you have completed whatever you have planned for the day.
 
