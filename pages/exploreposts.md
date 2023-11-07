@@ -2,10 +2,9 @@
 layout: page
 permalink: /explore/
 title: Explore
+subtitle: Explore all posts here! Power Slices!
 share-title: Explore | Slice of Power
 ---
-
-<p style="text-align: center;font-size: 18px;font-family: Gadugi;">Explore all posts here! Power Slices!</p>
 
 <div id="archives">
 {% for category in site.categories %}
