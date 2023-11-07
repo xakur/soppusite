@@ -40,7 +40,7 @@ Piwik PRO does not send the data about you to any other sub-processors or third 
 
 We participate in the Google AdSense program, which allows us to display advertisements provided by Google. Google AdSense, which serves ads on our website, may also collect data using cookies and other tracking technologies to customize and target ads based on users' browsing behavior and interests. The data collected by Google AdSense includes unique identifiers, such as cookies and mobile advertising identifiers, as well as Internet Protocol (IP) addresses and device information. Google AdSense uses this data to measure ad performance, deliver relevant ads, and improve ad targeting. Google's use of cookies allows them to serve advertisements to our visitors based on their visits to our website and other sites on the Internet. You can manage your ad personalization settings and opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). For more information about how Google collects and processes data, please refer to their [privacy policy](https://policies.google.com/privacy).
 
-**Social Media Sharing**
+**Social Media Sharing and External Links**
 
 Our website provides options to share articles on social media platforms, such as Twitter, Facebook and LinkedIn. Please note that clicking on these social media sharing buttons or any external links may result in you being redirected to third-party websites. Once you leave our website, you are subject to the privacy policies and practices of those third-party websites. We recommend reviewing the privacy policies of these external sites for more information on their data collection and processing practices.
 
