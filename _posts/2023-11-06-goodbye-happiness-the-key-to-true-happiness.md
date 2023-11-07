@@ -26,7 +26,7 @@ The upbeat melody allowed me to let loose and be free of all obligations as I sa
 
 <iframe width="100%" height="auto" style="min-height:330px" src="https://www.youtube.com/embed/rUhhPZtYl7Y" title="宇多田ヒカル - Goodbye Happiness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Certainly, my focus today is not on the song. But simply, the idea of saying “goodbye happiness” – feeling free from the never-ending pursuit of happiness. Letting go of the need to achieve something in order to be happy. Letting go of the perfect idea of “Happiness”.
+Certainly, my focus today isn't on the song. But simply, the idea of saying “goodbye happiness” – feeling free from the never-ending pursuit of happiness. Letting go of the need to achieve something in order to be happy. Letting go of the perfect idea of “Happiness”.
 
 ## Goodbye Happiness – What Does It Mean?
 
