@@ -10,6 +10,11 @@
           {% endfor %}
         </div>
       {% endif %}
+
+       <p class="privacy-policy">
+          <a href="/privacy-policy">Privacy Policy</a> 
+        </p>
+      
       <p class="copyright text-muted">
       {% if site.author %}
         {{ site.author }}
@@ -35,9 +40,6 @@
         &nbsp;&bull;&nbsp;
         <a title="Edit this page on GitHub" href="{{ site.github.repository_url }}/edit/{{ site.github.source.branch }}/{{ page.path }}" class="text_muted">Edit page</a>
        {% endif%}
-
-      &nbsp;&bull;&nbsp;
-  <a href="/privacy-policy/">Privacy Policy</a>
 
       </p>
       {% unless site.remove-ads %}<p class="theme-by text-muted">
