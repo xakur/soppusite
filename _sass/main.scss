@@ -82,3 +82,14 @@ blockquote {
 .rel hover {
      opacity: 1;    
 }
+
+/* make pagination arrows smaller */
+.pagination {
+  margin: 0.625rem 0 0 1.45rem;
+  justify-content: space-between;
+}
+.pagination .page-item .page-link {
+  font-size: 0.775rem;
+  padding: 0.01rem 0.01rem;
+}
+  
