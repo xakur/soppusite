@@ -65,7 +65,7 @@ When you’re are getting tired of pursuing happiness, it is no longer serving y
 
 It works similarly to how you typically won’t feel "happy" right after crying over something that's making you sad. You will just be in a neutral mood, cleared of whatever emotion that was occupying you. Reset to a balanced state.
 
-Feel that instant relief - you no longer have to answer for happiness nor do you have to be in a rush to fulfill something. Just do you, at your own pace.
+Feel that instant relief by saying goodbye to happiness - you no longer have to answer for happiness nor do you have to be in a rush to fulfill something. Just do you, at your own pace.
 
 ![person lying on grass](https://images.pexels.com/photos/90440/pexels-photo-90440.jpeg)
 
