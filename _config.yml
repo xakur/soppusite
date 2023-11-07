@@ -25,10 +25,6 @@ navbar-links:
   The Deep: "/posts/the-deep/"
   In My Mind: "/posts/in-my-mind/"
   Explore: "/explore/"
-  More:
-  - Contact: "contact"
-  - Privacy Policy: "/privacy-policy/"
-  - Terms and Conditions: "/terms-and-conditions/"
 
 ################
 # --- Logo --- #
