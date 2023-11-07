@@ -115,8 +115,8 @@ Do what it takes to maintain your inner peace and contentment. It doesn’t matt
 
 Once your mind feels more at ease and refreshed, you will have more energy to do more things that continue to contribute to your well-being. These “more things” vary from person to person. It could range from something simple like playing a new game and having fun, to learning a new skill to help you reach your ultimate goal. 
 
-The important thing is to constantly keep that pleasant state of mind to propel you forward. 
+The important thing is to **constantly keep that pleasant state of mind to propel you forward.** 
 
 There is no need to rush either. 
 
-Just make the best use of the present, as you are always in the present.
+**Just make the best use of the present,** as you are always in the present.
