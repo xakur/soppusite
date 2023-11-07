@@ -1,25 +1,14 @@
-{% assign maxRelated = 3 %}  <!-- Adjust the number of related posts you want to display -->
-{% assign maxRelatedCounter = 0 %}
-
-{% capture related_posts %}{% endcapture %}
-
-{% for post in site.posts %}
-    {% if post.url != page.url %}
-        {% capture related_posts %}{{ related_posts }}{{ post.title }}|{{ post.url }}|{{ post['thumbnail-img'] }}{% unless forloop.last %},{% endunless %}{% endcapture %}
-    {% endif %}
-{% endfor %}
-
-{% assign related_posts = related_posts | split: ',' | shuffle | slice: 0, maxRelated %}
+<h4>Check Out More</h4>
 
 <div class="relatedrect">
-    <h4>Related posts</h4>
-    {% for post_data in related_posts %}
-        {% assign post_parts = post_data | split: '|' %}
-        <a href="{{ site.baseurl }}{{ post_parts[1] }}">
-            <div class="rel">
-                <h5>{{ post_parts[0] }}</h5>
-                <img width="190" height="126" src="{{ post_parts[2] }}">
-            </div>
-        </a>
-    {% endfor %}
+  {% assign maxRelated = 3 %}
+  {% assign related_posts = site.posts | where_exp:"post", "post.url != page.url" | randomize | slice: 0, maxRelated %}
+  {% for post in related_posts %}
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <div class="rel">
+        <h5>{{ post.title }}</h5>
+        <img width="190" height="126" src="{{ post['thumbnail-img'] }}">
+      </div>
+    </a>
+  {% endfor %}
 </div>
