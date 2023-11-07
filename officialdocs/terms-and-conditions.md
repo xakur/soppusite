@@ -6,7 +6,7 @@ share-title: Terms and Conditions | Slice of Power
 share-description: 
 ---
 
-Last updated: 20 July 2023
+Last updated: 7 November 2023
 
 These terms and conditions ("Terms") govern your use of the website, Slice of Power, accessible at https://sliceofpower.com ("Site"). These Terms and Conditions set out the rights and obligations of all users regarding the use of the Site. Please read these Terms carefully before using the Site.
 
@@ -32,7 +32,7 @@ All materials available on the Site, including but not limited to text, graphics
 
 In connection with your use of the Site, you are expressly prohibited from:
 
-a. Engaging in any unlawful, fraudulent, or unauthorized activities.
+a. Engaging in any unlawful, fraudulent, or unauthorized activities.  
 b. Attempting to gain unauthorized access to the Site or its related systems or networks.  
 c. Interfering with or disrupting the integrity or performance of the Site or its content.  
 d. Collecting, extracting, or gathering any personally identifiable information from the Site without proper consent.   
