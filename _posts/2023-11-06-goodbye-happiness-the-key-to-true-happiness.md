@@ -82,7 +82,7 @@ Trust in the power of the present moment, as it provides you with the best resou
 
 ### Reason 2: Goodbye? Happiness is already with you.
 
-Sometimes, we might have to put in the extra effort to discover happiness from within our circumstances when everything feels overwhelming. There is always a little something to be happy and grateful for in our lives. This could be the random acts of kindness or supportive messages that you have received, to have kept you going till today. 
+Sometimes, we might have to put in the extra effort to discover happiness from within our circumstances when everything feels overwhelming. There is always a little something to be happy and grateful for in our lives. This could be the cute puppy video that you enjoy, random acts of kindness or supportive messages that you have received, to have kept you going till today. 
 
 If you truly cannot find something to be happy for…
 
