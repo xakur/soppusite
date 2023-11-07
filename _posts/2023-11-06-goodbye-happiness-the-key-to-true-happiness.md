@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Goodbye Happiness: The Key to True Happiness"
-share-description: Say goodbye to happiness! When you’re are getting tired of pursuing happiness, it is no longer serving you well. Let go of the idea of happiness and be in the present. 
+share-description: Feel that instant relief when you say goodbye to happiness. When you’re are getting tired of pursuing happiness, it is no longer serving you well. Let go of the idea of happiness and be in the present. 
 thumbnail-img: "https://images.pexels.com/photos/3808845/pexels-photo-3808845.jpeg"
 categories: the-deep
 tags: the-deep
