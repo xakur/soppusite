@@ -24,7 +24,7 @@ On another occasion, on a troubled day, I randomly listened to this song and san
 
 The upbeat melody allowed me to let loose and be free of all obligations as I said goodbye to happiness. At the same time, the idea of Goodbye Happiness cracked me up; it doesn’t sound right, yet it does as well, as I sang along with the song. This song title really lightened my mood in various ways. It’s a pretty good song too. 
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/rUhhPZtYl7Y" title="宇多田ヒカル - Goodbye Happiness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="auto" style="min-height:330px" src="https://www.youtube.com/embed/rUhhPZtYl7Y" title="宇多田ヒカル - Goodbye Happiness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Certainly, my focus today is not on the song. But simply, the idea of saying “goodbye happiness” – feeling free from the never-ending pursuit of happiness. Letting go of the need to achieve something in order to be happy. Letting go of the perfect idea of “Happiness”.
 
