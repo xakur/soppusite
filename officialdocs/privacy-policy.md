@@ -6,7 +6,7 @@ share-title: Privacy Policy | Slice of Power
 share-description: 
 ---
 
-Last updated: 29 July 2023
+Last updated: 7 November 2023
 
 **Introduction**
 
@@ -20,7 +20,7 @@ We collect certain non-personally identifiable information automatically when yo
 
 Cookies are small text files stored on your device that help enhance your browsing experience and analyze website usage. This data is anonymized, and it does not contain any information that could be linked to a specific individual. The anonymized data helps us understand trends, improve user experiences, and analyze website performance. 
 
-This website does not use cookies on its own. However, we utilize third-party cookies to enhance user experience and provide personalized content. These third-party services, such as analytics tools and advertising networks, may collect non-personally identifiable information, including IP addresses, browser types, and device details, to analyze website usage and deliver relevant advertisements. Additionally, when you click on external links or share our website’s articles to social media platforms, those platforms may also use cookies to track your interactions. By using our website and interacting with any external links and social media sharing functionalities, you consent to the use of cookies by these third-party services and platforms. 
+This website uses cookies and similar tracking technologies provided by third-party services. We utilize third-party cookies to enhance user experience and provide personalized content. These third-party services, such as analytics tools and advertising networks, may collect non-personally identifiable information, including IP addresses, browser types, and device details, to analyze website usage and deliver relevant advertisements. Additionally, when you click on external links or share our website’s articles to social media platforms, those platforms may also use cookies to track your interactions. By using our website and interacting with any external links and social media sharing functionalities, you consent to the use of cookies by these third-party services and platforms. 
 
 You have the option to control the use of cookies by adjusting your browser settings. If you prefer not to allow cookies, you may configure your browser to block or delete them. However, please be aware that disabling cookies may impact certain functions and features of our website. 
 
