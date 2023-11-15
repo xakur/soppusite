@@ -58,7 +58,11 @@ Everyone’s life path is different. It is silly to think that you are not doing
 
 <h3 style="text-align:center;">It should always be you VS you.</h3>
 
-It’s your own breakthrough that matters the most. This occurs at various points in our lives as we continue to improve ourselves. From one breakthrough to the other. Instead of thinking about what you fall short of as compared to others, think about your **personal achievements and breakthroughs** – what you had failed to do in the past, but are able to do now. You shouldn’t be thinking about how much you’ve completed according to the success of someone else.
+It’s your own breakthrough that matters the most. This occurs at various points in our lives as we continue to improve ourselves. From one breakthrough to the other. 
+
+Instead of thinking about what you fall short of as compared to others, think about your personal achievements and breakthroughs – what you had failed to do in the past, but are able to do now.
+
+You shouldn’t be thinking about how much you’ve completed according to the success of someone else.
 
 ## Every achievement, whether big or small, contributes to your final goal.
 
@@ -69,15 +73,19 @@ I do look up to several people and have a high expectation of myself. I think it
 {:.image-caption}
 *Image Credit: Andrea Piacquadio/Pexels*
 
-Just because something is self-perceived as “easy” and “expected” does not mean that there’s no value behind it. [On the contrary, we might even become demotivated by the thought of trying to accomplish a big goal as it can seem overwhelming at times](https://sliceofpower.com/2023-05-19-how-to-manifest-something-focus-on-the-little-steps/). Hence, it may be more helpful to focus on the small steps or small tasks instead. After all, every little task make up the final goal.
+Just because something is self-perceived as “easy” and “expected” does not mean that there’s no value behind it.
+
+[On the contrary, we might even become demotivated by the thought of trying to accomplish a big goal as it can seem overwhelming at times](https://sliceofpower.com/2023-05-19-how-to-manifest-something-focus-on-the-little-steps/). Hence, it may be more helpful to focus on the small steps or small tasks instead. After all, every little task make up the final goal.
 
 Although it can be easy to think that these smaller tasks are considered “expected duties”, they are just as important as any other more difficult or significant tasks and processes. We need them to reach our goal. We should also recognize our efforts put into these small tasks, and give ourselves a pat on the back upon completion. [Acknowledging your efforts more often can help you to feel more assured and confident of yourself.](https://www.forbes.com/sites/forbescoachescouncil/2021/04/22/boost-your-self-confidence-with-self-acknowledgement/?sh=5177dd461319)
 
 On the other hand, we should not blame ourselves for taking a longer time to complete any difficult task either. Especially when the given task at hand is something new or that we are inexperienced in, it only makes sense to spend a substantial amount of time to get it done.
 
-I often blame myself for spending too much time on figuring things out. For some reason, I expect myself to solve issues quickly. But truth is, I hadn’t even learned of the new skills that were required to complete the tasks, so how was I going to complete them quickly? I realized that I really needed to be patient with myself. 
+I often blame myself for spending too much time on figuring things out. For some reason, I expect myself to solve issues quickly. But truth is, I hadn’t even learned of the new skills that were required to complete the tasks, so how was I going to complete them quickly?
 
-For any difficult task or process that is part of a big goal that you are trying to achieve, instead of thinking about completing the task right away, it would be helpful to be more flexible with yourself. Allocate a reasonable amount of time to acquire any new information or skills before working on the task. By taking the time to learn the required skills, it would help you be more efficient in completing the task.
+**I realized that I really needed to be patient with myself.**
+
+For any difficult task or process that is part of a big goal, instead of thinking about accomplishing it right away, it would be helpful to be more flexible with yourself. Allocate a reasonable amount of time to acquire any new information or skills before working on the task. Taking the time to learn the required skills will help you be more efficient in completion.
 
 ## Be happy that you started doing something.
 
