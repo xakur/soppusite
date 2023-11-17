@@ -55,11 +55,13 @@ What is causing your loneliness? For many people, it might be the lack of a supp
 
 Like what the author mentioned [here](https://www.linkedin.com/pulse/20140710144736-28584737-ego-loneliness), you may for instance, have a friend whom you like very much. You and your friend exchange texts or calls everyday and you feel that you cannot live without them. However, if they get busy and can't talk for a few days, you start feeling bored and uneasy.
 
-You always want someone’s attention and cannot be by yourself. You need the constant validation of how important you are through the presence of someone.
+You always want someone’s attention and cannot be by yourself. 
+
+You need someone here with you, to validate your existence - how important you are.
 
 **You need to put down that “ego”.** Perhaps you have a natural expectation that someone should be here with you. Someone that will make you feel important. Without someone, you feel unimportant and lonely.
 
-While it can be argued that humans are social creatures and thus, naturally feel the need to belong to a group in order to be happy, that’s not an official criteria for having a good life. This “approach” does not fit everyone, [as some people feel more comfortable without the ‘need to belong’.](https://medium.com/@karen.geddis/being-okay-with-not-wanting-to-belong-16840ca66409)
+While it can be argued that humans are social creatures and thus, naturally feel the need to belong to a group in order to be happy, that’s not an official criteria for having a good life. This “approach” does not fit everyone. [Some people actually feel more comfortable without the ‘need to belong’.](https://medium.com/@karen.geddis/being-okay-with-not-wanting-to-belong-16840ca66409)
 
 Just like my story, I had an ego in me, thinking that I needed my friend’s presence in order to feel valued and loved. 
 
@@ -70,15 +72,15 @@ You don’t need someone by your side to feel loved or important, because you al
 <img src="https://images.pexels.com/photos/11682190/pexels-photo-11682190.jpeg" alt="Woman Hugging Herself on a Seashore" style="width:307px; height:450px; display: block; margin: 0 auto;">
 <p class="image-caption"><i>Image Credit: Nadin Sh/Pexels</i></p>
 
-While some people might be lucky to have people by their side, that’s their fate and lives. No one said that you must be around people in order to feel loved and happy. [Never compare your situation to that of others as we each have our own unique challenges to go through.](https://sliceofpower.com/2023-03-01-why-you-should-not-compare-yourself-to-others/)
+While some people might be lucky to have people they bond with by their side, that’s their fate and lives. No one said that you **must** be around people in order to feel loved and happy. [Never compare your situation to that of others as we each have our own unique challenges to go through.](https://sliceofpower.com/2023-03-01-why-you-should-not-compare-yourself-to-others/)
 
-You can give love to yourself, and in fact, that’s the most important type of love. Taking good care of yourself by eating healthy, keeping yourself active and learning to manage your emotions by your own self, is the best treatment to yourself. 
+You can give love to yourself, and in fact, that’s the most important type of love. Taking care of yourself through healthy eating, staying active, and managing your emotions independently is the best treatment to yourself.
 
 Let go of that ego, for you are already valued by yourself. Your happiness should not be dependent on others.
 
 ### 2. Acceptance & Acknowledgment
 
-ith loneliness. It’s just a state of being and your reaction towards it. There is no need to push away the fact that you’re alone or lonely as there is nothing to feel ashamed of. It happens in life. What helped me to overcome loneliness was to accept my current situation. To take it as is and accept myself for who I am.
+There’s nothing wrong with loneliness. It’s just a state of being and your reaction towards it. There is no need to push away the fact that you’re alone or lonely as there is nothing to feel ashamed of. It happens in life. What helped me to overcome loneliness was to accept my current situation. To take it as is and accept myself for who I am.
 
 - Accept that you’re unable to find connections with the right people **for the time being.** 
 - Accept yourself for who you are, and you don’t need anyone else.
