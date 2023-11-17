@@ -7,7 +7,6 @@ categories: life-tips
 tags: life-tips
 readtime: true
 excerpt: “I feel lonely” – we have all felt this in our lives before. Loneliness arises when we feel disconnected from the people in our lives, especially when we cannot find like-minded people in our surroundings. It often means that we're not experiencing the emotional closeness and understanding that comes from meaningful connections. We may experience a lack of support and recognition
-published: false
 ---
 
 ![Woman in Beige Long Sleeve Coat Standing on Brown Leaves](https://images.pexels.com/photos/3755021/pexels-photo-3755021.jpeg)
