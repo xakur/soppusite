@@ -42,9 +42,8 @@ I eventually realized how unhealthy it was to depend on others to receive warmth
 
 <h3 style="padding-top: 27px;">1. It's About Your Ego</h3>
 
-<div class="box-success" style="background-color:#e3ffcf; border-left-color:#e3ffcf;">
+<div class="box-success" style="background-color:#e3ffcf; border-left-color:#e3ffcf; padding-top: 1.9rem;">
   <p><b>Consider these questions:</b></p>
-<br><br>
 <ul>
 <li>Are you willing to let go of the “need” for other people?</li>
 <li>Why do you feel the urge to have someone by your side?</li>
