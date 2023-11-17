@@ -59,7 +59,7 @@ Mindfulness meditation involves focusing your attention on the present moment. T
 
 If you do not know how to meditate, you can start by looking for guided meditation videos on YouTube. There are different types of meditation tailored to different needs, e.g. self-love meditation, meditation for calm, anxiety meditation. Typically, these videos incorporate positive affirmations to help you feel better. Depending on the video or audio, a guided meditation can range from 10 minutes to an hour. 
 
-Regular practice can help you become more aware of your thoughts and emotions, allowing you to step back from them rather than getting entangled in overthinking.
+Regular practice can help you become more aware of your thoughts and emotions, allowing you to step back from them and stop overthinking.
 
 ### 2. Set Specific Time for Reflection
 
@@ -69,14 +69,16 @@ When worries pop up outside of this time frame, gently remind yourself to save t
 
 ### 3. Challenge Negative Thoughts
 
-When you catch yourself in a cycle of negative thinking, start by questioning the foundation of your thoughts. Are they based on concrete facts or mere assumptions? Often, our minds tend to assume the worst possible outcomes without substantial evidence to support these beliefs. We tend to expect the worst when past experiences have shown that setting our hopes too high can lead to huge disappointment.
+To stop overthinking, question the foundation of your thoughts, especially when you start thinking about negative situations. Are they based on concrete facts or mere assumptions? Often, our minds tend to assume the worst possible outcomes without substantial evidence to support these beliefs. We tend to expect the worst when past experiences have shown that setting our hopes too high can lead to huge disappointment.
 
 ![woman in thought](https://images.pexels.com/photos/3768144/pexels-photo-3768144.jpeg)
 
 {:.image-caption}
 *Image Credit: Andrea Piacquadio/Pexels*
 
-Instead of rejecting potential positive outcomes to shield yourself from potential disappointment, adopt a more rational approach. Carefully assess the situation, considering both potential risks and rewards, before making a decision. This balanced evaluation can help you make more informed choices, reducing the tendency to overthink by finding a middle ground between pessimism and unrealistic optimism. Challenge irrational beliefs and replace them with more balanced ones. 
+Instead of rejecting potential positive outcomes to shield yourself from potential disappointment, adopt a more rational approach. Carefully assess the situation, considering both potential risks and rewards, before making a decision. This balanced evaluation can help you make more informed choices, reducing the tendency to overthink by finding a middle ground between pessimism and unrealistic optimism.
+
+Challenge irrational beliefs and replace them with more balanced ones. This will help you stop overthinking.
 
 If you still find yourself dwelling on negative thoughts, evaluate the worst-case scenario. Ask yourself if there's anything within your control that you can do to prevent it. Focus on actions that are within your reach, take the necessary steps, and allow the rest to unfold naturally. Remember, fixating on what's beyond your control only leads to unnecessary stress and anxiety.
 
