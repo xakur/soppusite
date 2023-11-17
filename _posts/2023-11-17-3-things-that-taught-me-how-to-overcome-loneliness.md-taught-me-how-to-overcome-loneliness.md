@@ -20,12 +20,12 @@ It often means that we're not experiencing the emotional closeness and understan
 
 However, this doesn’t have to be the case. You always have one person by your side and that is yourself.
 
-## These 3 Things Taught Me How to Overcome Loneliness
+## These 3 Things Taught Me How to Overcome Loneliness:
 
 <h3 style="padding-top: 27px;">1. It's About Your Ego</h3>
 
-<div class="box-success" style="background-color:#e3ffcf; border-left-color:#e3ffcf;">Consider these questions:
-<br>
+<div class="box-success" style="background-color:#e3ffcf; border-left-color:#e3ffcf;"><b>Consider these questions:</b>
+<br><br>
 <ul>
 <li>Are you willing to let go of the “need” for other people to be around you?</li>
 <li>Why do you feel the urge to have someone by your side?</li>
