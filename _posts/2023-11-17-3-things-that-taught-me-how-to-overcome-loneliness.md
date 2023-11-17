@@ -44,7 +44,7 @@ In fact, I used to hate myself a lot. I was always seeking love from elsewhere s
 
 I eventually realized how unhealthy it was to depend on others to receive warmth and comfort. If I could learn to be comfortable with who I am, I wouldn't need someone else's presence to feel okay. 
 
-## The 3 that Things Taught Me How to Overcome Loneliness:
+## The 3 Things that Taught Me How to Overcome Loneliness:
 
 <h3 style="padding-top: 27px;">1. It's About Your Ego</h3>
 
