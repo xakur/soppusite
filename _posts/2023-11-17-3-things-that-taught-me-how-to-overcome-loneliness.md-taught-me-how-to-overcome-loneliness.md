@@ -2,7 +2,7 @@
 layout: post
 title: 3 Things that Taught Me How to Overcome Loneliness
 share-description:
-thumbnail-img: "https://images.pexels.com/photos/587836/pexels-photo-587836.jpeg"
+thumbnail-img: "https://images.pexels.com/photos/3755021/pexels-photo-3755021.jpeg"
 categories: life-tips
 tags: life-tips
 readtime: true
