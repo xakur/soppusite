@@ -101,19 +101,19 @@ Sometimes, it’s also part of the Universe’s plans to make you go through thi
 {:.image-caption}
 *Image Credit: Hristo Fidanov/Pexels*
 
-This could be a challenge for you to start learning to focus on yourself, start recognizing your merits and power, all on your own! Not through someone else! You have the ability to make yourself feel valued and loved.
+This could be a challenge for you to start learning how to focus on yourself - **start recognizing your merits and power, all on your own! Not through someone else!** You have the ability to make yourself feel valued and loved.
 
-From my own experience, had I continued relying on other people’s accompaniment for happiness, I wouldn’t have started learning to love myself. Self-love isn’t easy, but it can be done. It took me a little over a year to feel more assured of myself, to start loving myself. 
+From my own experience, had I continued relying on other people’s accompaniment for happiness, I wouldn’t have started learning to love myself. Self-love isn’t easy, but it can be done. It took me a little over a year to feel more assured of myself, to start loving myself.
 
-Cultivating self-love might take a long time, but be patient with yourself. Don’t stress over it. Just remember that you are always the first person to support yourself, no matter what you encounter. Love yourself for that.
+Cultivating self-love might take a long time, but be patient with yourself. Don’t stress over it.
+
+Just remember that you are always the first person to support yourself, no matter what you encounter. Love yourself for that.
 
 ### 3. Realizing You Always Have Yourself, No Matter What
 
 No one is meant to be by your side forever. We entered this world alone, and one day, we'll depart alone. This makes it all the more important to show the utmost love to yourself.
 
-People and things in life are unpredictable. People come and go in our lives, people move, people get into fights, people stop liking you and so on.
-
-And may I add, losing people (e.g. friends) after that feels even more agonizing than being alone.
+People and things in life are unpredictable. People come and go in our lives, people move, people get into fights, people stop liking you and so on. And may I add, losing people (e.g. friends) after that feels even more agonizing than being alone.
 
 **Whatever happens, only you will always be by your side.**
 
