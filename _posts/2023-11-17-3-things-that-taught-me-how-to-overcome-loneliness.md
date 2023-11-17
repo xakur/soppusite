@@ -60,7 +60,7 @@ You always want someone’s attention and cannot be by yourself. You need the co
 
 **You need to put down that “ego”.** Perhaps you have a natural expectation that someone should be here with you. Someone that will make you feel important. Without someone, you feel unimportant and lonely.
 
-While it can be argued that humans are social creatures and thus, naturally feel the need to belong to a group in order to be happy, that’s not an official criteria for having a good life. Not everyone thinks the same. This “approach” does not fit everyone, [as some people feel more comfortable without the ‘need to belong’.](https://medium.com/@karen.geddis/being-okay-with-not-wanting-to-belong-16840ca66409)
+While it can be argued that humans are social creatures and thus, naturally feel the need to belong to a group in order to be happy, that’s not an official criteria for having a good life. This “approach” does not fit everyone, [as some people feel more comfortable without the ‘need to belong’.](https://medium.com/@karen.geddis/being-okay-with-not-wanting-to-belong-16840ca66409)
 
 Just like my story, I had an ego in me, thinking that I needed my friend’s presence in order to feel valued and loved. 
 
