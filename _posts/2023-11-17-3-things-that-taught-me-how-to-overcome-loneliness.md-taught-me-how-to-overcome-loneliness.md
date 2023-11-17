@@ -46,20 +46,19 @@ Although it can be argued that humans are social creatures and thus, naturally f
 
 #### My Story
 
-<div style="font-size:16px; color:#484848;">
-  
-<p>As for me, I’m not quite fond of having a bunch of friends or acquaintances to begin with. I only value close and intimate friendships with a few people. However, just like anyone, I've had people I really cared about come and go in my life too. Grieving over loss feels even more agonizing than being alone, if I’m being honest.</p>
-<p>I once had a close friend, we were long distance pals, and we would only talk every couple of days or weeks, as she was always busy with life.There were times when she wouldn’t respond for months even.</p>
-<p>I was always so happy whenever we could talk. But I start feeling lonely and gloomy whenever we stopped talking for weeks. It was as if nothing else could bring me joy</p>
-<p>After another extended period of silence, and feeling tired of waiting on her, I began to reflect on my situation.</p>
-<p><b>Why do I only feel truly happy when I’m talking to her? What is it about her that brings me happiness?"</b> To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
-<p>The answer: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her. I was always seeking those feelings since I couldn’t receive the love and recognition I wanted from my family.</p>
-<p>I eventually realized how unhealthy it was to rely on others for warmth and comfort.</p>
+<div style="font-size:17px; font-style:italic;">
+  <p>As for me, I’m not quite fond of having a bunch of friends or acquaintances to begin with. I only value close and intimate friendships with a few people. However, just like anyone, I've had people I really cared about come and go in my life too. Grieving over loss feels even more agonizing than being alone, if I’m being honest.</p>
+  <p>I once had a close friend, we were long distance pals, and we would only talk every couple of days or weeks, as she was always busy with life.There were times when she wouldn’t respond for months even.</p>
+  <p>I was always so happy whenever we could talk. But I start feeling lonely and gloomy whenever we stopped talking for weeks. It was as if nothing else could bring me joy</p>
+  <p>After another extended period of silence, and feeling tired of waiting on her, I began to reflect on my situation.</p>
+  <p style="color:#484848;"><b>Why do I only feel truly happy when I’m talking to her? What is it about her that brings me happiness?"</b> To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
+  <p>Answer: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her. I was always seeking those feelings since I couldn’t receive the love and recognition I wanted from my family.</p>
+  <p>I eventually realized how unhealthy it was to rely on others for warmth and comfort.</p>
 </div>
 
-I had an ego in me, thinking that I needed my friend’s presence in order to feel valued and loved. 
+I had an ego in me, thinking that I needed my friend’s presence in order to feel valued and loved. If I could learn to be comfortable with who I am, I wouldn't need someone else's presence to feel okay
 
-But true and everlasting love only comes from within you.
+Truth is, true and everlasting love only comes from within you.
 
 You don’t need someone by your side to feel loved or important, because you already are important for yourself.
 
