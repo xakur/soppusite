@@ -27,7 +27,8 @@ However, this doesn’t have to be the case. You always have one person by your 
   <p>Once, I had a long-distance close friend. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months even.</p>
   <p>I was always so happy whenever we could talk! But I inevitably felt lonely and gloomy whenever we stopped talking for weeks. It was as if nothing else could bring me joy, as I really despised my environment back then.</p>
   <p>After some time, yet another extended period of silence, I got tired of waiting on her. I began to reflect on my situation.</p>
-  <p><b>Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b> To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
+  <p style="text-align:center;"><b>"Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b>
+  <p>To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
   <p>Answer: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her.</p>
 </div>
 
