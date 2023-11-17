@@ -31,9 +31,9 @@ However, this doesn’t have to be the case. You always have one person by your 
   <p>Answer: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her.</p>
 </div>
 
-I wasn’t finding joy in other areas of my life. I wasn’t loving myself. **In fact, I used to hate myself a lot**
+I wasn’t finding joy in other areas of my life. I wasn’t loving myself.
 
-I was always seeking those feelings since I couldn’t receive the love and recognition I wanted from my family.
+In fact, I used to hate myself a lot. I was always seeking those feelings since I couldn’t receive the love and recognition I wanted from my family.
 
 I eventually realized how unhealthy it was to depend on others to receive warmth and comfort. If I could learn to be comfortable with who I am, I wouldn't need someone else's presence to feel okay. 
 
