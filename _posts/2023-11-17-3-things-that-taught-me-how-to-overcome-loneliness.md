@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things that Taught Me How to Overcome Loneliness
-share-description:
+share-description: Accept that it is completely ok to be alone. Put down that ego. You don’t need someone by your side to feel loved or important, because you already are important for yourself. No one is meant to be by your side forever. Whatever happens, only you will always be by your side.
 thumbnail-img: "https://images.pexels.com/photos/3755021/pexels-photo-3755021.jpeg"
 categories: life-tips, the-deep
 tags: life-tips, the-deep
