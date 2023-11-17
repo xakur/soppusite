@@ -28,10 +28,10 @@ However, this doesn’t have to be the case. You always have one person by your 
   <p>I got tired of waiting on her one day, after yet another extended period of silence. I began to seriously reflect on my situation.</p>
   <p style="text-align:center;font-style:italic;"><b>"Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b></p>
   <p>To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
-  <p>Answer: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her.</p>
+  <p>What I realized: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her.</p>
 </div>
 
-I wasn’t finding joy in other areas of my life. I wasn’t loving myself.
+I wasn’t finding joy in other areas of my life and relied a lot on her presence. I wasn’t loving myself.
 
 In fact, I used to hate myself a lot. I was always seeking love from elsewhere since I couldn’t receive the love and recognition I wanted from my family.
 
