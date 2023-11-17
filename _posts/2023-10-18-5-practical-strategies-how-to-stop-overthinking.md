@@ -78,7 +78,7 @@ To stop overthinking, question the foundation of your thoughts, especially when 
 
 Instead of rejecting potential positive outcomes to shield yourself from potential disappointment, adopt a more rational approach. Carefully assess the situation, considering both potential risks and rewards, before making a decision. This balanced evaluation can help you make more informed choices, reducing the tendency to overthink by finding a middle ground between pessimism and unrealistic optimism.
 
-Challenge irrational beliefs and replace them with more balanced ones. This will help you stop overthinking.
+Challenge irrational beliefs and replace them with more balanced ones. This will help you to overcome overthinking.
 
 If you still find yourself dwelling on negative thoughts, evaluate the worst-case scenario. Ask yourself if there's anything within your control that you can do to prevent it. Focus on actions that are within your reach, take the necessary steps, and allow the rest to unfold naturally. Remember, fixating on what's beyond your control only leads to unnecessary stress and anxiety.
 
@@ -88,7 +88,7 @@ Overthinking often becomes more pronounced when our minds have too much free tim
 
 ### 5. Create a To-Do List
 
-Creating a to-do list is an effective method to tackle overthinking. It provides an organized plan for your day, letting you know what tasks need your attention. A to-do list provides structure to your life, and can be a good tool to curb overthinking as you stay focused on current tasks that need to be completed. When your schedule is packed, you will not have time to ruminate over matters too. Furthermore, as you check items off your list, you experience a sense of accomplishment. The to-do list acts as a simple but efficient tool that helps channel your thoughts into productive actions.
+Creating a to-do list is an effective method to stop overthinking. It provides an organized plan for your day, letting you know what tasks need your attention. A to-do list provides structure to your life, and can be a good tool to curb overthinking as you stay focused on current tasks that need to be completed. When your schedule is packed, you will not have time to ruminate over matters too. Furthermore, as you check items off your list, you experience a sense of accomplishment. The to-do list acts as a simple but efficient tool that helps channel your thoughts into productive actions.
 
 ## Conclusion
 
