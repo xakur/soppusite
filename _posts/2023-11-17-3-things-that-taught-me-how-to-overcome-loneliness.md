@@ -123,9 +123,7 @@ You never need to fear of losing yourself. That’s the only thing that matters 
 
 You deserve love. If no one else is able to love and appreciate you for who you are, be the first one to love yourself.
 
-Thank yourself for staying strong, for going through all the obstacles that you’ve been through. 
-
-Cherish and appreciate yourself—mind and body—because they work tirelessly each day to keep you alive and functioning at your best. 
+Thank yourself for staying strong, for going through all the obstacles that you’ve been through. **Cherish and appreciate yourself**—mind and body—because they work tirelessly each day to keep you alive and functioning at your best. 
 
 Once you’ve learned to be comfortable with yourself, to get along with only yourself, you will never be bothered by the idea of loneliness again.
 
