@@ -23,7 +23,9 @@ However, this doesn’t have to be the case. You always have one person by your 
 ### This is My Story:
 
 <div class="box-purple" style="background-color:#e9f4ff; font-size:1.008rem; text-align: left; padding-top:1.9375rem;padding-bottom:0.5rem">
-  <p>Honestly, I don't really enjoy having a large social circle. Just a few close friends are enough.
+  <p>Honestly, I don't really enjoy having a large social circle.
+    <br>
+    Just a few close friends are enough.
     <br>
     But just like anyone, I've had people I really cared about come and go in my life too. 
     <br>
