@@ -23,10 +23,8 @@ However, this doesn’t have to be the case. You always have one person by your 
 #### My Story:
 
 <div class="box-purple" style="background-color:#e9f4ff; font-size:1.008rem; text-align: left; padding-top:1.9375rem;padding-bottom:0.5rem">
-  <p>Honestly, I don't really enjoy having a large social circle. Just a few close friends are enough. But just like anyone, I've had people I really cared about come and go in my life too. 
-    <br>
-    (Grieving over loss feels even more agonizing than being alone, I would later realize.)</p>
-  <p>Anyway, there was this long-distance friend I once had. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months too.</p>
+  <p>Honestly, I don't really enjoy having a large social circle. Just a few close friends are enough. But just like anyone, I've had people I really cared about come and go in my life too. (Grieving over loss feels even more agonizing than being alone, I would later realize.)</p>
+  <p>Anyway, I once had a long-distance friend whom I was close to. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months too.</p>
   <p>I was always so happy whenever we talked! However, once we stopped talking for weeks, I would start feeling lonely and gloomy. It was as if nothing else could bring me joy, as I really despised my environment back then.</p>
   <p>I got tired of waiting on her one day, after yet another extended period of silence. I began to reflect on my situation.</p>
   <p style="text-align:center;font-style:italic;"><b>"Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b></p>
