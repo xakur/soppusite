@@ -22,12 +22,12 @@ However, this doesn’t have to be the case. You always have one person by your 
 
 ## My Story
 
-<div class="box-purple" style="font-size:17px; font-style:italic; text-align: left; padding-top:1.9375rem;">
+<div class="box-purple" style="font-size:17px; font-style:italic; text-align: left; padding-top:1.9375rem;padding-botton:0.8rem">
   <p>As for me, I’m not quite fond of having a bunch of friends or acquaintances to begin with. I only value close friendships with a few people. Just like anyone, I've had people I really cared about come and go in my life too. Grieving over loss feels even more agonizing than being alone, if I’m being honest.</p>
   <p>Once, I had a long-distance close friend. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months even.</p>
   <p>I was always so happy whenever we could talk! But I inevitably felt lonely and gloomy whenever we stopped talking for weeks. It was as if nothing else could bring me joy, as I really despised my environment back then.</p>
   <p>After some time, yet another extended period of silence, I got tired of waiting on her. I began to reflect on my situation.</p>
-  <p style="text-align:center;"><b>"Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b>
+  <p style="text-align:center;"><b>"Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b></p>
   <p>To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
   <p>Answer: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her.</p>
 </div>
