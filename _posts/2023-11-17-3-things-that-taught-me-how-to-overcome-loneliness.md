@@ -72,7 +72,7 @@ You don’t need someone by your side to feel loved or important, because you al
 <img src="https://images.pexels.com/photos/11682190/pexels-photo-11682190.jpeg" alt="Woman Hugging Herself on a Seashore" style="width:307px; height:450px; display: block; margin: 0 auto;">
 <p class="image-caption"><i>Image Credit: Nadin Sh/Pexels</i></p>
 
-While some people might be lucky to have people they bond with by their side, that’s their fate and lives. No one said that you **must** be around people in order to feel loved and happy. [Never compare your situation to that of others as we each have our own unique challenges to go through.](https://sliceofpower.com/2023-03-01-why-you-should-not-compare-yourself-to-others/)
+While some people are fortunate to have those they bond with by their side, that’s their fate and lives. No one said that you **must** be around people in order to feel loved and happy. [Never compare your situation to that of others as we each have our own unique challenges to go through.](https://sliceofpower.com/2023-03-01-why-you-should-not-compare-yourself-to-others/)
 
 You can give love to yourself, and in fact, that’s the most important type of love. Taking care of yourself through healthy eating, staying active, and managing your emotions independently is the best treatment to yourself.
 
