@@ -22,7 +22,7 @@ However, this doesn’t have to be the case. You always have one person by your 
 
 ## My Story
 
-<div class="box-purple" style="font-size:17px; font-style:italic; text-align: left; padding-top:1.9375rem; padding-bottom:1rem;">
+<div class="box-purple" style="font-size:17px; font-style:italic; text-align: left; padding-top:1.9375rem; padding-bottom:0.9rem;">
   <p>As for me, I’m not quite fond of having a bunch of friends or acquaintances to begin with. I only value close friendships with a few people. Just like anyone, I've had people I really cared about come and go in my life too. Grieving over loss feels even more agonizing than being alone, if I’m being honest.</p>
   <p>Once, I had a long-distance close friend. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months even.</p>
   <p>I was always so happy whenever we could talk! But I inevitably felt lonely and gloomy whenever we stopped talking for weeks. It was as if nothing else could bring me joy, as I really despised my environment back then.</p>
