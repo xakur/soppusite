@@ -88,13 +88,18 @@ There’s nothing wrong with loneliness. It’s just a state of being and your r
 
 For example, if you lack friends and you choose to feel sad over it, you'll feel sad over it. 
 
-If you don’t associate sadness to it, but rather, view it positively, as quality time or a chance to grow stronger, it will not feel as sad as it seems. It could be an inspiring moment if you make it to be. 
+If you don’t associate sadness to it, but rather, view it positively (e.g. quality time to yourself, a challenge to become stronger), it will not feel as sad as it seems. It could be an inspiring moment if you make it to be. 
 
 Undoubtedly, this is easier said than done. But my point is, loneliness is not a bad thing nor is it something to be ashamed of. 
 
 Self-acceptance plays a key role in freeing yourself. That is to acknowledge yourself for who you are, and to become comfortable with being by yourself.
 
-Sometimes, it’s also part of the Universe’s plans to make you go through this alone. 
+Sometimes, it’s also part of the Universe’s plans to make you go through this alone.
+
+![Scenic View Of Night Sky](https://images.pexels.com/photos/1252873/pexels-photo-1252873.jpeg)
+
+{:.image-caption}
+*Image Credit: Hristo Fidanov/Pexels*
 
 This could be a challenge for you to start learning to focus on yourself, start recognizing your merits and power, all on your own! Not through someone else! You have the ability to make yourself feel valued and loved.
 
