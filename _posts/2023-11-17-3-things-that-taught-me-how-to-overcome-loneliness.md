@@ -113,6 +113,8 @@ No one is meant to be by your side forever. We entered this world alone, and one
 
 People and things in life are unpredictable. People come and go in our lives, people move, people get into fights, people stop liking you and so on.
 
+And may I add, losing people (e.g. friends) after that feels even more agonizing than being alone.
+
 **Whatever happens, only you will always be by your side.**
 
 No one else is as loyal to you as you are to yourself. No one else is as reliable as you in this regard – you always have yourself to rely on. You never need to fear of losing yourself.
