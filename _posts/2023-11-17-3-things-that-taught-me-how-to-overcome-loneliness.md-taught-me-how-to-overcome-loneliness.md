@@ -67,7 +67,7 @@ However, true and everlasting love only comes from within you.
 
 You don’t need someone by your side to feel loved or important, because you already are important for yourself.
 
-<img src="https://images.pexels.com/photos/11682190/pexels-photo-11682190.jpeg" alt="Woman Hugging Herself on a Seashore" style="width:307px; height:476px; display: block; margin: 0 auto;">
+<img src="https://images.pexels.com/photos/11682190/pexels-photo-11682190.jpeg" alt="Woman Hugging Herself on a Seashore" style="width:307px; height:450px; display: block; margin: 0 auto;">
 <p class="image-caption"><i>Image Credit: Nadin Sh/Pexels</i></p>
 
 While some people might be lucky to have people by their side, that’s their fate and lives. No one said that you must be around people in order to feel loved and happy. [Never compare your situation to that of others as we each have our own unique challenges to go through.](https://sliceofpower.com/2023-03-01-why-you-should-not-compare-yourself-to-others/)
@@ -84,7 +84,7 @@ ith loneliness. It’s just a state of being and your reaction towards it. There
 - Accept yourself for who you are, and you don’t need anyone else.
 - Accept that it is **completely ok to be alone.**
 
-For example, if you lack friends and you choose to feel sad over it, you will feel sad over it. 
+For example, if you lack friends and you choose to feel sad over it, you'll feel sad over it. 
 
 If you don’t associate sadness to it, but rather, view it positively, as quality time or a chance to grow stronger, it will not feel as sad as it seems. It could be an inspiring moment if you make it to be. 
 
