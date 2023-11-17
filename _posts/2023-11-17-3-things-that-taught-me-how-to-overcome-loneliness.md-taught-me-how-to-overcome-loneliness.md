@@ -20,6 +20,23 @@ It often means that we're not experiencing the emotional closeness and understan
 
 However, this doesn’t have to be the case. You always have one person by your side and that is yourself.
 
+## My Story
+
+<div class="box-purple" style="font-size:17px; font-style:italic;">
+  <p>As for me, I’m not quite fond of having a bunch of friends or acquaintances to begin with. I only value close friendships with a few people. Just like anyone, I've had people I really cared about come and go in my life too. Grieving over loss feels even more agonizing than being alone, if I’m being honest.</p>
+  <p>Once, I had a long-distance close friend. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months even.</p>
+  <p>I was always so happy whenever we could talk! But I inevitably felt lonely and gloomy whenever we stopped talking for weeks. It was as if nothing else could bring me joy, as I really despised my environment back then.</p>
+  <p>After some time, yet another extended period of silence, I got tired of waiting on her. I began to reflect on my situation.</p>
+  <p><b>Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b> To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
+  <p>Answer: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her.</p>
+</div>
+
+I wasn’t finding joy in other areas of my life. I wasn’t loving myself. **In fact, I used to hate myself a lot**
+
+I was always seeking those feelings since I couldn’t receive the love and recognition I wanted from my family.
+
+I eventually realized how unhealthy it was to depend on others to receive warmth and comfort. If I could learn to be comfortable with who I am, I wouldn't need someone else's presence to feel okay. 
+
 ## These 3 Things Taught Me How to Overcome Loneliness:
 
 <h3 style="padding-top: 27px;">1. It's About Your Ego</h3>
@@ -27,7 +44,7 @@ However, this doesn’t have to be the case. You always have one person by your 
 <div class="box-success" style="background-color:#e3ffcf; border-left-color:#e3ffcf;"><b>Consider these questions:</b>
 <br><br>
 <ul>
-<li>Are you willing to let go of the “need” for other people to be around you?</li>
+<li>Are you willing to let go of the “need” for other people?</li>
 <li>Why do you feel the urge to have someone by your side?</li>
 <li>Why do you need to be validated by someone else?</li>
 <li>What's stopping you from give yourself the validation you receive from others?</li>
@@ -44,21 +61,9 @@ You always want someone’s attention and cannot be by yourself. You need the co
 
 Although it can be argued that humans are social creatures and thus, naturally feel the need to belong to a group in order to be happy. That’s not an official criteria for having a good life. Not everyone thinks the same. This “approach” does not fit everyone, [as some people feel more comfortable without the ‘need to belong’.](https://medium.com/@karen.geddis/being-okay-with-not-wanting-to-belong-16840ca66409)
 
-#### My Story
+Just like my story, I had an ego in me, thinking that I needed my friend’s presence in order to feel valued and loved. 
 
-<div style="font-size:17px; font-style:italic;">
-  <p>As for me, I’m not quite fond of having a bunch of friends or acquaintances to begin with. I only value close and intimate friendships with a few people. However, just like anyone, I've had people I really cared about come and go in my life too. Grieving over loss feels even more agonizing than being alone, if I’m being honest.</p>
-  <p>I once had a close friend, we were long distance pals, and we would only talk every couple of days or weeks, as she was always busy with life.There were times when she wouldn’t respond for months even.</p>
-  <p>I was always so happy whenever we could talk. But I start feeling lonely and gloomy whenever we stopped talking for weeks. It was as if nothing else could bring me joy</p>
-  <p>After another extended period of silence, and feeling tired of waiting on her, I began to reflect on my situation.</p>
-  <p style="color:#484848;"><b>Why do I only feel truly happy when I’m talking to her? What is it about her that brings me happiness?"</b> To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
-  <p>Answer: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her. I was always seeking those feelings since I couldn’t receive the love and recognition I wanted from my family.</p>
-  <p>I eventually realized how unhealthy it was to rely on others for warmth and comfort.</p>
-</div>
-
-I had an ego in me, thinking that I needed my friend’s presence in order to feel valued and loved. If I could learn to be comfortable with who I am, I wouldn't need someone else's presence to feel okay
-
-Truth is, true and everlasting love only comes from within you.
+However, true and everlasting love only comes from within you.
 
 You don’t need someone by your side to feel loved or important, because you already are important for yourself.
 
