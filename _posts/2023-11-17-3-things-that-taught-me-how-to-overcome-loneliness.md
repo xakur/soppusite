@@ -23,11 +23,7 @@ However, this doesn’t have to be the case. You always have one person by your 
 #### My Story:
 
 <div class="box-purple" style="background-color:#e9f4ff; font-size:1.008rem; text-align: left; padding-top:1.9375rem;padding-bottom:0.5rem">
-  <p>Honestly, I don't really enjoy having a large social circle.
-    <br>
-    Just a few close friends are enough.
-    <br>
-    But just like anyone, I've had people I really cared about come and go in my life too. 
+  <p>Honestly, I don't really enjoy having a large social circle. Just a few close friends are enough. But just like anyone, I've had people I really cared about come and go in my life too. 
     <br>
     (Grieving over loss feels even more agonizing than being alone, I would later realize.)</p>
   <p>Anyway, there was this long-distance friend I once had. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months too.</p>
