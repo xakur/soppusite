@@ -117,9 +117,9 @@ And may I add, losing people (e.g. friends) after that feels even more agonizing
 
 **Whatever happens, only you will always be by your side.**
 
-No one else is as loyal to you as you are to yourself. No one else is as reliable as you in this regard – you always have yourself to rely on. You never need to fear of losing yourself.
+No one else is as loyal to you as you are to yourself. No one else is as reliable as you in this regard – you definitely always have yourself to rely on.
 
-You will definitely always have yourself. That’s the only thing that matters – to not give up on yourself. 
+You never need to fear of losing yourself. That’s the only thing that matters – to not give up on yourself. 
 
 You deserve love. If no one else is able to love and appreciate you for who you are, be the first one to love yourself.
 
