@@ -22,7 +22,7 @@ However, this doesn’t have to be the case. You always have one person by your 
 
 ## My Story
 
-<div class="box-purple" style="font-size:17px; font-style:italic; text-align: left; padding-top:1.9375rem;padding-botton:0.8rem">
+<div class="box-purple" style="font-size:17px; font-style:italic; text-align: left; padding-top:1.9375rem;padding-bottom:0.8rem">
   <p>As for me, I’m not quite fond of having a bunch of friends or acquaintances to begin with. I only value close friendships with a few people. Just like anyone, I've had people I really cared about come and go in my life too. Grieving over loss feels even more agonizing than being alone, if I’m being honest.</p>
   <p>Once, I had a long-distance close friend. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months even.</p>
   <p>I was always so happy whenever we could talk! But I inevitably felt lonely and gloomy whenever we stopped talking for weeks. It was as if nothing else could bring me joy, as I really despised my environment back then.</p>
@@ -42,7 +42,8 @@ I eventually realized how unhealthy it was to depend on others to receive warmth
 
 <h3 style="padding-top: 27px;">1. It's About Your Ego</h3>
 
-<div class="box-success" style="background-color:#e3ffcf; border-left-color:#e3ffcf;"><b>Consider these questions:</b>
+<div class="box-success" style="background-color:#e3ffcf; border-left-color:#e3ffcf;">
+  <p><b>Consider these questions:</b></p>
 <br><br>
 <ul>
 <li>Are you willing to let go of the “need” for other people?</li>
