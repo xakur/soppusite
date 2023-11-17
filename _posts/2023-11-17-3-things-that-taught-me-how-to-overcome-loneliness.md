@@ -22,8 +22,12 @@ However, this doesn’t have to be the case. You always have one person by your 
 
 ### This is My Story:
 
-<div class="box-purple" style="background-color:#ffffff; font-size:1.008rem; text-align: left; padding-top:1.9375rem;padding-bottom:0.5rem">
-  <p>Honestly, I don't really enjoy having a large social circle. Just a few close friends are enough. But just like anyone, I've had people I really cared about come and go in my life too. (Grieving over loss feels even more agonizing than being alone, I would later realize.)</p>
+<div class="box-purple" style="background-color:#e9f4ff; font-size:1.008rem; text-align: left; padding-top:1.9375rem;padding-bottom:0.5rem">
+  <ul>
+  <li>Honestly, I don't really enjoy having a large social circle. Just a few close friends are enough.</li>
+  <li>But just like anyone, I've had people I really cared about come and go in my life too.</li>
+  <li>(Grieving over loss feels even more agonizing than being alone, I would later realize.)</li>
+  </ul>
   <p>Anyway, there was this long-distance friend I once had. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months too.</p>
   <p>I was always so happy whenever we talked! However, once we stopped talking for weeks, I would start feeling lonely and gloomy. It was as if nothing else could bring me joy, as I really despised my environment back then.</p>
   <p>I got tired of waiting on her one day, after yet another extended period of silence. I began to reflect on my situation.</p>
