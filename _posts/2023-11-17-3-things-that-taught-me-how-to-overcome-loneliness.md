@@ -20,14 +20,14 @@ It often means that we're not experiencing the emotional closeness and understan
 
 However, this doesn’t have to be the case. You always have one person by your side and that is yourself.
 
-## My Story
+### This is My Story:
 
-<div class="box-purple" style="background-color:#f7f0f0; font-size:16px; text-align: left; padding-top:1.9375rem;padding-bottom:0.8rem">
-  <p>Well, I’m not quite fond of having a bunch of friends or acquaintances to begin with. I only value close friendships with a few people.</p>
-  <p>Just like anyone, I've had people I really cared about come and go in my life too. Grieving over loss feels even more agonizing than being alone, I later realized.</p>
-  <p>Anyway, I once had a long-distance close friend. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months too.</p>
-  <p>I was always so happy whenever we could talk! But I inevitably felt lonely and gloomy whenever we stopped talking for weeks. It was as if nothing else could bring me joy, as I really despised my environment back then.</p>
-  <p>I got tired of waiting on her, after yet another extended period of silence. I began to reflect on my situation.</p>
+<div class="box-purple" style="background-color:#fff1f4; font-size:16px; text-align: left; padding-top:1.9375rem;padding-bottom:0.8rem">
+  <p>Honestly, I don't really enjoy having a large social circle. Just a few close friends are enough. But just like anyone, I've had people I really cared about come and go in my life too.</p>
+  <p><i>Grieving over loss feels even more agonizing than being alone, I would later realize.</i></p>
+  <p>Anyway, there was this long-distance friend I once had. We would only talk every couple of days or weeks, as she was always busy with life. There were times when she wouldn’t respond for months too.</p>
+  <p>I was always so happy whenever we talked! However, once we stopped talking for weeks, I would start feeling lonely and gloomy. It was as if nothing else could bring me joy, as I really despised my environment back then.</p>
+  <p>I got tired of waiting on her one day, after yet another extended period of silence. I began to reflect on my situation.</p>
   <p style="text-align:center;font-style:italic;"><b>"Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b></p>
   <p>To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
   <p>Answer: Her presence made me feel loved. She was nice to me. I felt warmth just by chatting with her.</p>
