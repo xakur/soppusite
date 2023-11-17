@@ -20,7 +20,7 @@ It often means that we're not experiencing the emotional closeness and understan
 
 However, this doesn’t have to be the case. You always have one person by your side and that is yourself.
 
-### This is My Story:
+#### My Story:
 
 <div class="box-purple" style="background-color:#e9f4ff; font-size:1.008rem; text-align: left; padding-top:1.9375rem;padding-bottom:0.5rem">
   <p>Honestly, I don't really enjoy having a large social circle.
