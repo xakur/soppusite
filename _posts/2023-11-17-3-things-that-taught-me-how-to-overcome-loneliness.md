@@ -33,9 +33,9 @@ However, this doesn’t have to be the case. You always have one person by your 
 
 I wasn’t finding joy in other areas of my life and relied a lot on her presence. I wasn’t loving myself.
 
-In fact, I used to hate myself a lot. I was always seeking love from elsewhere since I couldn’t receive the love and recognition I wanted from my family.
+In fact, I used to hate myself. I was always seeking love from elsewhere since I couldn’t receive the love and recognition I wanted from my family.
 
-I eventually realized how unhealthy it was to depend on others to receive warmth and comfort. If I could learn to be comfortable with who I am, I wouldn't need someone else's presence to feel okay. 
+I eventually realized how unhealthy it was to depend on others to receive warmth and comfort. **If I could learn to be comfortable with who I am, I wouldn't need another person's presence to feel okay.**
 
 ## The 3 Things that Taught Me How to Overcome Loneliness:
 
