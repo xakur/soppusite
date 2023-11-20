@@ -26,10 +26,10 @@ However, this doesn’t have to be the case. You always have one person by your 
   <p>I once had this very close friend. We were long distance pals, and we would only talk every couple of days or even weeks, as she was always busy with life.</p>
   <p>Talking with her always made me happy, but there were times she wouldn't respond for months, <b>leaving me lonely and gloomy.</b> It felt like nothing else could bring me joy, especially since I really despised my environment back then.</p>
   <p>I got tired of waiting on her one day, after yet another extended period of silence. I began to seriously reflect on my situation.</p>
-  <p style="text-align:center;font-style:italic;"><b>"Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b></p>
+  <p style="text-align:center;font-style:italic;"><b>"Why do I only feel genuine happiness when I’m talking to her?<br/>What is it about her that gives me happiness?"</b></p>
   <p>To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
   <p>What I realized: <b>Her presence made me feel loved.</b> She was nice to me. I felt warmth just by chatting with her.</p>
-  <p style="text-align:center;font-size:17px;"><b>If I could learn to be comfortable with who I am, I wouldn't need another person's presence to feel okay.</b></p>
+  <p style="text-align:center;font-size:18px;"><b>If I could learn to be comfortable with who I am, I wouldn't need another person's presence to feel okay.</b></p>
 </div>
 
 I wasn’t finding joy in other areas of my life and relied a lot on her presence. I wasn’t loving myself.
