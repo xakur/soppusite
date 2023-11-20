@@ -29,13 +29,14 @@ However, this doesn’t have to be the case. You always have one person by your 
   <p style="text-align:center;font-style:italic;"><b>"Why do I only feel genuine happiness when I’m talking to her? What is it about her that gives me happiness?"</b></p>
   <p>To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
   <p>What I realized: <b>Her presence made me feel loved.</b> She was nice to me. I felt warmth just by chatting with her.</p>
+  <p style="text-align:center;"><b>If I could learn to be comfortable with who I am, I wouldn't need another person's presence to feel okay.</b></p>
 </div>
 
 I wasn’t finding joy in other areas of my life and relied a lot on her presence. I wasn’t loving myself.
 
 In fact, I used to hate myself. I was always seeking love from elsewhere since I couldn’t receive the love and recognition I wanted from my family.
 
-I eventually realized how unhealthy it was to depend on others to receive warmth and comfort. **If I could learn to be comfortable with who I am, I wouldn't need another person's presence to feel okay.**
+I eventually realized how unhealthy it was to depend on others to receive warmth and comfort.
 
 ## The 3 Things that Taught Me How to Overcome Loneliness:
 
