@@ -94,7 +94,7 @@ If you don’t associate sadness to it, but rather, view it positively (e.g. qua
 
 Undoubtedly, this is easier said than done. But my point is, loneliness is not a bad thing nor is it something to be ashamed of. 
 
-Self-acceptance plays a key role in freeing yourself. That is to acknowledge yourself for who you are, and to become comfortable with being by yourself.
+**Self-acceptance plays a key role in freeing yourself.** That is to acknowledge yourself for who you are, and to become comfortable with being by yourself.
 
 Sometimes, it’s also part of the Universe’s plans to make you go through this alone.
 
