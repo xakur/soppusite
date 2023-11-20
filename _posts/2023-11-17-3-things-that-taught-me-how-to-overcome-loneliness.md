@@ -29,8 +29,9 @@ However, this doesn’t have to be the case. You always have one person by your 
   <p style="text-align:center;font-style:italic;"><b>"Why do I only feel genuine happiness when I’m talking to her?<br/>What is it about her that gives me happiness?"</b></p>
   <p>To be honest, she wasn’t even that great of a friend - she wasn’t around when I needed support the most.</p>
   <p>What I realized: <b>Her presence made me feel loved.</b> She was nice to me. I felt warmth just by chatting with her.</p>
-  <p style="text-align:center;font-size:18px;"><b>If I could learn to be comfortable with who I am, I wouldn't need another person's presence to feel okay.</b></p>
 </div>
+
+  <p style="text-align:center;font-size:18px;"><b>If I could learn to be comfortable with who I am,<br/>I wouldn't need another person's presence to feel okay.</b></p>
 
 I wasn’t finding joy in other areas of my life and relied a lot on her presence. I wasn’t loving myself.
 
