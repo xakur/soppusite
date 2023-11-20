@@ -6,7 +6,7 @@ thumbnail-img: "https://images.pexels.com/photos/3755021/pexels-photo-3755021.jp
 categories: life-tips, the-deep
 tags: life-tips, the-deep
 readtime: true
-excerpt: “I feel lonely” – we have all felt this in our lives before. Loneliness arises when we feel disconnected from the people in our lives, especially when we cannot find like-minded people in our surroundings. It often means that we're not experiencing the emotional closeness and understanding that comes from meaningful connections. We may experience a lack of support and recognition
+excerpt: “I feel lonely” – we have all felt this in our lives. Loneliness arises when we feel disconnected from the people in our lives, especially when we cannot find like-minded people in our surroundings. It often means that we're not experiencing the emotional closeness and understanding that comes from meaningful connections. We may experience a lack of support and recognition
 ---
 
 ![Woman in Beige Long Sleeve Coat Standing on Brown Leaves](https://images.pexels.com/photos/3755021/pexels-photo-3755021.jpeg)
@@ -14,7 +14,7 @@ excerpt: “I feel lonely” – we have all felt this in our lives before. Lone
 {:.image-caption}
 *Image Credit: Andrea Piacquadio/Pexels*
 
-“I feel lonely” – we have all felt this in our lives before. Loneliness arises when we feel disconnected from the people in our lives, [especially when we cannot find like-minded people in our surroundings](https://sliceofpower.com/2023-04-24-3-reasons-you-feel-lonely-and-what-you-can-do/). 
+“I feel lonely” – we have all felt this in our lives. Loneliness arises when we feel disconnected from the people in our lives, [especially when we cannot find like-minded people in our surroundings](https://sliceofpower.com/2023-04-24-3-reasons-you-feel-lonely-and-what-you-can-do/). 
 
 It often means that we're not experiencing the emotional closeness and understanding that comes from meaningful connections. We may experience a lack of support and recognition, leading to a sense of loneliness. In worse scenarios, people may distance themselves from you because they don't like you for who you are or because of your quirks. 
 
