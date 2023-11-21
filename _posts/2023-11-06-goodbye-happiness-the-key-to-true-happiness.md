@@ -71,7 +71,7 @@ In fact, we will stop being sad over the idea of "happiness" or how difficult pu
 
 As we are pursuing happiness, we may start **overthinking and have negative thoughts about the future** (e.g. what if I fail or mess up on something). Overthinking can lead to anxiety and impede productivity, among various consequences. [There are practical strategies that you can adopt to stop overthinking as well as negative thoughts,](https://sliceofpower.com/2023-10-18-5-practical-strategies-how-to-stop-overthinking/) so as to help you stay focused on your path and live in the moment.
 
-**Feel that instant relief by saying goodbye to happiness - you no longer have to answer for happiness** nor do you have to be in a rush to fulfill something. Just do you, at your own pace.
+Feel that **instant relief** by saying goodbye to happiness - **you no longer have to answer for happiness** nor do you have to be in a rush to fulfill something. Just do you, at your own pace.
 
 ![person lying on grass](https://images.pexels.com/photos/90440/pexels-photo-90440.jpeg)
 
