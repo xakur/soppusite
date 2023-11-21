@@ -57,7 +57,9 @@ Although the act of overthinking itself does not bring about serious harm, it ca
 
 Mindfulness meditation involves focusing your attention on the present moment. The act of meditating is like taking a mental break to focus on only yourself as you focus on your breathing. As you focus on your breathing, you are able to slow down your racing thoughts. Focus on being in the present moment. Breathe and let go of tension. Let your mind quieten down amidst all the chaos.
 
-Meditation helps to calm your mind. Often, when we overthink, we worry about the future. We are always in a rush to attain our desired happiness - what we envision happiness to be. We let the unknown future dictate our current happiness. [The pursuit of happiness can be stressful. Letting go of the (perfect) idea of "Happiness" can keep you focused on **living in the present.**](https://sliceofpower.com/2023-11-06-goodbye-happiness-the-key-to-true-happiness/) Finding comfort in the present moment can help to free your mind. 
+Meditation helps to calm your mind. Often, when we overthink, we worry about the future. We are always in a rush to attain our desired happiness - what we envision happiness to be. We let the unknown future dictate our current happiness.
+
+The pursuit of happiness can be stressful. The key to being happy is to let go of the (perfect) idea of "Happiness", and be focused on **living in the present.**](https://sliceofpower.com/2023-11-06-goodbye-happiness-the-key-to-true-happiness/) Finding comfort in the present can help to free your mind from stress and anxiety. 
 
 If you do not know how to meditate, you can start by looking for guided meditation videos on YouTube. There are different types of meditation tailored to different needs, e.g. self-love meditation, meditation for calm, anxiety meditation. Typically, these videos incorporate positive affirmations to help you feel better. Depending on the video or audio, a guided meditation can range from 10 minutes to an hour. 
 
