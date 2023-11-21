@@ -113,9 +113,11 @@ Experience true happiness by embracing and savoring all the comforts that are av
 {:.image-caption}
 *Image Credit: Puwadon Sang-ngern/Pexels*
 
-Once you have got hold of your present circumstances, you will be in a better mental state to reach out to happiness. How? In a better frame of mind, you will stop feeling sad, and start taking proactive steps to keep yourself happy; maintain your sense of contentment. But even if you don’t want to do anything extra, that’s fine too.
+Once you have got hold of your present circumstances, you will be in a better mental state to reach out to happiness.
 
-**The key is happiness is to find comfort in the present**, especially during those moments of burnout when it feels like you cannot move forward. Drop everything, and engage in activities that you enjoy. For example, if watching a show makes you happy, do it right away.
+How? In a better frame of mind, you will stop feeling sad, and start taking proactive steps to keep yourself happy; maintain your sense of contentment. But even if you don’t want to do anything extra, that’s fine too.
+
+**The key to happiness is to find comfort in the present**, especially during those moments of burnout when it feels like you cannot move forward. Drop everything, and engage in activities that you enjoy. For example, if watching a show makes you happy, do it right away.
 
 Do what it takes to maintain your inner peace and contentment. It doesn’t matter even if these inner feelings are at low levels at the moment. Recharging yourself by doing what you enjoy would help to build it up.
 
