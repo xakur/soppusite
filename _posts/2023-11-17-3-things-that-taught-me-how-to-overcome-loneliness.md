@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things that Taught Me How to Overcome Loneliness
-share-description: There’s nothing wrong with loneliness.  Accept that it is completely ok to be alone. Put down that ego. You don’t need someone else to feel loved or important. You already are important for yourself. No one is meant to be by your side forever. Whatever happens, only you will always be by your side.
+share-description: There’s nothing wrong with loneliness.  Accept that it is completely ok to be alone. Put down that ego. No one is meant to be by your side forever. Only you can make yourself feel loved and important.
 thumbnail-img: "https://images.pexels.com/photos/3755021/pexels-photo-3755021.jpeg"
 categories: life-tips, the-deep
 tags: life-tips, the-deep
