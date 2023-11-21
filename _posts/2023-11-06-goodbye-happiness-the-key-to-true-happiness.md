@@ -26,7 +26,9 @@ The upbeat melody allowed me to let loose and be free of all obligations as I sa
 
 <iframe width="100%" height="auto" style="min-height:330px" src="https://www.youtube.com/embed/rUhhPZtYl7Y" title="宇多田ヒカル - Goodbye Happiness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Certainly, my focus today isn't on the song. But simply, the idea of saying “goodbye happiness” – feeling free from the never-ending pursuit of happiness. Letting go of the need to achieve something in order to be happy. Letting go of the perfect idea of “Happiness”.
+Certainly, my focus today isn't on the song. But simply, the idea of saying “goodbye happiness” – feeling free from the never-ending pursuit of happiness. Letting go of the need to achieve something in order to be happy.
+
+Letting go of the perfect idea of “Happiness”.
 
 ## Goodbye Happiness – What Does It Mean?
 
@@ -39,7 +41,7 @@ Certainly, my focus today isn't on the song. But simply, the idea of saying “g
 #### If happiness hasn’t arrived despite having tried so hard, I go by this mindset...
 <p style="margin-top: -1px; font-size:17px;"><i>“Screw it! Screw Happiness! I’m just gonna live however I want, do whatever I want and stop being restrained by the thought of happiness.”</i></p>
 
-The idea behind this mentality is that I’m not going to chase after happiness anymore. 
+The idea behind this mentality is that I’m going to stop pursuing happiness. 
 
 Instead, I will just make use of what I have right now and find comfort from within. 
 
