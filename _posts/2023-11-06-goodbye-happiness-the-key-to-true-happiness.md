@@ -69,7 +69,7 @@ It works similarly to how you typically won’t feel "happy" right after crying 
 
 In fact, we will stop being sad over the idea of "happiness" or how difficult pursuing our happiness is. We are letting it go.
 
-As we are pursuing happiness, we may start to overthink and have negative thoughts about the future (e.g. what if I fail or mess up on something). Overthinking can lead to anxiety and impede productivity, among various consequences. [There are practical strategies that you can adopt to stop overthinking as well as negative thoughts,](https://sliceofpower.com/2023-10-18-5-practical-strategies-how-to-stop-overthinking/) so as to help you stay focused on your path and live in the moment.
+As we are pursuing happiness, we may start **overthinking and having negative thoughts about the future** (e.g. what if I fail or mess up on something). Overthinking can lead to anxiety and impede productivity, among various consequences. [There are practical strategies that you can adopt to stop overthinking as well as negative thoughts,](https://sliceofpower.com/2023-10-18-5-practical-strategies-how-to-stop-overthinking/) so as to help you stay focused on your path and live in the moment.
 
 **Feel that instant relief by saying goodbye to happiness - you no longer have to answer for happiness** nor do you have to be in a rush to fulfill something. Just do you, at your own pace.
 
