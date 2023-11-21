@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Goodbye Happiness: The Key to True Happiness"
-share-description: Feel that instant relief when you say goodbye to happiness. The key is happiness is to find comfort in the present. When you’re are getting tired of pursuing happiness, it is no longer serving you well. Let go of the idea of happiness and be in the present. 
+share-description: Feel that instant relief when you say goodbye to happiness. The key to happiness is to find comfort in the present. When you’re getting tired of pursuing happiness, it is no longer serving you well. Let go of the idea of happiness and be in the present. 
 thumbnail-img: "https://images.pexels.com/photos/3808845/pexels-photo-3808845.jpeg"
 categories: the-deep
 tags: the-deep
@@ -61,7 +61,7 @@ That shouldn’t be how things work. True happiness can only be defined by yours
 
 ### Reason 1: Goodbye Happiness, to reset your mind.
 
-When you’re are getting tired of pursuing happiness, it is no longer serving you well. Resetting your mind to zero will be helpful.
+When you’re getting tired of pursuing happiness, it is no longer serving you well. Resetting your mind to zero will be helpful.
 
 "Goodbye Happiness" might seem like a negative scenario, as if we are giving up on happiness and that sadness takes over. But that's not the case! Saying goodbye to happiness does not mean that you will immediately feel sad.
 
