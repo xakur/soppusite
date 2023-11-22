@@ -62,7 +62,7 @@ Whichever it is, it is important to hold yourself accountable at the end of the 
 <p>To ensure that your stubbornness or resolute mindset is not sabotaging you, you may want to list your reasons for a certain decision. Ideally, weigh the pros and cons of doing and not doing it.</p>
 <p>Consider all angles, including what others might have told you. No one said that you must listen to what others tell you, but taking into account of other suggestions or advice can help you reach a well-informed decision. This is especially helpful when dealing with a serious issue.</p>
 <p>When looking at the downsides of the decision, <b>evaluate if you are prepared to bear the consequences if the worst case scenario happens.</b></p>
-<p>Always remember that you only have to answer to yourself at the end of the day. Whether you choose to listen to the words of others, you must be responsible and bear the consequences of your own actions, if anything were to go wrong.</p>
+<p>Always remember that you only have to answer to yourself at the end of the day. Whether you choose to listen to the words of others, you must be responsible for your own actions.</p>
 </div>
 
 <h4 style="font-size: 1.185rem; font-weight: bold;"><li>It prevents you from growing.</li></h4>
