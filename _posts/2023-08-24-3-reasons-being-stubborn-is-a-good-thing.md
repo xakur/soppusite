@@ -33,9 +33,7 @@ As much as we have our reasons for giving suggestions, they *might* have their s
 
 ## Are You Stubborn?
 
-As mentioned above, whether someone is considered stubborn or not depends on varying perspectives.
-
-So when someone accuses you of being stubborn, it's **up to you to decide** whether or not that's true. Do you have valid reasoning to back up your stance?
+Given that whether someone is seen as stubborn depends on varying perspectives, it's really **up to you to decide** if you're being stubborn, when someone accuses you of it.
 
 You don’t necessarily have to be affected by what they said as there is always a limitation on our capacity to fathom another person’s situation and vice versa. [If you do not feel comfortable hearing what someone else said (be it out of a positive or negative intent), the words are not meant for you. You have the choice to accept or reject it.](https://sliceofpower.com/2022-11-19-5-tips-on-becoming-unaffected-by-what-people-say/)
 
