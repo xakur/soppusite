@@ -14,7 +14,7 @@ excerpt: Overthinking is a common mental habit that many of us grapple with dail
 {:.image-caption}
 *Image Credit: Martijn Adegeest/Pexels*
 
-Overthinking is a common mental habit that many of us grapple with daily. It's the process of analyzing, replaying, and overanalyzing past events or obsessing about future scenarios. While it's natural to contemplate choices or ruminate on experiences occasionally, overthinking can become a harmful cycle that disrupts our peace of mind and stifles productivity. Sometimes, as we overthink, we might even start doubting ourselves in everything that we do. It is important to [take things easy and avoid being too hard on ourselves when our minds start overthinking and becoming doubtful of ourselves.](https://sliceofpower.com/2022-12-15-how-to-stay-hopeful-in-times-of-doubt/)
+Overthinking is a common mental habit that many of us grapple with daily. It's the process of analyzing, replaying, and overanalyzing past events or obsessing about future scenarios. While it's natural to contemplate choices or ruminate on experiences occasionally, overthinking can become a harmful cycle that disrupts our peace of mind and stifles productivity. Sometimes, **as we overthink, we might even start doubting ourselves in everything that we do.** It is important to [take things easy and avoid being too hard on ourselves when our minds start overthinking and becoming doubtful of ourselves.](https://sliceofpower.com/2022-12-15-how-to-stay-hopeful-in-times-of-doubt/)
 
 In this comprehensive article, we will delve into the roots of overthinking, explore its consequences, and, most importantly, provide practical strategies on how to stop overthinking.
 
