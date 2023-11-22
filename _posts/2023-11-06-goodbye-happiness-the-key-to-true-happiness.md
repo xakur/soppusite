@@ -78,7 +78,7 @@ Feel that **instant relief** by saying goodbye to happiness - **you no longer ha
 {:.image-caption}
 *Image Credit: Matthias Zomer/Pexels*
 
-Starting immediately, give yourself space and time to live in the present. Instead of feeling troubled over the thought of happiness, take time to appreciate your present self in this very moment. Free yourself from the burden and focus on the present.
+Starting immediately, give yourself space and time to live in the moment. Instead of feeling troubled over the thought of happiness, take time to appreciate your present self in this very moment. Free yourself from the burden and focus on the present.
 
 Things are always changing. We can never predict how things will turn out or how circumstances may change that that would affect our journeys.
 
@@ -108,7 +108,7 @@ Free yourself from the burdens of seeking happiness. Relax and live in the momen
 
 Experience true happiness by embracing and savoring all the comforts that are available to you in this very moment. Appreciate yourself in the moment as well.
 
-[Being in the present enables us to fully experience everything that is around us.](https://time.com/collection/guide-to-happiness/4856944/secrets-happier-life/) Choosing to live in the present can alleviate anxiety, saving your valuable time and mental energy from being consumed by thoughts about the future.
+[Being in the present enables us to fully experience everything that is around us.](https://time.com/collection/guide-to-happiness/4856944/secrets-happier-life/) Choosing to live in the moment can alleviate anxiety, saving your valuable time and mental energy from being consumed by thoughts about the future.
 
 ![smiling woman touching heart](https://images.pexels.com/photos/5340278/pexels-photo-5340278.jpeg)
 
