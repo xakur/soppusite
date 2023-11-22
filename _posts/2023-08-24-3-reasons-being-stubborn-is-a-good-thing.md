@@ -16,46 +16,68 @@ excerpt: Stubbornness is a subjective opinion. What I think is stubborn behavior
 
 Stubbornness is a subjective opinion. What I think is stubborn behavior, others might not think so. It’s an observed trait that people give or tell us and vice versa. Most of the time, we probably don’t know when we are being stubborn.
 
-Stubbornness is often felt when we see someone hold on to a belief that we deem wrong or unsuitable. In many cases, stubbornness is felt when either a decision needs to be made or an action is required - the person involved insists on doing what they want, disregarding other suggestions. We thus see them as stubborn in their thinking or ways, as they are not receptive to change or better ideas. We typically think that they are not doing the right thing.
+## Understanding the Meaning of Stubborn 
 
-However, as much as we have our reasons for giving suggestions, they might have their strong reasons for insisting on their stance. It is a matter of perspective.
+Stubborn can be understood as being resistant to change. A stubborn person has a strong determination to stick to their opinions and actions. It is often difficult to persuade or influence a stubborn person due to their strong will.
+
+## When do We Identify Stubborn Behavior?
+
+We spot stubborn behavior when someone persists in holding onto a belief we consider incorrect or inappropriate, even after being advised. Typically, we notice stubborn behavior when either a decision or an action is required - the person involved insists on doing what they want, disregarding other suggestions. We thus see them as stubborn in their thinking or ways, as they are not receptive to change or better ideas. We think that they are not doing the right thing.
+
+#### However, are they really wrong in their beliefs?
+
+As much as we have our reasons for giving suggestions, they *might* have their strong reasons for insisting on their stance. **Stubborn or not, it is a matter of perspective.**
 
 <img src="https://images.pexels.com/photos/17895618/pexels-photo-17895618/free-photo-of-kittens-playing-on-ground.jpeg" alt="two kittens" style="width:543px; height:359px; display: block; margin: 0 auto;">
 <p class="image-caption"><i>Image Credit: Vladimir Srajber/Pexels</i></p>
 
-So when somebody tells you that you are stubborn, it’s up to you to decide whether it’s true or not. You don’t necessarily have to be affected by what they said as there is always a limitation on our capacity to fathom another person’s situation and vice versa. [If you do not feel comfortable hearing what someone else said (be it out of a positive or negative intent), the words are not meant for you. You have the choice to accept or reject it.](https://sliceofpower.com/2022-11-19-5-tips-on-becoming-unaffected-by-what-people-say/)
+## Are You Stubborn?
 
-If you think that what someone else said made sense and you start doubting yourself, it will be good to reevaluate your decision by considering all possible choices or suggestions. This is not to make them happy or prove who is right in this, it is to give you a clearer understanding of your situation, so that you can make the best choice that you are willing to be accountable for.
+As mentioned above, whether someone is considered as stubborn or not depends on different perspectives.
 
-Before moving to the 3 reasons why being stubborn is a good thing, let's take a look at how being stubborn is a **bad** thing:
+So when someone accuses you of being stubborn, it's up to you to decide whether or not that's true. Do you have valid reasoning to back up your stance?
 
-<li style="font-size: 1.175rem; font-weight: bold;">You might be doing the wrong thing or ignoring the consequences.</li>
+You don’t necessarily have to be affected by what they said as there is always a limitation on our capacity to fathom another person’s situation and vice versa. [If you do not feel comfortable hearing what someone else said (be it out of a positive or negative intent), the words are not meant for you. You have the choice to accept or reject it.](https://sliceofpower.com/2022-11-19-5-tips-on-becoming-unaffected-by-what-people-say/)
 
-As mentioned above, stubbornness is a matter of perspective. People might think that you’re doing the wrong thing, although you might not think so. 
+On the other hand, however, if someone else's words make sense to you and you start questioning your thoughts and intentions, it will be wise to reevaluate your decision by considering all possible choices or suggestions.
+
+This is not to make them happy or to prove who is correct; rather, it is to provide you with a better understanding of your situation so that you may make the best choice for which you are willing to be accountable for.
+
+## The Drawbacks of Being Stubborn
+
+Before moving to the 3 reasons why being stubborn is a good thing, let's first take a look at how being stubborn is a **bad** thing:
+
+<h4 style="font-size: 1.175rem; font-weight: bold;"><li>You might be doing the wrong thing or ignoring the consequences.</li></h4>
+
+As stated earlier, stubbornness is a matter of perspective. People might think that you’re doing something wrong, though you might not think so. 
 
 Well-intended people might voice their concerns telling you why you should or should not do certain things. They might find you stubborn if you insist on your stance or refuse to look at things from their perspective.
 
-However, as long as it doesn't involve breaking the law and harming others, who is able to truly determine what is right or wrong? 
+**_However, as long as it doesn't involve breaking the law and harming others, who is able to truly determine what is right or wrong?_** 
 
-At times, even if we are already aware of the consequences of the issue, we choose to ignore them and do what we think is best. Whichever it is, it is important to hold yourself accountable at the end of the day.
+At times, even if we are already aware of the consequences of an issue, we choose to ignore them and do what we think is best. 
 
-<div class="imgtext-container" style="display: block; background-color: #d7edcc; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
+Whichever it is, it is important to hold yourself accountable at the end of the day.
+
+<div class="imgtext-container" style="display: block; background-color: #fcff9269; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
 <h4><b>How to resolve this?</b></h4>
-<p>To ensure that your stubbornness or resolute mindset is not sabotaging you, you may want to list the reasons why you want to go ahead with a certain decision. Ideally, weigh the pros and cons of doing and not doing it.</p>
+<p>To ensure that your stubbornness or resolute mindset is not sabotaging you, you may want to list your reasons for a certain decision. Ideally, weigh the pros and cons of doing and not doing it.</p>
 <p>Consider all angles, including what others might have told you. No one said that you must listen to what others tell you, but taking into account of other suggestions or advice can help you reach a well-informed decision. This is especially helpful when dealing with a serious issue.</p>
 <p>When looking at the downsides of the decision, <b>evaluate if you are prepared to bear the consequences if the worst case scenario happens.</b></p>
-<p>Always remember that you only have to answer to yourself at the end of the day. Whether you choose to listen to what others tell you or not, if anything were to go wrong, you must be responsible and bear the consequences of your own actions.</p>
+<p>Always remember that you only have to answer to yourself at the end of the day. Whether you choose to listen to the words of others, you must be responsible and bear the consequences of your own actions, if anything were to go wrong.</p>
 </div>
 
-<li style="font-size: 1.175rem; font-weight: bold;">It prevents you from growing.</li>
+<h4 style="font-size: 1.175rem; font-weight: bold;"><li>It prevents you from growing.</li></h4>
 
-When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times. Stagnation can occur if you refuse to consider different perspectives or make an improvement from past mistakes. Refusing to be open-minded and clinging to your own perspectives without considering other viewpoints can hinder your personal growth, as it restricts your exposure to more knowledge and information.
+When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times.
 
-<div class="imgtext-container" style="display: block; background-color: #d7edcc; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
+Stagnation can occur if you refuse to consider different perspectives or make improvements from past mistakes. Refusing to be open-minded and clinging to your own perspectives without considering other viewpoints can hinder your personal growth, as it restricts your exposure to more knowledge and information.
+
+<div class="imgtext-container" style="display: block; background-color: #fcff9269; padding-top:30px; padding-left:30px; padding-right:30px; padding-bottom:10px; margin-bottom:40px;">
 <h4><b>How to resolve this?</b></h4>
-<p>If you really insist on doing what you want without considering other options, you can give it a try first. However, if keeping to an old mindset does not bring about improvements and things do not turn out well, you need to start realizing that you need to change for the better. There is no point in keeping to an approach that does not work for you anymore.</p>
-<p>When you start welcoming new ideas, you may find that there are various options you can choose from. Although a new idea or approach may not be the best for you in that moment, it might be helpful to you someday in the future. Thinking it through would more or less offer insights that might help you.</p>
-<p>So instead of rejecting all other ideas/suggestions immediately, try to have an open mind. Give yourself various options to think about, but ultimately follow what you think is best for you. See how it goes, and then make adjustments accordingly. Be open to new ideas.</p>
+<p>If you really insist on doing what you want without considering other options, you can give it a try first. However, <b><i>if keeping to an old mindset does not bring about an improvement or if things do not turn out well,</i></b> you need to start realizing that you need to change for the better. There is no point in keeping to an approach that does not work for you anymore.</p>
+<p>When you start welcoming new ideas, you may find that there are various options to choose from. Although a new idea or approach may not be the best for you in that moment, it might be helpful to you someday in the future. Thinking it through would more or less offer insights that might help you.</p>
+<p>So instead of rejecting all other ideas/suggestions immediately, adopt an open mind. Give yourself various options to consider, but ultimately follow what you think is best for you. See how it goes, and then make adjustments accordingly. Be open to new ideas.</p>
 </div>
 
 ## How is Being Stubborn a Good Thing?
