@@ -45,13 +45,13 @@ This is not to make them happy or to prove who is correct; rather, it is to prov
 
 Before moving to the 3 reasons why being stubborn is a good thing, let's first take a look at how being stubborn is a **bad** thing:
 
-<h4 style="font-size: 1.185rem; font-weight: bold; padding-top: 24px;"><li>You might be doing the wrong thing or ignoring the consequences.</li></h4>
+<h4 style="font-size: 1.185rem; padding-top: 24px;"><li>You might be doing the wrong thing or ignoring the consequences.</li></h4>
 
 As stated earlier, stubbornness is a matter of perspective. People might think that you’re doing something wrong, though you might not think so. Well-intended people might voice their concerns telling you why you should or should not do certain things.
 
 They might find you stubborn if you insist on your stance or refuse to look at things from their perspective.
 
-**However, as long as it doesn't involve breaking the law and harming others, who is able to truly determine what is right or wrong?** At times, even if we are already aware of the consequences of an issue, we choose to ignore and do what we think is best. 
+However, **_as long as it doesn't involve breaking the law and harming others,_** who is able to truly determine what is right or wrong? At times, even if we are already aware of the consequences of an issue, we choose to ignore and do what we think is best. 
 
 Whichever it is, it is important to hold yourself accountable at the end of the day.
 
@@ -63,7 +63,7 @@ Whichever it is, it is important to hold yourself accountable at the end of the 
 <p>Always remember that you only have to answer for yourself at the end of the day. Whether you choose to listen to the words of others, you must be responsible for your own actions.</p>
 </div>
 
-<h4 style="font-size: 1.185rem; font-weight: bold;"><li>It prevents you from growing.</li></h4>
+<h4 style="font-size: 1.185rem;"><li>It prevents you from growing.</li></h4>
 
 When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times.
 
