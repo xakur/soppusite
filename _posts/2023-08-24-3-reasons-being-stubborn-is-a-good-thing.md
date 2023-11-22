@@ -86,7 +86,7 @@ It is fine to stay firm to your beliefs and decisions as this is your life, and 
 
 However, if your actions could impact others, be it a certain decision in a matter or a belief that you’re holding, you need to consider the opinions of others as well. For this scenario, you should spare a thought for others too. Otherwise, being stubborn can lead to selfishness as you are only concerned about your own needs. [In a team setting especially at work, stubborn people are seen as selfish and challenging to work with.](https://www.elitedaily.com/life/stubborn-people-self-assured/1192404)
 
-If the decision or issue at hand only involves yourself, you are always free to do what you think is best, as long as you have valid reasons for making a certain decision or holding on to a belief. 
+**If the decision or issue at hand only involves yourself,** you are always free to do what you think is best, as long as you have valid reasons for making a certain decision or holding on to a belief. 
 
 Same as for the outcome, whether or not things turn out well, no one other than you is accountable for it. If something bad happens, you should not run away from it or push the blame to others. **Being responsible for your own actions is most important.**
 
