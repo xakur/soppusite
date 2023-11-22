@@ -75,7 +75,7 @@ Stagnation can occur if you refuse to consider different perspectives or make im
 <h4><b>How to resolve this?</b></h4>
 <p>If you really insist on doing what you want without considering other options, you can give it a try first. However, <b><i>if keeping to an old mindset does not bring about an improvement or if things do not turn out well,</i></b> you need to start realizing that you need to change for the better. There is no point in keeping to an approach that does not work for you anymore.</p>
 <p>When you start welcoming new ideas, you may find that there are various options to choose from. Although a new idea or approach may not be the best for you in that moment, it might be helpful to you someday in the future. Thinking it through would more or less offer insights that might help you.</p>
-<p>So instead of rejecting all other ideas/suggestions immediately, adopt an open mind. Give yourself various options to consider, but ultimately follow what you think is best for you. See how it goes, and then make adjustments accordingly. Be open to new ideas.</p>
+<p>Instead of rejecting all other ideas/suggestions immediately, adopt an open mind. Give yourself various options to consider, but ultimately follow what you think is best for you. See how it goes, and then make adjustments accordingly. Be open to new ideas.</p>
 </div>
 
 ## How is Being Stubborn a Good Thing?
@@ -97,33 +97,35 @@ If we encounter something bad due to our stubbornness, all we have to do is to l
 {:.image-caption}
 *Image Credit: Karim Ayman/Pexels*
 
-As our life situations change over time, we may even begin to realize that certain beliefs that we have held are no longer doing us any good. Life situations change and we start to accept new beliefs that would better fit into our current lives. This includes beliefs that we were once resistant to. There are also times in life where we would realize later on that our past actions and thoughts were not for the best, just like what people had once told us.
+As our life situations change over time, we may even begin to realize that certain beliefs that we have held for a long period of time do not serve us well anymore. Life situations change and we start to accept new beliefs that would better fit into our current lives. This includes beliefs that we were once resistant to.
 
-Whichever it is, we learn as we grow. We never really know who is right or wrong till we experienced it ourselves.
+There are also times in life where we would realize later on that our past actions and thoughts were not for the best, just like what people had once told us.
 
-Therefore, following your heart and doing what you think is best is most important at the end of the day. It is your life, you make the decision and you take the responsibility for it. Our mistakes will help us learn.
+We learn as we grow. We never really know who is right or wrong till we experienced it ourselves.
+
+Therefore, it is most important to follow your heart and do what you think is best. It is your life, you make the decision and you take responsibility for it. Our mistakes will help us learn.
 
 ### 2. You’re firm on your stance.
 
-No one can easily influence your decisions or even your character. There’s beauty in staying true to your values, as long as it’s not something that offends the law or other people. 
+No one can easily influence your decisions or even your character, when you are firm in your beliefs. There’s beauty in staying true to your values, as long as it’s not something that offends the law or other people. 
 
-When you’re firm on your stance, you’re very likely to persevere through any obstacles to see a task to completion. The act of being grounded to your values provides a firm basis. **When you are loyal to your values and beliefs, you are likely to be loyal to your path and have the conviction to see an issue through.** In some cases, the values that you are loyal to lay the path for your actions and these very same values continue to motivate you in your journey to reach your goal.
+When you’re firm on your stance, you’re likely to persevere through any obstacles to see a task to completion. The act of being grounded to your values provides a firm basis. **When you are loyal to your values and beliefs, you are likely to be loyal to your path and have the conviction to see an issue through.** In some cases, the values that you are loyal to lay the path for your actions and these very same values continue to motivate you in your journey to reach your goal.
 
-Being firm in your beliefs can also help you to have less decision-making dilemmas. You will have less difficulty in making up your mind when your beliefs are able to guide you to make a decision. You’re normally clear of what you want to do and you won’t ponder too much over it. It saves you time too.
+Being firm in your beliefs can also help you to have less decision-making dilemmas. You will have less difficulty in making up your mind when your beliefs can guide you to make a decision. You’re normally clear of what you want to do and you won’t ponder too much over it. It saves you time too.
 
 ### 3. You know what you want and follow your heart.
 
 At the end of the day, you only need to follow your heart and mind.
 
-**It’s better to follow your heart than to regret not doing what you had wanted to do** because someone told you not to. It is important to be true to yourself and be responsible of your own actions.
+**It’s better to follow your heart than to regret not doing what you had wanted to do** because someone told you not to. It is important to be true to yourself and be responsible for your own actions.
 
-It’s a matter of perspective and whether you want to consider multiple other perspectives. Due to differences in perspectives, people might think that you’re stubborn when you insist on your perspective. Sometimes though, this has nothing to do with being stubborn. During the times when I was called stubborn, I actually had concrete reasons to back up my decisions. I’m not one to make decisions loosely.
+It’s a matter of perspective and whether you want to consider multiple other perspectives. Due to differences in perspectives, people may see you as stubborn when you insist on your perspective. Sometimes though, this has nothing to do with being stubborn. During the times when I was called stubborn, I actually had concrete reasons to back up my decisions. I’m not one to make decisions loosely.
 
 Therefore, while being stubborn might not entirely be a bad thing, it is important to be open-minded and expose yourself to various other ideas and experiences, instead of rejecting them immediately. Give it a chance for consideration at least. Other suggestions or new approaches might help to make things easier for you.
 
 Upon evaluating various ideas, if you still strongly wish to go with your original intention, you can ultimately go ahead with your decision. By considering and evaluating the issue from various angles, it helps you to make a well-informed decision.
 
-You can stop second-guessing yourself if someone keeps questioning you or forcing their ideas upon you even after you’ve thoroughly reviewed the matter. **It is never a waste of time to consider other options.** The evaluation speaks for itself and you can be confident to go with your decision.
+You can stop second-guessing yourself if someone keeps questioning you or forcing their ideas upon you. **It is never a waste of time to consider other options.** The evaluation speaks for itself and you can be confident to go with your decision.
 
 ## Conclusion
 
