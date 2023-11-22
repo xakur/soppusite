@@ -35,7 +35,7 @@ As much as we have our reasons for giving suggestions, they *might* have their s
 
 As mentioned above, whether someone is considered stubborn or not depends on varying perspectives.
 
-So when someone accuses you of being stubborn, it's up to you to decide whether or not that's true. Do you have valid reasoning to back up your stance?
+So when someone accuses you of being stubborn, it's **up to you to decide** whether or not that's true. Do you have valid reasoning to back up your stance?
 
 You don’t necessarily have to be affected by what they said as there is always a limitation on our capacity to fathom another person’s situation and vice versa. [If you do not feel comfortable hearing what someone else said (be it out of a positive or negative intent), the words are not meant for you. You have the choice to accept or reject it.](https://sliceofpower.com/2022-11-19-5-tips-on-becoming-unaffected-by-what-people-say/)
 
@@ -53,7 +53,7 @@ As stated earlier, stubbornness is a matter of perspective. People might think t
 
 Well-intended people might voice their concerns telling you why you should or should not do certain things. They might find you stubborn if you insist on your stance or refuse to look at things from their perspective.
 
-**_However, as long as it doesn't involve breaking the law and harming others, who is able to truly determine what is right or wrong?_** 
+_**However, as long as it doesn't involve breaking the law and harming others, who is able to truly determine what is right or wrong?**_ 
 
 At times, even if we are already aware of the consequences of an issue, we choose to ignore them and do what we think is best. 
 
