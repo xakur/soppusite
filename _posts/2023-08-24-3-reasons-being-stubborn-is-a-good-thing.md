@@ -53,9 +53,7 @@ As stated earlier, stubbornness is a matter of perspective. People might think t
 
 Well-intended people might voice their concerns telling you why you should or should not do certain things. They might find you stubborn if you insist on your stance or refuse to look at things from their perspective.
 
-_**However, as long as it doesn't involve breaking the law and harming others, who is able to truly determine what is right or wrong?**_ 
-
-At times, even if we are already aware of the consequences of an issue, we choose to ignore them and do what we think is best. 
+**_However, as long as it doesn't involve breaking the law and harming others, who is able to truly determine what is right or wrong?_** At times, even if we are already aware of the consequences of an issue, we choose to ignore them and do what we think is best. 
 
 Whichever it is, it is important to hold yourself accountable at the end of the day.
 
