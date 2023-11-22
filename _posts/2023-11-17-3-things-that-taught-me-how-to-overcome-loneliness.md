@@ -3,8 +3,8 @@ layout: post
 title: 3 Things that Taught Me How to Overcome Loneliness
 share-description: There’s nothing wrong with loneliness.  Accept that it is completely ok to be alone. Put down that ego. No one is meant to be by your side forever. Only you can make yourself feel loved and important.
 thumbnail-img: "https://images.pexels.com/photos/3755021/pexels-photo-3755021.jpeg"
-categories: life-tips, the-deep
-tags: life-tips, the-deep
+categories: [life-tips, the-deep]
+tags: [life-tips, the-deep]
 readtime: true
 excerpt: “I feel lonely” – we have all felt this in our lives. Loneliness arises when we feel disconnected from the people in our lives, especially when we cannot find like-minded people in our surroundings. It often means that we're not experiencing the emotional closeness and understanding that comes from meaningful connections. We may experience a lack of support and recognition
 ---
