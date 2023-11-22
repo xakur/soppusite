@@ -47,7 +47,7 @@ This is not to make them happy or to prove who is correct; rather, it is to prov
 
 Before moving to the 3 reasons why being stubborn is a good thing, let's first take a look at how being stubborn is a **bad** thing:
 
-<h4 style="font-size: 1.185rem; font-weight: bold; padding-top: 26px;"><li>You might be doing the wrong thing or ignoring the consequences.</li></h4>
+<h4 style="font-size: 1.185rem; font-weight: bold; padding-top: 24px;"><li>You might be doing the wrong thing or ignoring the consequences.</li></h4>
 
 As stated earlier, stubbornness is a matter of perspective. People might think that you’re doing something wrong, though you might not think so. Well-intended people might voice their concerns telling you why you should or should not do certain things.
 
