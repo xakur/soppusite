@@ -97,7 +97,7 @@ If we encounter something bad due to our stubbornness, all we have to do is to l
 {:.image-caption}
 *Image Credit: Karim Ayman/Pexels*
 
-As our life situations change over time, we may even begin to realize that certain beliefs that we have held for a long period of time do not serve us well anymore. Life situations change and we start to accept new beliefs that would better fit into our current lives. This includes beliefs that we were once resistant to.
+As our life situations change over time, we may even begin to realize that certain beliefs that we have held do not serve us well anymore. Life situations change and we start to accept new beliefs that would better fit into our current lives. This includes beliefs that we were once resistant to.
 
 There are also times in life where we would realize later on that our past actions and thoughts were not for the best, just like what people had once told us.
 
