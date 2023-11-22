@@ -101,13 +101,16 @@ There are also times in life where we would realize later on that our past actio
 
 We learn as we grow. We never really know who is right or wrong till we experienced it ourselves.
 
-Therefore, it is most important to follow your heart and do what you think is best. It is your life, you make the decision and you take responsibility for it. Our mistakes will help us learn.
+Therefore, it is most important to follow your heart and do what you think is best. It is your life, you make the decision and you take responsibility for it. Mistakes will help us learn.
 
 ### 2. You’re firm on your stance.
 
 No one can easily influence your decisions or even your character, when you are firm in your beliefs. There’s beauty in staying true to your values, as long as it’s not something that offends the law or other people. 
 
 When you’re firm on your stance, you’re likely to persevere through any obstacles to see a task to completion. The act of being grounded to your values provides a firm basis. **When you are loyal to your values and beliefs, you are likely to be loyal to your path and have the conviction to see an issue through.** In some cases, the values that you are loyal to lay the path for your actions and these very same values continue to motivate you in your journey to reach your goal.
+
+<img src="https://images.unsplash.com/photo-1519834785169-98be25ec3f84" alt="man sitting on mountain punching fist in the air" style="width:322px; height:453px; display: block; margin: 0 auto;">
+<p class="image-caption"><i>Image Credit: Ian Stauffer/Unsplash</i></p>
 
 Being firm in your beliefs can also help you to have less decision-making dilemmas. You will have less difficulty in making up your mind when your beliefs can guide you to make a decision. You’re normally clear of what you want to do and you won’t ponder too much over it. It saves you time too.
 
