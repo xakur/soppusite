@@ -33,7 +33,7 @@ As much as we have our reasons for giving suggestions, they *might* have their s
 
 ## Are You Stubborn?
 
-As mentioned above, whether someone is considered as stubborn or not depends on different perspectives.
+As mentioned above, whether someone is considered stubborn or not depends on varying perspectives.
 
 So when someone accuses you of being stubborn, it's up to you to decide whether or not that's true. Do you have valid reasoning to back up your stance?
 
@@ -47,7 +47,7 @@ This is not to make them happy or to prove who is correct; rather, it is to prov
 
 Before moving to the 3 reasons why being stubborn is a good thing, let's first take a look at how being stubborn is a **bad** thing:
 
-<h4 style="font-size: 1.175rem; font-weight: bold;"><li>You might be doing the wrong thing or ignoring the consequences.</li></h4>
+<h4 style="font-size: 1.185rem; font-weight: bold;"><li>You might be doing the wrong thing or ignoring the consequences.</li></h4>
 
 As stated earlier, stubbornness is a matter of perspective. People might think that you’re doing something wrong, though you might not think so. 
 
@@ -67,7 +67,7 @@ Whichever it is, it is important to hold yourself accountable at the end of the 
 <p>Always remember that you only have to answer to yourself at the end of the day. Whether you choose to listen to the words of others, you must be responsible and bear the consequences of your own actions, if anything were to go wrong.</p>
 </div>
 
-<h4 style="font-size: 1.175rem; font-weight: bold;"><li>It prevents you from growing.</li></h4>
+<h4 style="font-size: 1.185rem; font-weight: bold;"><li>It prevents you from growing.</li></h4>
 
 When you are stubborn, you tend to resist change - new ways of doing things and new perspectives. This resistance to change can prevent you from picking up new skills and knowledge to adapt to evolving situations. You might not be able to keep up with the times.
 
