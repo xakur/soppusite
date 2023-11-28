@@ -73,6 +73,7 @@ Take some time to think about how your body has been supporting you to accomplis
 <p>- Thank your mouth and throat for being able to eat delicious food and talk without difficulty.</p>
 <p>- Thank your nose and lungs for helping you to easily breathe in fresh air and exhale, without obstruction.</p>
 <p>- Thank your brain for helping you to process thoughts and coming up with smart ways to make things better for you.</p>
+</div>
 
 Your body and your organs are worthy of your love and appreciation. 
 
