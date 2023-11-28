@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/snoopy-happy-home-mail.jpg
 categories: the-deep
 tags: the-deep
 readtime: true
-excerpt: We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing one's true self, and acknowledging and appreciating one's worth. So, how can we love ourselves? Self-Love starts with Self-Appreciation.
+excerpt: We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing one's true self, and acknowledging and appreciating one's worth. So, how can we love ourselves?
 ---
 
 ![snoopy and his happy home](/assets/img/snoopy-happy-home-mail.jpg)
