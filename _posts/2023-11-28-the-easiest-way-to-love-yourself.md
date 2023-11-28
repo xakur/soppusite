@@ -3,7 +3,7 @@ layout: post
 title: The Easiest Way to Love Yourself
 share-description:  
 thumbnail-img: /assets/img/snoopy-happy-home-mail.jpg
-categories: the-deep
+categories: life-tips
 tags: the-deep
 readtime: true
 excerpt: We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing one's true self, and acknowledging and appreciating one's worth. So, how can we love ourselves?
@@ -49,7 +49,7 @@ Through my own journey of self-love, I discovered:
 
 <p style="font-size: 22px; text-align: center;">The easiest way to love ourselves is to start with appreciating our physical presence (body).</p>
 
-### Why?
+#### Why?
 
 Despite all the emotional and physical challenges which includes hardships, mistakes, sadness, anger, disappointments, nastiness, unfairness, setbacks, failures&#8212;you name it&#8212;in life, your body is still here supporting yourself!
 
@@ -86,7 +86,8 @@ As you appreciate your body’s each and every organ and its unique function, yo
 
 Start loving yourself by taking care of your physical body. Give your body the nutrients it needs, the fresh air it needs and the comfort it needs.
 
-<p style="text-align:center;font-size:20px;">All you need to do is to appreciate all that your body is doing for you, right in this moment.</p>
+<p style="text-align:center;font-size:24px;">All you need to do is to appreciate all that your body is doing for you,
+<br/>right in this moment.</p>
 
 Even though there had been times when you felt depressed and hopeless, you stayed strong and continued fighting.
 
@@ -108,7 +109,7 @@ To conclude, here are some inspiring self-love quotes and affirmations to suppor
 
 ### Self-Love Affirmations
 
-<div style="font-family: 'Georgia'; font-style: italic; font-size: 18px; font-color:#4c4c4c;">
+<div style="font-family: 'Georgia'; font-style: italic; font-size: 18px; padding-top:10px;">
 <p>1. I am deserving of love and kindness for just being myself.</p>
 <p>2. I love myself for staying strong despite the ups and downs in life.</p>
 <p>3. I love my body for supporting me, enabling me to breathe effortlessly and move freely everyday.</p>
