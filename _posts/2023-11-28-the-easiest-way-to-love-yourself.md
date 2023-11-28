@@ -15,7 +15,7 @@ excerpt: We often hear of how important it is to love ourselves. Self-love is es
 
 We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing one's true self, and acknowledging and appreciating one's worth. So, how can we love ourselves?
 
-<p style="text-align:center;font-size:22px;">Self-Love starts with Self-Appreciation</p>
+<p style="text-align:center;font-size:24px;">Self-Love starts with Self-Appreciation</p>
 
 When you are grateful for yourself, loving yourself will come naturally. As you appreciate yourself, you acknowledge yourself and see yourself in positive light. You respect and forgive yourself for your flaws.
 
