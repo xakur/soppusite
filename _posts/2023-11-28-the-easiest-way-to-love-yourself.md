@@ -86,8 +86,7 @@ As you appreciate your body’s each and every organ and its unique function, yo
 
 Start loving yourself by taking care of your physical body. Give your body the nutrients it needs, the fresh air it needs and the comfort it needs.
 
-<p style="text-align:center;font-size:24px;">All you need to do is to appreciate all that your body is doing for you,
-<br/>right in this moment.</p>
+<p style="text-align:center;font-size:23px;">All you need to do is to appreciate all that your body is doing for you, right in this moment.</p>
 
 Even though there had been times when you felt depressed and hopeless, you stayed strong and continued fighting.
 
