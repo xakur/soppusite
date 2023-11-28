@@ -23,15 +23,15 @@ When you are grateful for yourself, loving yourself will come naturally. As you 
 
 Unfortunately, self-love does not come easily for some people.
 
-I hated myself and the thought of loving myself always disgusted me. My mind would go: 
-
-_“Love myself? No way! I suck! I’m terrible! I’m a failure! I’m the worst! Why should I love myself when I’m so pathetic?”_
+I hated myself and the thought of loving myself always disgusted me. My mind would go: _“Love myself? No way! I suck! I’m terrible! I’m a failure! I’m the worst! Why should I love myself when I’m so pathetic?”_
 
 I often had those feelings and the idea of loving myself never sat well with me. Why should I love myself when I’m not even excelling at something? Why should I love myself when I’m not good enough?
 
 I thought I wasn’t worthy of love because all I could see were my flaws and mistakes.
 
-For those of us who were unable to receive love from our family or environment while growing up, it's common to struggle in recognizing our own worth. Especially if you have experienced abuse, whether physical or verbal, the cruel treatment inflicted upon you can cause you to hate yourself. We often internalize the negativity directed at us, and we see ourselves negatively just like how we were treated. This tends to lead to serious conditions such as anxiety and depression.
+For those of us who were **unable to receive love from our family** or environment while growing up, it's common to **struggle in recognizing our own worth.**
+
+Especially if you have experienced abuse, whether physical or verbal, the cruel treatment inflicted upon you could cause you to hate yourself. We often internalize the negativity directed at us, and we see ourselves negatively just like how we were treated. This tends to lead to serious conditions such as anxiety and depression.
 
 ## Honestly, Self-Love is Not Easy
 
@@ -66,7 +66,7 @@ Your physical being is something to love yourself for.
 
 Take some time to think about how your body has been supporting you to accomplish your daily activities. You may want to set aside a few minutes of quiet time to think about what your body does for you everyday and show appreciation. Thank and send love to each and every part of your body.
 
-<div style="font-style: italic;font-size:1.02rem;">
+<div style="font-style: italic;font-size:1.1rem;">
 <p>- Thank your feet and legs for helping you to move from one place to another.</p>
 <p>- Thank your digestive system for helping you to digest all that you eat everyday; to help you cleanse your body by purging unwanted waste and only absorbing nutrients.</p>
 <p>- Thank your heart for its unwavering strength, as it continuously pumps blood to every part of your body, even during moments of sadness, setbacks, and heartbreaks. Your heart is still beating and keeping you alive despite how emotionally painful it is sometimes.</p>
@@ -77,7 +77,9 @@ Take some time to think about how your body has been supporting you to accomplis
 
 Your body and your organs are worthy of your love and appreciation. 
 
-As you appreciate your body’s each and every organ and its unique function, you're appreciating each and every part of your unique self. You shall not take your physical being for granted. When you appreciate yourself, loving yourself will come naturally.
+<p style="text-align:center;dont-size:20px;">As you <b>appreciate</b> your body’s <b>each and every organ's unique function</b>, you're appreciating <b>each and every part of your unique self.</b></p>
+
+You shall not take your physical being for granted. When you appreciate yourself, loving yourself will come naturally.
 
 ## Our Bodies and Minds Work Together
 
@@ -105,7 +107,7 @@ To conclude, here are some inspiring self-love quotes and affirmations to suppor
 
 ### Self-Love Affirmations
 
-<div style="font-family: 'Cambria'; font-style: italic; font-size: 19px; padding-top:15px;">
+<div style="font-family: 'Cambria'; font-style: italic; font-size: 19px; padding-top:18px;">
 <p>1. I am deserving of love and kindness for just being myself.</p>
 <p>2. I love myself for staying strong despite the ups and downs in life.</p>
 <p>3. I love my body for supporting me, enabling me to breathe effortlessly and move freely everyday.</p>
