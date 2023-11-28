@@ -96,7 +96,7 @@ If you cannot find something to be happy for…
 
 #### Be happy for yourself. You are your own happiness.
 
-Despite all the chaos in life, you are still here, alive and functioning as best as you can to keep going. You, your mind and body have all helped you to reach where you are today. Isn’t that something to be happy about?
+You are enough for yourself. Despite all the chaos in life, you are still here, alive and functioning as best as you can to keep going. You, your mind and body have all helped you to reach where you are today. Isn’t that something to be happy about?
 
 So at any point in time, if you feel that you have not reached your optimum state and don't feel happy, just take a look at what you’ve actually achieved.
 
