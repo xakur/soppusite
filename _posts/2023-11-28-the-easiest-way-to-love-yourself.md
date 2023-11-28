@@ -37,7 +37,7 @@ Especially if you have experienced abuse, whether physical or verbal, the cruel 
 
 Learning to love myself wasn’t easy. It took a lot of conscious effort and reminders to keep myself in the right state of mind, not falling back into self-hatred. It took me over a year to start feeling more secure in my self-love journey.
 
-<p style="text-align:center;font-size:19px;font-style:italic;">While you can start practicing self-love right at this moment,<br/>keeping it consistent is a different matter.</p>
+<p style="text-align:center;font-size:20px;font-style:italic;padding:20px 0px;">While you can start practicing self-love right at this moment,<br/>keeping it consistent is a different matter.</p>
 
 Self-love isn’t just for a day. It needs to be a lifetime commitment. We need to practice loving ourselves everyday.
 
