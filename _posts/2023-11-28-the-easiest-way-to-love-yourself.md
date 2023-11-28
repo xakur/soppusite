@@ -11,13 +11,13 @@ excerpt: We often hear of how important it is to love ourselves. Self-love is es
 
 ![snoopy and his happy home](/assets/img/snoopy-happy-home-mail.jpg)
 
-<p style="font-family: 'Georgia'; font-style: italic; font-size: 25px; text-align: center;">“Be yourself. No one can say you are doing it wrong. - Snoopy”</p>
+<p style="font-family: 'Comic Sans MS'; font-style: italic; font-size: 24px; text-align: center; padding-bottom:15px;">“Be yourself. No one can say you are doing it wrong. - Snoopy”</p>
 
 We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing one's true self, and acknowledging and appreciating one's worth. So, how can we love ourselves?
 
 <h3 style="text-align:center;">Self-Love starts with Self-Appreciation</h3>
 
-As you appreciate yourself, you acknowledge yourself and see yourself in positive light. You respect yourself for your flaws and forgive yourself. When you are grateful for yourself, loving yourself will come naturally.
+When you are grateful for yourself, loving yourself will come naturally. As you appreciate yourself, you acknowledge yourself and see yourself in positive light. You respect and forgive yourself for your flaws.
 
 ## The Idea of Self-Love Used to Repulse Me
 
@@ -96,7 +96,7 @@ Free yourself from the perfect idea of “Happiness”. You are already enough i
 
 To conclude, here are some inspiring self-love quotes and affirmations to support you in cultivating stronger love for yourself.
 
-<div style="font-family: 'Georgia'; font-style: italic; font-size: 18px; font-color:#4c4c4c;">
+<div style="font-family: 'Cambria'; font-style: italic; font-size: 19px; font-color:#4c4c4c;">
 <p>1. “Love of self: You belong to you. Sometimes your soulmate is yourself and everything you’ve been searching for, can be found deep within your own soul.” - r.h. Sin</p>
 <p>2. “You are always here, supporting yourself to go through the motions of life. Show the most love to yourself.” - Slice</p>
 <p>3. “Love yourself like your life depends on it.” - Kamal Ravikant</p>
@@ -108,7 +108,7 @@ To conclude, here are some inspiring self-love quotes and affirmations to suppor
 
 ### Self-Love Affirmations
 
-<div style="font-family: 'Georgia'; font-style: italic; font-size: 18px; padding-top:10px;">
+<div style="font-family: 'Cambria'; font-style: italic; font-size: 19px; padding-top:10px;">
 <p>1. I am deserving of love and kindness for just being myself.</p>
 <p>2. I love myself for staying strong despite the ups and downs in life.</p>
 <p>3. I love my body for supporting me, enabling me to breathe effortlessly and move freely everyday.</p>
