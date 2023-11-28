@@ -66,7 +66,7 @@ Your physical being is something to love yourself for.
 
 Take some time to think about how your body has been supporting you to accomplish your daily activities. You may want to set aside a few minutes of quiet time to think about what your body does for you everyday and show appreciation. Thank and send love to each and every part of your body.
 
-<div style="font-style: italic;font-size:1.1rem;">
+<div style="font-style: italic;font-size:1.02rem;">
 <p>- Thank your feet and legs for helping you to move from one place to another.</p>
 <p>- Thank your digestive system for helping you to digest all that you eat everyday; to help you cleanse your body by purging unwanted waste and only absorbing nutrients.</p>
 <p>- Thank your heart for its unwavering strength, as it continuously pumps blood to every part of your body, even during moments of sadness, setbacks, and heartbreaks. Your heart is still beating and keeping you alive despite how emotionally painful it is sometimes.</p>
