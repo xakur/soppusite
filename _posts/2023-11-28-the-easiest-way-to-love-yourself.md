@@ -66,17 +66,13 @@ Your physical being is something to love yourself for.
 
 Take some time to think about how your body has been supporting you to accomplish your daily activities. You may want to set aside a few minutes of quiet time to think about what your body does for you everyday and show appreciation. Thank and send love to each and every part of your body.
 
-_- Thank your feet and legs for helping you to move from one place to another._
-
-_- Thank your digestive system for helping you to digest all that you eat everyday; to help you cleanse your body by purging unwanted waste and only absorbing nutrients._
-
-_- Thank your heart for its unwavering strength, as it continuously pumps blood to every part of your body, even during moments of sadness, setbacks, and heartbreaks. Your heart is still beating and keeping you alive despite how emotionally painful it is sometimes._
-
-_- Thank your mouth and throat for being able to eat delicious food and talk without difficulty._
-
-_- Thank your nose and lungs for helping you to easily breathe in fresh air and exhale, without obstruction._
-
-_- Thank your brain for helping you to process thoughts and coming up with smart ways to make things better for you._
+<div style="font-style: italic;font-size:1.1rem;">
+<p>- Thank your feet and legs for helping you to move from one place to another.</p>
+<p>- Thank your digestive system for helping you to digest all that you eat everyday; to help you cleanse your body by purging unwanted waste and only absorbing nutrients.</p>
+<p>- Thank your heart for its unwavering strength, as it continuously pumps blood to every part of your body, even during moments of sadness, setbacks, and heartbreaks. Your heart is still beating and keeping you alive despite how emotionally painful it is sometimes.</p>
+<p>- Thank your mouth and throat for being able to eat delicious food and talk without difficulty.</p>
+<p>- Thank your nose and lungs for helping you to easily breathe in fresh air and exhale, without obstruction.</p>
+<p>- Thank your brain for helping you to process thoughts and coming up with smart ways to make things better for you.</p>
 
 Your body and your organs are worthy of your love and appreciation. 
 
@@ -90,7 +86,7 @@ Start loving yourself by taking care of your physical body. Give your body the n
 
 Even though there had been times when you felt depressed and hopeless, you stayed strong and continued fighting.
 
-Free yourself from the perfect idea of “Happiness”. You are already enough in the present. [You’re on your way to true happiness as you embrace your present self.](https://sliceofpower.com/2023-11-06-goodbye-happiness-the-key-to-true-happiness/) Ease your stress and anxiety by finding and appreciating the comforts within your present state.
+**Free yourself from the perfect idea of “Happiness”.** You are already enough in the present. [You’re on your way to true happiness as you embrace your present self.](https://sliceofpower.com/2023-11-06-goodbye-happiness-the-key-to-true-happiness/) Ease your stress and anxiety by finding and appreciating the comforts within your present state.
 
 ## Self-Love Quotes & Affirmations
 
@@ -101,14 +97,14 @@ To conclude, here are some inspiring self-love quotes and affirmations to suppor
 <p>2. “You are always here, supporting yourself to go through the motions of life. Show the most love to yourself.” - Slice</p>
 <p>3. “Love yourself like your life depends on it.” - Kamal Ravikant</p>
 <p>4. “The most important relationship in your life is the relationship you have with yourself. Because no matter what happens, you will always be with yourself.” - Diane Von Furstenberg</p>
-<p>“The more you love yourself and give yourself what you need, the less you’ll demand it from others.” - R. M. Drake</p>
-<p>“Love and cherish yourself as you would someone dear to your heart.” - Slice</p>
-<p>“The same Light you see in others is shining within you, too.” - Morgan Harper Nichols</p>
+<p>5. “The more you love yourself and give yourself what you need, the less you’ll demand it from others.” - R. M. Drake</p>
+<p>6. “Love and cherish yourself as you would someone dear to your heart.” - Slice</p>
+<p>7. “The same Light you see in others is shining within you, too.” - Morgan Harper Nichols</p>
 </div>
 
 ### Self-Love Affirmations
 
-<div style="font-family: 'Cambria'; font-style: italic; font-size: 19px; padding-top:10px;">
+<div style="font-family: 'Cambria'; font-style: italic; font-size: 19px; padding-top:15px;">
 <p>1. I am deserving of love and kindness for just being myself.</p>
 <p>2. I love myself for staying strong despite the ups and downs in life.</p>
 <p>3. I love my body for supporting me, enabling me to breathe effortlessly and move freely everyday.</p>
