@@ -75,7 +75,7 @@ Your physical being is something to love yourself for.
 
 Take some time to think about how your body has been supporting you to accomplish your daily activities. You may want to set aside a few minutes of quiet time to think about what your body does for you everyday and show appreciation. Thank and send love to each and every part of your body.
 
-<div class="box-purple" style="background-color:#ffffff; font-size:1.3rem; font-family:Calibri;color:#000000;padding-bottom:1.3rem;">
+<div class="box-purple" style="text-align:left; background-color:#ffffff; font-size:1.3rem; font-family:Calibri;color:#000000;padding-bottom:1.3rem;">
 <p>- Thank your feet and legs for helping you to move from one place to another.</p>
 <p>- Thank your digestive system for helping you to digest all that you eat everyday; to help you cleanse your body by purging unwanted waste and only absorbing nutrients.</p>
 <p>- Thank your heart for its unwavering strength, as it continuously pumps blood to every part of your body, even during moments of sadness, setbacks, and heartbreaks. Your heart is still beating and keeping you alive despite how emotionally painful it is sometimes.</p>
@@ -86,7 +86,7 @@ Take some time to think about how your body has been supporting you to accomplis
 
 <p style="text-align:center;">Your body and your organs are worthy of your love and appreciation.</p>
 
-<p style="text-align:center;dont-size:22px;padding:20px 0px;">As you <b>appreciate</b> your body’s <b>each and every organ's unique function</b>, you're appreciating <b>each and every part of your unique self.</b></p>
+<p style="text-align:center;font-size:22px;padding:20px 0px;">As you <b>appreciate</b> your body’s <b>each and every organ's unique function</b>, you're appreciating <b>each and every part of your unique self.</b></p>
 
 You shall not take your physical being for granted. When you appreciate yourself, loving yourself will come naturally.
 
