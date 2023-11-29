@@ -90,9 +90,6 @@ Thank and send love to each and every part of your body. **Your body and organs 
 
 You shall not take your physical being for granted. When you appreciate yourself, loving yourself will come naturally.
 
-<img src="https://images.unsplash.com/photo-1570021974424-60e83dfee639" alt="happy dogs" style="width:503px; height:317px; display: block; margin: 0 auto;">
-<p class="image-caption"><i>Image Credit: J. Schiemann/Unsplash</i></p>
-
 ## Our Bodies and Minds Work Together
 
 Start loving yourself by taking care of your physical body. Give your body the nutrients it needs, the fresh air it needs and the comfort it needs.
@@ -102,6 +99,9 @@ Start loving yourself by taking care of your physical body. Give your body the n
 Even though there had been times when you felt depressed and hopeless, you stayed strong and continued fighting.
 
 **Free yourself from the perfect idea of “Happiness”.** You are already enough in the present. [You’re on your way to true happiness as you embrace your present self.](https://sliceofpower.com/2023-11-06-goodbye-happiness-the-key-to-true-happiness/) Ease your stress and anxiety by finding and appreciating the comforts within your present state.
+
+<img src="https://images.unsplash.com/photo-1570021974424-60e83dfee639" alt="happy dogs" style="width:503px; height:317px; display: block; margin: 0 auto;">
+<p class="image-caption"><i>Image Credit: J. Schiemann/Unsplash</i></p>
 
 ## Self-Love Quotes & Affirmations
 
