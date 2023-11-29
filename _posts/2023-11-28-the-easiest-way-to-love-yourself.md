@@ -86,8 +86,6 @@ Thank and send love to each and every part of your body. Your body and organs ar
 <p>- Thank your brain for helping you to process thoughts and coming up with smart ideas to make things better for you.</p>
 </div>
 
-<p style="text-align:center;">Your body and your organs are worthy of your love and appreciation.</p>
-
 <p style="text-align:center;font-size:20px;padding:20px 0px;">As you <b>appreciate</b> your body’s <b>each and every organ's unique function</b>, you're appreciating <b>each and every part of your unique self.</b></p>
 
 You shall not take your physical being for granted. When you appreciate yourself, loving yourself will come naturally.
