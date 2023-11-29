@@ -51,13 +51,11 @@ If loving yourself has been a struggle for you, take it slowly. Don’t set an e
 
 Through my own journey of self-love, I discovered:
 
-<p style="font-size: 22px; text-align: center;padding:22px 0px;">The <b>easiest</b> way to love ourselves is to start with<br/><b>appreciating our physical presence</b> (body).</p>
+<p style="font-size: 24px; text-align: center;padding:22px 0px;">The <b>easiest</b> way to love ourselves is to start with<br/><b>appreciating our physical presence</b> (body).</p>
 
-#### Why?
+**Why?** Despite all the emotional and physical challenges which includes hardships, mistakes, sadness, anger, disappointments, nastiness, unfairness, setbacks, failures&#8212;you name it&#8212;in life, your body is still here supporting yourself!
 
-Despite all the emotional and physical challenges which includes hardships, mistakes, sadness, anger, disappointments, nastiness, unfairness, setbacks, failures&#8212;you name it&#8212;in life, your body is still here supporting yourself!
-
-Your body is still living and breathing. **Every organ in your body is still working and functioning,** enabling you to move about freely and do things as you wish (including daily activities; breathing, eating, walking, sleeping, etc.)
+Your body is still living and breathing. **Every organ in your body is still working and functioning,** enabling you to move about freely and do things as you wish (including daily activities: breathing, eating, walking, sleeping, etc.)
 
 ![Woman Studying Anatomy](https://images.pexels.com/photos/3059750/pexels-photo-3059750.jpeg)
 
@@ -78,6 +76,8 @@ Your physical being is something to love yourself for.
 Take some time to think about how your body has been supporting you to accomplish your daily activities. You may want to set aside a few minutes of quiet time to think about what your body does for you everyday and show appreciation. Thank and send love to each and every part of your body.
 
 <div style="font-style: italic;font-size:1.1rem;">
+
+<div class="box-purple" style="background-color:#ffffff; font-size:1.3rem; font-family:Calibri;color:#000000;padding-bottom:1.3rem;">
 <p>- Thank your feet and legs for helping you to move from one place to another.</p>
 <p>- Thank your digestive system for helping you to digest all that you eat everyday; to help you cleanse your body by purging unwanted waste and only absorbing nutrients.</p>
 <p>- Thank your heart for its unwavering strength, as it continuously pumps blood to every part of your body, even during moments of sadness, setbacks, and heartbreaks. Your heart is still beating and keeping you alive despite how emotionally painful it is sometimes.</p>
@@ -86,7 +86,7 @@ Take some time to think about how your body has been supporting you to accomplis
 <p>- Thank your brain for helping you to process thoughts and coming up with smart ways to make things better for you.</p>
 </div>
 
-Your body and your organs are worthy of your love and appreciation. 
+<p style="text-align:center;">Your body and your organs are worthy of your love and appreciation.</p>
 
 <p style="text-align:center;dont-size:22px;padding:20px 0px;">As you <b>appreciate</b> your body’s <b>each and every organ's unique function</b>, you're appreciating <b>each and every part of your unique self.</b></p>
 
