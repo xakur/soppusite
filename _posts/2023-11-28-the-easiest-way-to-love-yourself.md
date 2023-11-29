@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Easiest Way to Love Yourself
-share-description:  
+share-description: Honestly, self-love is not easy. Start with appreciating your physical self. Your body and organs are worthy of your love and appreciation. Appreciate yourself, and loving yourself will come naturally. Despite all challenges, your body is still here supporting yourself!
 thumbnail-img: /assets/img/snoopy-happy-home-mail.jpg
 categories: life-tips
 tags: the-deep
