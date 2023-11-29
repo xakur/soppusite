@@ -77,11 +77,11 @@ Take some time to think about how your body has been supporting you to accomplis
 
 <div class="box-purple" style="text-align:left; background-color:#ffffff; font-size:1.3rem; font-family:Calibri;color:#000000;margin-bottom:-1.75rem;">
 <p>- Thank your feet and legs for helping you to move from one place to another.</p>
-<p>- Thank your digestive system for helping you to digest all that you eat everyday; to help you cleanse your body by purging unwanted waste and only absorbing nutrients.</p>
-<p>- Thank your heart for its unwavering strength, as it continuously pumps blood to every part of your body, even during moments of sadness, setbacks, and heartbreaks. Your heart is still beating and keeping you alive despite how emotionally painful it is sometimes.</p>
+<p>- Thank your digestive system for helping you to digest all that you eat everyday; to cleanse your body by purging unwanted waste and absorbing nutrients.</p>
+<p>- Thank your heart for its unwavering strength. Your heart is still beating and continuously pumps blood to every part of your body, despite how emotionally painful it is sometimes.</p>
 <p>- Thank your mouth and throat for being able to eat delicious food and talk without difficulty.</p>
-<p>- Thank your nose and lungs for helping you to easily breathe in fresh air and exhale, without obstruction.</p>
-<p>- Thank your brain for helping you to process thoughts and coming up with smart ways to make things better for you.</p>
+<p>- Thank your nose and lungs for helping you to easily breathe in fresh air and breathe out, without obstruction.</p>
+<p>- Thank your brain for helping you to process thoughts and coming up with smart ideas to make things better for you.</p>
 </div>
 
 <p style="text-align:center;">Your body and your organs are worthy of your love and appreciation.</p>
