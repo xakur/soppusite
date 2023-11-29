@@ -41,9 +41,11 @@ Learning to love myself wasn’t easy. It took a lot of conscious effort and rem
 
 Self-love isn’t just for a day. It needs to be a lifetime commitment. We need to practice loving ourselves everyday.
 
-It **takes courage** to make that change **from loathing to loving oneself.** Any form of change might be unsettling as we may be afraid that we won't be able succeed and will instead go back to our old ways. At times, even though we agree that we should love ourselves, we still lack the push to actually take steps to start loving ourselves. We simply do not feel inspired or motivated to start learning to love ourselves.
+It **takes courage** to make that change **from loathing to loving oneself.** Any form of change can be unsettling as we may fear that we won't succeed and will instead return to our old ways. At times, even though we agree that we should love ourselves, we still lack the push to actually take steps to start loving ourselves. We simply do not feel inspired or motivated to start learning to love ourselves.
 
-If loving yourself has been a struggle for you, take it slowly. Don’t set an expectation for yourself, but rather, be gentle towards yourself and let it be. Take your time to observe and think about your positive qualities. If you can start loving yourself for only one reason, hold on to that. Show _daily_ appreciation towards yourself for that one reason.
+<p style="text-align:center;font-size:20px;font-style:italic;padding:20px 0px;">If you can start loving yourself for <b>only one reason,</b> hold on to that. Show daily appreciation towards yourself for that one reason.</p>
+
+If loving yourself has been a struggle for you, take it slowly. Don’t set an expectation for yourself, but rather, be gentle towards yourself and let it be. Take your time to observe and think about your positive qualities.
 
 ## The Easiest Way to Love Yourself
 
