@@ -31,7 +31,7 @@ I thought I wasn’t worthy of love because all I could see were my flaws and mi
 
 For those of us who **didn't receive love from our family** or environment while growing up, **recognizing our own worth can be a common struggle.**
 
-Especially if you have experienced abuse, whether physical or verbal, the cruel treatment inflicted upon you could cause you to hate yourself. We often internalize the negativity directed at us, and we see ourselves negatively just like how we were treated. This tends to lead to serious conditions such as anxiety and depression.
+Especially if you have **experienced abuse,** whether physical or verbal, the cruel treatment inflicted upon you could cause you to **hate yourself.** We often internalize the negativity directed at us, and we see ourselves negatively just like how we were treated. This tends to lead to serious conditions such as anxiety and depression.
 
 ## Honestly, Self-Love is Not Easy
 
@@ -49,7 +49,7 @@ If loving yourself has been a struggle for you, take it slowly. Don’t set an e
 
 Through my own journey of self-love, I discovered:
 
-<p style="font-size: 22px; text-align: center;">The easiest way to love ourselves is to start with appreciating our physical presence (body).</p>
+<p style="font-size: 22px; text-align: center;padding:20px 0px;">The easiest way to love ourselves is to start with appreciating our physical presence (body).</p>
 
 #### Why?
 
