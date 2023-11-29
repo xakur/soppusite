@@ -90,7 +90,7 @@ Thank and send love to each and every part of your body. **Your body and organs 
 
 You shall not take your physical being for granted. When you appreciate yourself, loving yourself will come naturally.
 
-<img src="https://images.unsplash.com/photo-1570021974424-60e83dfee639" alt="happy dogs" style="width:450px; height:264px; display: block; margin: 0 auto;">
+<img src="https://images.unsplash.com/photo-1570021974424-60e83dfee639" alt="happy dogs" style="width:503px; height:317px; display: block; margin: 0 auto;">
 <p class="image-caption"><i>Image Credit: J. Schiemann/Unsplash</i></p>
 
 ## Our Bodies and Minds Work Together
