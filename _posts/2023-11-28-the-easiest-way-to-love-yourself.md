@@ -23,7 +23,7 @@ As you appreciate yourself, you acknowledge yourself and see yourself in positiv
 
 Unfortunately, self-love does not come easily for some people.
 
-I hated myself and the thought of loving myself always disgusted me. My mind would go: _“Love myself? No way! I suck! I’m terrible! I’m a failure! I’m the worst! Why should I love myself when I’m so pathetic?”_
+I used to hate myself and the thought of loving myself always disgusted me. My mind would go: _“Love myself? No way! I suck! I’m terrible! I’m a failure! I’m the worst! Why should I love myself when I’m so pathetic?”_
 
 I often had those feelings and the idea of loving myself never sat well with me. Why should I love myself when I’m not even excelling at something? Why should I love myself when I’m not good enough?
 
