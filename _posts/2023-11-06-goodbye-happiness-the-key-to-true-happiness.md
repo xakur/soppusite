@@ -106,7 +106,9 @@ Be happy for yourself. Say thank you to yourself for all the roads that you’ve
 
 Free yourself from the burdens of seeking happiness. Relax and live in the moment.
 
-Experience true happiness by embracing and savoring all the comforts that are available to you in this very moment. Appreciate yourself in the moment as well.
+Experience true happiness by embracing and savoring all the comforts that are available to you in this very moment.
+
+Appreciate yourself in the moment as well. Thank every part of yourself, including your limbs, heart, and other organs. They work hard to help you function every day, through all the ups and downs. [As you appreciate every part of yourself, you are fostering stronger self-love.](https://sliceofpower.com/2023-11-28-the-easiest-way-to-love-yourself/) Be understanding towards yourself, and attend to your needs one by one. There is no rush.
 
 [Being in the present enables us to fully experience everything that is around us.](https://time.com/collection/guide-to-happiness/4856944/secrets-happier-life/) Choosing to live in the moment can alleviate anxiety, saving your valuable time and mental energy from being consumed by thoughts about the future.
 
