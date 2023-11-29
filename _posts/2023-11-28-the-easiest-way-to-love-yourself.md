@@ -100,8 +100,10 @@ Even though there had been times when you felt depressed and hopeless, you staye
 
 **Free yourself from the perfect idea of “Happiness”.** You are already enough in the present. [You’re on your way to true happiness as you embrace your present self.](https://sliceofpower.com/2023-11-06-goodbye-happiness-the-key-to-true-happiness/) Ease your stress and anxiety by finding and appreciating the comforts within your present state.
 
-<img src="https://images.unsplash.com/photo-1570021974424-60e83dfee639" alt="happy dogs" style="width:503px; height:317px; display: block; margin: 0 auto;">
-<p class="image-caption"><i>Image Credit: J. Schiemann/Unsplash</i></p>
+![happy dogs](https://images.unsplash.com/photo-1570021974424-60e83dfee639)
+
+{:.image-caption}
+*Image Credit: J. Schiemann/Unsplash*
 
 ## Self-Love Quotes & Affirmations
 
