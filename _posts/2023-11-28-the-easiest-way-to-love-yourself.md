@@ -104,7 +104,7 @@ Even though there had been times when you felt depressed and hopeless, you staye
 
 To conclude, here are some inspiring self-love quotes and affirmations to support you in cultivating stronger love for yourself.
 
-<div style="font-family: 'Cambria'; font-style: italic; font-size: 19px; font-color:#4c4c4c;">
+<div style="font-family: 'Cambria'; font-style: italic; font-size: 19px; font-color:#4c4c4c;margin-bottom:10px;">
 <p>1. “Love of self: You belong to you. Sometimes your soulmate is yourself and everything you’ve been searching for, can be found deep within your own soul.” - r.h. Sin</p>
 <p>2. “You are always here, supporting yourself to go through the motions of life. Show the most love to yourself.” - Slice</p>
 <p>3. “Love yourself like your life depends on it.” - Kamal Ravikant</p>
