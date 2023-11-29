@@ -73,7 +73,9 @@ Your physical being is something to love yourself for.
 
 ## Cultivate Self-Love through Appreciating Your Physical Self
 
-Take some time to think about how your body has been supporting you to accomplish your daily activities. You may want to set aside a few minutes of quiet time to think about what your body does for you everyday and show appreciation. Thank and send love to each and every part of your body.
+Take some time to think about how your body has been supporting you to accomplish your daily activities. You may want to set aside a few minutes of quiet time to think about what your body does for you everyday.
+
+Thank and send love to each and every part of your body. Your body and organs are worthy of your love and appreciation.
 
 <div class="box-purple" style="text-align:left; background-color:#ffffff; font-size:1.3rem; font-family:Calibri;color:#000000;margin-bottom:-1.75rem;">
 <p>- Thank your feet and legs for helping you to move from one place to another.</p>
