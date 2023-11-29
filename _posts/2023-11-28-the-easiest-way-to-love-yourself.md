@@ -49,17 +49,19 @@ If loving yourself has been a struggle for you, take it slowly. Don’t set an e
 
 Through my own journey of self-love, I discovered:
 
-<p style="font-size: 22px; text-align: center;padding:20px 0px;">The easiest way to love ourselves is to start with appreciating our physical presence (body).</p>
+<p style="font-size: 22px; text-align: center;padding:20px 0px;">The <b>easiest</b> way to love ourselves is to start with <b>appreciating our physical presence</b> (body).</p>
 
 #### Why?
 
 Despite all the emotional and physical challenges which includes hardships, mistakes, sadness, anger, disappointments, nastiness, unfairness, setbacks, failures&#8212;you name it&#8212;in life, your body is still here supporting yourself!
 
-Your body is still living and breathing. Every organ in your body is still working hard and functioning, enabling you to move about freely and do things as you wish, including daily activities; breathing, eating, walking, sleeping, etc.
+Your body is still living and breathing. **Every organ in your body is still working and functioning,** enabling you to move about freely and do things as you wish, including daily activities; breathing, eating, walking, sleeping, etc.
 
-In fact, your physical body is already loving yourself without you realizing it. Your body continues to function properly for you, despite all the bad and unhappy things it has to go through.
+Your body continues to function properly for you, despite all the bad and unhappy things it has to go through. In fact, your physical body is already loving yourself without you realizing it.
 
-And from another angle, isn’t your body so wonderful and lovable for being strong to put up with all the nonsense and awful things in life?
+And from another angle...
+
+<p style="font-size: 20px; text-align: center;font-style:italic;padding:20px 0px;">Isn’t your body so wonderful and lovable for being strong to put up with all the nonsense and awful things in life?</p>
 
 Thank your body for this.  
 Your physical being is something to love yourself for.
