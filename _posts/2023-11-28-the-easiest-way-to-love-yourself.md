@@ -3,8 +3,8 @@ layout: post
 title: The Easiest Way to Love Yourself
 share-description: Honestly, self-love is not easy. Start with appreciating your physical self. Your body and organs are worthy of your love and appreciation. Appreciate yourself, and loving yourself will come naturally. Despite all challenges, your body is still here supporting yourself!
 thumbnail-img: /assets/img/snoopy-happy-home-mail.jpg
-categories: life-tips
-tags: the-deep
+categories: [life-tips, the-deep]
+tags: [life-tips, the-deep]
 readtime: true
 excerpt: We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing one's true self, and acknowledging and appreciating one's worth. So, how can we love ourselves? When you are grateful for yourself, loving yourself will come naturally.
 ---
