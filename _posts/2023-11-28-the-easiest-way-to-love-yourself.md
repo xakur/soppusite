@@ -15,7 +15,7 @@ excerpt: We often hear of how important it is to love ourselves. Self-love is es
 
 We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing your true self, and acknowledging and appreciating your worth. When you are grateful for yourself, loving yourself will come naturally.
 
-<p style="font-size:22px;">Self-Love starts with Self-Appreciation.</p>
+<p style="font-size:20px;font-weight:bold;">Self-Love starts with Self-Appreciation.</p>
 
 As you appreciate yourself, you acknowledge yourself and see yourself in positive light. You respect and forgive yourself for your flaws.
 
@@ -55,7 +55,7 @@ Through my own journey of self-love, I discovered:
 
 Despite all the emotional and physical challenges which includes hardships, mistakes, sadness, anger, disappointments, nastiness, unfairness, setbacks, failures&#8212;you name it&#8212;in life, your body is still here supporting yourself!
 
-Your body is still living and breathing. **Every organ in your body is still working and functioning,** enabling you to move about freely and do things as you wish, including daily activities; breathing, eating, walking, sleeping, etc.
+Your body is still living and breathing. **Every organ in your body is still working and functioning,** enabling you to move about freely and do things as you wish (including daily activities; breathing, eating, walking, sleeping, etc.)
 
 ![Woman Studying Anatomy](https://images.pexels.com/photos/3059750/pexels-photo-3059750.jpeg)
 
@@ -86,7 +86,7 @@ Take some time to think about how your body has been supporting you to accomplis
 
 Your body and your organs are worthy of your love and appreciation. 
 
-<p style="text-align:center;dont-size:20px;">As you <b>appreciate</b> your body’s <b>each and every organ's unique function</b>, you're appreciating <b>each and every part of your unique self.</b></p>
+<p style="text-align:center;dont-size:22px;padding:20px 0px;">As you <b>appreciate</b> your body’s <b>each and every organ's unique function</b>, you're appreciating <b>each and every part of your unique self.</b></p>
 
 You shall not take your physical being for granted. When you appreciate yourself, loving yourself will come naturally.
 
@@ -94,7 +94,7 @@ You shall not take your physical being for granted. When you appreciate yourself
 
 Start loving yourself by taking care of your physical body. Give your body the nutrients it needs, the fresh air it needs and the comfort it needs.
 
-<p style="text-align:center;font-size:23px;">All you need to do is to appreciate all that your body is doing for you, right in this moment.</p>
+<p style="text-align:center;font-size:20px;padding:20px 0px;">All you need to do is to appreciate all that your body is doing for you, right in this moment.</p>
 
 Even though there had been times when you felt depressed and hopeless, you stayed strong and continued fighting.
 
@@ -125,3 +125,5 @@ To conclude, here are some inspiring self-love quotes and affirmations to suppor
 <p>6. I am growing more confident in who I am every day.</p>
 <p>7. I am deserving of self-care and self-compassion.</p>
 </div>
+
+Love yourself! Be the first one to support yourself. No matter how you are, you are always worthy of love.
