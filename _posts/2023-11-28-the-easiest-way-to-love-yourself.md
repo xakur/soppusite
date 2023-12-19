@@ -6,14 +6,14 @@ thumbnail-img: /assets/img/snoopy-happy-home-mail.jpg
 categories: [life-tips, the-deep]
 tags: [life-tips, the-deep]
 readtime: true
-excerpt: We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing one's true self, and acknowledging and appreciating one's worth. So, how can we love ourselves? When you are grateful for yourself, loving yourself will come naturally.
+excerpt: We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing one's true self, and acknowledging and appreciating one's worth. So, how can you actually love yourself? What is the easiest way to love yourself?
 ---
 
 ![snoopy and his happy home](/assets/img/snoopy-happy-home-mail.jpg)
 
 <p style="font-family: 'Comic Sans MS'; font-style: italic; font-size: 24px; text-align: center; padding-bottom:15px;">“Be yourself. No one can say you are doing it wrong." - Snoopy</p>
 
-We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing your true self, and acknowledging and appreciating your worth. However, how can you _actually_ love yourself? What is the easiest way to love yourself?
+We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing your true self, and acknowledging and appreciating your worth. So, how can you _actually_ love yourself? What is the easiest way to love yourself?
 
 <p style="font-size:20px;font-weight:bold;">Self-Love starts with Self-Appreciation.</p>
 
