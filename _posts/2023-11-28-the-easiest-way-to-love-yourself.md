@@ -111,11 +111,11 @@ To conclude, here are some inspiring self-love quotes and affirmations to suppor
 
 <div style="font-family: 'Cambria'; font-style: italic; font-size: 19px; font-color:#4c4c4c;margin-bottom:45px;">
 <p>1. “Love of self: You belong to you. Sometimes your soulmate is yourself and everything you’ve been searching for, can be found deep within your own soul.” - r.h. Sin</p>
-<p>2. “You are always here, supporting yourself to go through the motions of life. Show the most love to yourself.” - Slice</p>
+<p>2. “You are always here, supporting yourself to go through the motions of life. Show the most love to yourself.” - Kai Ecils</p>
 <p>3. “Love yourself like your life depends on it.” - Kamal Ravikant</p>
 <p>4. “The most important relationship in your life is the relationship you have with yourself. Because no matter what happens, you will always be with yourself.” - Diane Von Furstenberg</p>
 <p>5. “The more you love yourself and give yourself what you need, the less you’ll demand it from others.” - R. M. Drake</p>
-<p>6. “Love and cherish yourself as you would someone dear to your heart.” - Slice</p>
+<p>6. “Love and cherish yourself as you would someone dear to your heart.” - Kai Ecils</p>
 <p>7. “The same Light you see in others is shining within you, too.” - Morgan Harper Nichols</p>
 </div>
 
