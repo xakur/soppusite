@@ -35,14 +35,11 @@ Thank you for visiting Slice of Power!
 
 ---
 
-### About the Author
+### About the Author - Kai Ecils
 
-<blockquote style="color:#484848; font-size:17px;"><i>"Corresponding to the site title, I go by the pseudonym of "Slice".</i><br/>
-<i>A Slice for your support. I want to help people through my words. Life gets rough sometimes and it can be tough to get the support you need.</i>
-<br/><br/>
-<i>Growing up, I did not have the emotional support and understanding I needed from the people around me. It was painful. Thankfully, through the supportive words of random strangers I encountered in life, I was able to heal and become stronger on my own. The enlightenment received made me realize that all I needed was myself. I want to spread the same support and message to more people. We don't need anyone else to always be by our side. We are fine on our own. Through the power of our minds.</i>
-<br/><br/>
-<i>Form your own Power, Be your own Slice of Power!"</i>  - Slice
+<blockquote style="color:#484848; font-size:17px;">
+  <p>Thank you for visiting Slice of Power! Here’s a short introduction of myself...</p>
+  <p>I’m not quite the ordinary person being brought to and raised in this world. And so, ordinary or typical words and methods don’t work very well for me. </p>
 </blockquote>
 
 ---
