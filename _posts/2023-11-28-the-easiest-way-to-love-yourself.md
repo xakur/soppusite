@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Easiest Way to Love Yourself
-share-description: Honestly, self-love is not easy. Start with appreciating your physical self. Your body and organs are worthy of your love and appreciation. Appreciate yourself, and loving yourself will come naturally. Despite all challenges, your body is still here supporting yourself!
+share-description: Honestly, self-love is not easy. The easiest way to love yourself is to appreciate your physical self. Your body and organs are worthy of your love and appreciation. Appreciate yourself, and loving yourself will come naturally. Despite all challenges, your body is still here supporting yourself!
 thumbnail-img: /assets/img/snoopy-happy-home-mail.jpg
 categories: [life-tips, the-deep]
 tags: [life-tips, the-deep]
@@ -13,7 +13,7 @@ excerpt: We often hear of how important it is to love ourselves. Self-love is es
 
 <p style="font-family: 'Comic Sans MS'; font-style: italic; font-size: 24px; text-align: center; padding-bottom:15px;">“Be yourself. No one can say you are doing it wrong." - Snoopy</p>
 
-We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing your true self, and acknowledging and appreciating your worth. When you are grateful for yourself, loving yourself will come naturally.
+We often hear of how important it is to love ourselves. Self-love is essentially a commitment to yourself—attending to personal needs and desires, embracing your true self, and acknowledging and appreciating your worth. However, how can you love yourself? What is the easiest way to love yourself?
 
 <p style="font-size:20px;font-weight:bold;">Self-Love starts with Self-Appreciation.</p>
 
