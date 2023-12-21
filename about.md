@@ -2,7 +2,7 @@
 layout: page
 title: About
 share-title: About | Slice of Power
-share-description: Slice of Power is here to provide emotional suppport to every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own independent healer, through promoting self-love and self-healing.
+share-description: Slice of Power is here to provide emotional suppport to every unique individual who has chosen to visit this site. We aim to inspire every individual to be their own independent healer, through promoting self-love and self-healing.
 subtitle: Hi there, welcome in!
 ---
 
@@ -15,7 +15,7 @@ subtitle: Hi there, welcome in!
 <p style="text-align:center;font-size:14px;"><i>– Michel De Montaigne –</i></p>
 ---
 
-**Slice of Power** is here to provide emotional suppport to every unique individual who has chosen to visit this site. We aim to inspire every indvidual to be their own independent healer, through promoting self-love and self-healing.
+**Slice of Power** is here to provide emotional suppport to every unique individual who has chosen to visit this site. We aim to inspire every inidvidual to be their own independent healer, through promoting self-love and self-healing.
 
 Power comes from within you.
 
