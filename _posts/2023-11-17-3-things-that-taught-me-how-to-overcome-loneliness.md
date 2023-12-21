@@ -115,7 +115,7 @@ Just remember that you are always the first person to support yourself, no matte
 
 No one is meant to be by your side forever. We entered this world alone, and one day, we'll depart alone. This makes it all the more important to show the utmost love to yourself.
 
-People and things in life are unpredictable. People come and go in our lives, people move, people get into fights, people stop liking you and so on. And may I add, losing people (e.g. friends) after that feels even more agonizing than being alone.
+People and things in life are unpredictable. People come and go in our lives, people move, people get into fights, people stop liking you and so on. And may I add, losing people (e.g. friends) after that feels even more agonizing than being alone. Don't worry about being alone. **What is meant for you, will always find its way to you.**
 
 **Whatever happens, only you will always be by your side.**
 
